@@ -1,0 +1,132 @@
+<head>
+    <style>
+        input[type="number"]::-webkit-inner-spin-button,
+        input[type="number"]::-webkit-outer-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <!-- Spinner Start -->
+    <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner-grow text-primary" style="width: 3rem; height: 3rem;" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+    </div>
+    <!-- Spinner End -->
+
+    {% include "header.html"%}
+
+    <!-- Page Header Start -->
+    <div class="container-fluid page-header py-5" style="margin-bottom: 6rem;">
+        <div class="container py-5">
+            <h1 class="display-3 text-white mb-3 animated slideInDown">Predict</h1>
+            <nav aria-label="breadcrumb animated slideInDown">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a class="text-white" href="/">Home</a></li>
+                    <li class="breadcrumb-item text-white active" aria-current="page">Predict</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <!-- Page Header End -->
+
+    <div class="container-fluid overflow-hidden py-5 px-lg-0">
+        <div class="container contact-page py-5 px-lg-0">
+            <div class="row g-5 mx-lg-0">
+                <div class="col-md-10 contact-form wow fadeIn" data-wow-delay="0.1s">
+                    <h6 class="text-secondary text-uppercase">Predict Your Price</h6>
+                    <h1 class="mb-4">House Price Prediction</h1>
+                    <p class="mb-4">Enter the details of your house below to predict the approximate pricing of you house.</p>
+                    <div class="bg-light p-4">
+                        <form method="POST">
+                            {% csrf_token %}
+                            <div class="row g-4">
+                                <!-- <div class="col-md-4">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="city"  name="city" placeholder="Ex:Kathmandu,Bhaktapur,Lalitpur"))" required>
+                                        <label for="city">City</label>
+                                    </div>
+                                </div> -->
+                            <div class="row g-4">
+                                <div class="col-md-4">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="land"  name="land" placeholder="Land (Sqft)" required>
+                                        <label for="land">Land Area in Square feet</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="floor" name="floor" placeholder="Floors" required>
+                                        <label for="floor">Floors</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="road" name="road" placeholder="Road Access" required>
+                                        <label for="road">Road</label>
+                                    </div>
+                                </div>
+                                <div class="col-2">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="bed" name="bed" placeholder="Bedrooms" required>
+                                        <label for="bed">Bedrooms</label>
+                                    </div>
+                                </div>
+                                <div class="col-2">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="bath" name="bath" placeholder="Bathrooms" required>
+                                        <label for="bath">Bathrooms</label>
+                                    </div>
+                                </div>
+                                <div class="col-4">
+                                    <div class="form-floating">
+                                        <select class="form-select" id="face" name="face" required>
+                                            <option value="" disabled selected>Choose a facing</option>
+                                            {% for face in faces %}
+                                                <option value="{{ face }}">{{ face }}</option>
+                                            {% endfor %}
+                                        </select>
+                                        <label for="face">Facing</label>
+                                
+                                    </div>
+                                </div>
+                                <div class="col-6">
+                                    <div class="form-floating">
+                                        <select class="form-select" id="address" name="address" required>
+                                            <option value="" disabled selected>Choose a Address</option>
+                                            {% for address in addresses %}
+                                                <option value="{{ address }}">{{ address }}</option>
+                                            {% endfor %}
+                                        </select>
+                                        <label for="address">Address</label>
+                                    </div>
+                                </div> 
+                                <div class="col-12">
+                                    <button class="btn btn-primary w-100 py-3" type="submit">Predict</button>
+                                </div>                                                            
+                            </div>
+                        </form>
+                        <div class="col-12">
+                            <div class="form-floating">
+                                <h4>Your Predicted House price is रू. {{price}}</h4>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    {% include "footer.html"%}
+
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-0 back-to-top"><i class="bi bi-arrow-up"></i></a>
+
+</body>
+
+</html>

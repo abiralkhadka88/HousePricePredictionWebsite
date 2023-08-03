@@ -1,0 +1,38 @@
+<body>
+    <!-- Team Start -->
+    <div class="container-xxl py-5">
+        <div class="container py-5">
+            <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                <h6 class="text-secondary text-uppercase">Our Team</h6>
+                <h1 class="mb-5">Baastavik Sampati Members</h1>
+            </div>
+            <div class="row g-4">
+                
+                {% for n in teamdata %}
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="team-item p-4">
+                        <div class="overflow-hidden mb-4">
+                            <img class="img-fluid" src="/{{n.team_image}}" alt="">
+                        </div>
+                        <h5 class="mb-0">{{n.team_name}}</h5>
+                        <p>{{n.team_address}}</p>
+                        <div class="btn-slide mt-1">
+                            <i class="fa fa-share"></i>
+                            <span>
+                                <a href=""><i class="fab fa-facebook-f"></i></a>
+                                <a href=""><i class="fab fa-twitter"></i></a>
+                                <a href=""><i class="fab fa-instagram"></i></a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+
+            </div>
+        </div>
+    </div>
+
+    {% include "footer.html"%}
+</body>
+
+</html>

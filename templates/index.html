@@ -1,0 +1,92 @@
+{% include "header.html"%}
+
+<body>
+    <!-- Spinner Start -->
+    <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner-grow text-primary" style="width: 3rem; height: 3rem;" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+    </div>
+    <!-- Spinner End -->
+
+    <!-- Carousel Start -->
+    <div class="container-fluid p-0 pb-5">
+        <div class="owl-carousel header-carousel position-relative mb-5">
+            <div class="owl-carousel-item position-relative">
+                <img class="img-fluid" src="/static/img/estate.jpg" alt="">
+                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(6, 3, 21, .5);">
+                    <div class="container">
+                        <div class="row justify-content-start">
+                            <div class="col-10 col-lg-8">
+                                <h5 class="text-white text-uppercase mb-3 animated slideInDown">Real estate Solution</h5>
+                                <h1 class="display-3 text-white animated slideInDown mb-4">#1 Place For Your <span class="text-primary">House Pricing</span> Solution</h1>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-2">The house price prediction website utilizes advanced algorithms and historical data to provide accurate and reliable estimates of property values.</p>
+                                <a href="/predict" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Predict</a>
+                                <a href="/about" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">About</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="owl-carousel-item position-relative">
+                <img class="img-fluid" src="static/img/estates.jpg" alt="">
+                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(6, 3, 21, .5);">
+                    <div class="container">
+                        <div class="row justify-content-start">
+                            <div class="col-10 col-lg-8">
+                                <h5 class="text-white text-uppercase mb-3 animated slideInDown">Housing Prices Solution</h5>
+                                <h1 class="display-3 text-white animated slideInDown mb-4">#1 Place For Your <span class="text-primary">House Pricing</span> Solution</h1>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-2">The house price prediction website leverages machine learning techniques to analyze market trends and provide users with insightful forecasts on property values.</p>
+                                <a href="/predict" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Predict</a>
+                                <a href="/about" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">About</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Carousel End -->
+    
+    <!-- Team Start -->
+    <div class="container-xxl py-5">
+        <div class="container py-5">
+            <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                <h6 class="text-secondary text-uppercase">Our Team</h6>
+                <h1 class="mb-5">Baastavik Sampati Members</h1>
+            </div>
+            <div class="row g-4">
+                
+                {% for n in teamdata %}
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="team-item p-4">
+                        <div class="overflow-hidden mb-4">
+                            <img class="img-fluid" src="/{{n.team_image}}" alt="">
+                        </div>
+                        <h5 class="mb-0">{{n.team_name}}</h5>
+                        <p>{{n.team_address}}</p>
+                        <div class="btn-slide mt-1">
+                            <i class="fa fa-share"></i>
+                            <span>
+                                <a href="/"><i class="fab fa-facebook-f"></i></a>
+                                <a href="/"><i class="fab fa-twitter"></i></a>
+                                <a href="/"><i class="fab fa-instagram"></i></a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+
+            </div>
+        </div>
+    </div>
+
+
+
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-0 back-to-top"><i class="bi bi-arrow-up"></i></a>
+
+    {% include "footer.html"%}
+</body>
+
+</html>

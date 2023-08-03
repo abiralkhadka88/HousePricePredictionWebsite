@@ -1,0 +1,2624 @@
+Price,Address,Floor,Bathroom,Bedroom,Land,Road,Face
+60000000,Thapathali,2.5,2,5,2395.75,13,West
+21500000,Thapathali,2.5,4,5,1197.875,13,West
+31000000,Thapathali,3,3,6,1283.43,13,West
+40100000,Thapathali,2,2,5,1689.859375,14,East
+44500000,Thapathali,3,3,6,2121.95,12,South
+60000000,Thapathali,2,4,5,2395.75,14,East
+19500000,Sundarbasti,3,3,5,1197.875,13,East
+26500000,Sundarbasti,3,5,6,1796.8125,12,East
+27500000,Sundarbasti,3,4,6,1775.421875,13,South East
+31500000,Sundarbasti,2,4,5,1967.9375,14,East
+33800000,Sundarbasti,2.5,3,4,1095.2,13,East
+39000000,Sundarbasti,2.5,3,5,1711.25,13,North East
+23000000,Old Baneshwor,3,3,3,1369,13,West
+52500000,Old Baneshwor,2.5,3,3,2224.625,13,West
+39000000,Old Baneshwor,3,5,6,1369,13,East
+65000000,Old Baneshwor,3,3,5,1779.7,13,West
+75000000,Old Baneshwor,3,4,3,2156.175,13,West
+55000000,Old Baneshwor,2.5,3,5,1711.25,13,West
+23000000,Ochu Height,2.5,3,4,1026.75,13,West
+24500000,Ochu Height,2.5,4,5,1095.2,13,South
+27000000,Ochu Height,2.5,3,5,1095.2,13,South
+33000000,Ochu Height,2.5,4,6,1129.425,16,South
+35000000,Ochu Height,2.5,4,6,2053.5,20,West
+41000000,Ochu Height,3.5,6,8,1711.25,13,East
+45000000,Naya Bazar,2.5,3,5,1454.56,13,West
+27500000,Naya Bazar,2.5,3,5,855.62,13,West
+75000000,Naya Bazar,2.5,4,5,1711.25,13,West
+35000000,Naya Bazar,3,4,3,884.04,20,East
+29000000,Naya Naikap,3,5,6,1967.9375,13,West
+19500000,Naya Naikap,3,3,3,1369,13,West
+21000000,Naya Naikap,3,3,3,1369,13,West
+19500000,Naya Naikap,3,2,3,1369,13,West
+29000000,Naya Naikap,3.5,4,7,1454.5625,13,South East
+35000000,Naya Naikap,3.5,5,6,1711.25,13,South East
+35000000,Naya Bazar,3,5,5,1711.25,20,East
+40000000,Naya Bazar,3,4,3,1026.75,20,East
+16500000,Gurjudhara,2.5,3,4,1069.53,16,East
+17000000,Gurjudhara,2,3,6,1454.5625,11,South East
+18500000,Gurjudhara,3,3,4,1437.45,10,East
+18500000,Gurjudhara,3,3,4,1540.12,10,East
+25000000,Gurjudhara,3.5,3,5,1403.225,13,West
+29000000,Gurjudhara,2.5,3,5,2053.5,10,South East
+25000000,Dallu,3,3,2,1197.875,13,West
+50000000,Dallu,3,2,3,1026.75,13,West
+29000000,Dallu,3,4,8,1155.09375,20,West
+41000000,Dallu,3,3,6,1026.75,16,South
+55000000,Dallu,3,3,7,2481.3125,14,South
+55000000,Dallu,3,3,3,1711.25,13,West
+16000000,Changunarayan,3,3,2,1026.75,14,East
+18000000,Changunarayan,3,3,5,1048.140625,13,South East
+21000000,Changunarayan,3.5,3,8,1090.92,10,East
+31000000,Changunarayan,2.5,4,5,1304.82,10,North
+31000000,Changunarayan,2.5,3,4,1129.425,10,North
+25000000,Changunarayan,2.5,2,4,3165.81,13,West
+14500000,Lamatar,3,3,3,1026.75,13,West
+16000000,Lamatar,3,3,3,1026.75,13,West
+13800000,Lamatar,2.5,3,5,1026.75,13,West
+15500000,Lamatar,2.5,2,3,1369,20,West
+17500000,Lamatar,2.5,3,2,1197.87,13,South
+21000000,Lamatar,2.5,3,7,1369,13,West
+19500000,Lamatar,3,2,3,1197.875,13,West
+14800000,Khadka Tole,3,2,4,1112.3125,13,West
+20000000,Khadka Tole,3,3,6,1026.75,13,West
+27500000,Khadka Tole,3,4,5,1369,13,West
+14200000,Khadka Tole,2.5,2,5,1026.75,20,North East
+27500000,Khadka Tole,3,3,6,1711.25,13,West
+16500000,Khadka Tole,2.5,3,2,1711.25,13,West
+18000000,Khadka Tole,2.5,3,4,855.62,13,West
+16500000,Godawari,3,3,6,2395.75,13,West
+12500000,Godawari,2,1,3,1711.25,16,West
+17500000,Godawari,2,3,6,1060.975,11,West
+17500000,Godawari,3,4,7,1369,20,East
+21000000,Godawari,2,3,6,1540.125,18,South East
+55000000,Godawari,2.5,4,4,2144.897812,16,North
+25000000,Godawari,2.5,4,2,1754.03,13,West
+19000000,Chunikhel,3,3,5,1026.75,13,West
+16000000,Chunikhel,2,1,2,1060.975,13,North
+19500000,Chunikhel,2.5,3,4,752.95,10,South West
+19500000,Chunikhel,2.5,3,4,898.4,10,South West
+25000000,Chunikhel,3.5,3,7,1026.75,10,South
+28500000,Chunikhel,2.5,5,6,1403.225,13,South
+30000000,Chunikhel,3,5,6,1129.425,13,South East
+46000000,Chandol,3,3,5,1779.7,13,West
+37500000,Chandol,3,3,5,1369,13,West
+24500000,Chandol,2,3,4,1197.875,13.124,East
+33500000,Chandol,3,5,4,1369,16,East
+35000000,Chandol,2,4,5,1369,12,North
+36000000,Chandol,2.5,3,7,1711.25,12,North
+41500000,Chandol,3,3,7,1796.81,13,West
+32000000,Battisputali,3,3,5,1540.12,13,West
+50000000,Battisputali,2.5,3,5,1437.45,13,West
+60000000,Battisputali,2.5,3,5,2772.225,13,West
+87500000,Battisputali,2.5,4,6,2738,13,West
+85000000,Battisputali,3,4,5,2738,13,West
+33000000,Battisputali,3.5,1,6,1540.125,20,West
+43000000,Battisputali,3,6,6,1540.125,15,South
+29000000,Bagdol,2.5,4,4,1711.25,15,South
+54000000,Bagdol,2.5,4,7,1813.925,20,South East
+23000000,Bagdol,2.5,2,4,1026.75,13,West
+35000000,Bagdol,3,4,5,1882.375,13,West
+23500000,Bagdol,3,3,3,1026.75,13,West
+60000000,Bagdol,2.5,2,3,2053.5,13,West
+19500000,Bagdol,2,4,4,1262.046875,20,West
+22000000,Siddhipur,2.5,3,4,1026.75,20,North
+23000000,Siddhipur,3,4,4,1026.75,13,West
+25500000,Siddhipur,3,4,5,1026.75,13,West
+22000000,Siddhipur,3,3,4,1026.75,13,West
+29000000,Siddhipur,3,4,5,1369,13,West
+25000000,Siddhipur,2.5,5,7,1369,13,West
+19000000,Siddhipur,2.5,4,6,1369,13,West
+29500000,Siddhipur,3,5,6,1369,13,West
+28500000,Raniban,3,4,6,1197.875,13,West
+23500000,Raniban,2.5,3,5,1540.125,10,West
+28000000,Raniban,2.5,4,6,1900,20,South
+30000000,Raniban,2,3,3,1026.75,13,West
+31000000,Raniban,3.5,5,6,1437.45,14,South West
+33500000,Raniban,3,3,7,2053.5,14,East
+36000000,Raniban,2.5,5,6,1026.75,20,East
+47500000,Raniban,3,5,5,1711.25,13,South
+79000000,Naxal,3,4,5,3422.5,13,West
+52000000,Naxal,2.5,5,6,1369,13,West
+87500000,Naxal,3.5,4,4,3336.9375,13,West
+55000000,Naxal,2.5,3,3,1369,13,West
+77500000,Naxal,3,3,4,3251.375,13,West
+60000000,Naxal,2.5,3,5,1711.25,13,West
+50000000,Naxal,2.5,5,5,1369,13,West
+50000000,Naxal,2.5,3,5,1403.225,13,West
+24500000,Koteshwor,3.5,3,8,855.625,13,West
+30000000,Koteshwor,3,3,6,1369,15,North
+38000000,Koteshwor,3,4,6,1711.25,13,West
+41500000,Koteshwor,3.5,4,1,1026.75,10,East
+48000000,Koteshwor,3.5,4,5,2738,10,East
+60000000,Koteshwor,3.5,4,7,3148.7,20,South East
+65000000,Koteshwor,3.5,3,6,3148.7,16,South East
+42500000,Koteshwor,2.5,4,6,1454.56,13,West
+26000000,Ganesh Chowk,2.5,4,6,1369,14,East
+32000000,Ganesh Chowk,2.5,5,5,1437.45,15,South West
+32500000,Ganesh Chowk,2.5,5,5,1197.875,14,South West
+35000000,Ganesh Chowk,2.5,5,5,1711.25,13,South
+35000000,Ganesh Chowk,2.5,4,5,1369,13,East
+45000000,Ganesh Chowk,2.5,4,5,1779.7,13,South West
+58000000,Ganesh Chowk,3.5,3,8,2053.5,20,North
+62000000,Ganesh Chowk,2.5,5,6,2087.725,15,South
+25000000,Thankot,2.5,3,2,1369,13,West
+29500000,Thankot,3,3,5,1796.81,13,West
+14500000,Thankot,2.5,3,2,1026.75,13,South East
+16500000,Thankot,2,1,5,1060.975,13,West
+17500000,Thankot,3,2,5,1369,16,South
+22000000,Thankot,2.5,3,6,1711.25,10,West
+26000000,Thankot,2.5,4,5,1369,13,North East
+27600000,Thankot,3,3,4,1711.25,20,East
+30000000,Thankot,2.5,3,8,1882.37,10,South East
+26000000,Sipadol,3,3,5,1369,13,West
+16500000,Sipadol,3,3,8,1304.82,13,West
+19000000,Sipadol,3,3,7,1197.875,10,East
+19000000,Sipadol,3.5,4,7,1026.75,20,West
+19500000,Sipadol,3,3,6,1197.875,10,East
+23000000,Sipadol,2.5,3,5,1403.225,12,South West
+23000000,Sipadol,2.5,3,5,1561.51,12,South West
+37500000,Sipadol,3,4,7,1540.125,20,North
+48000000,Sipadol,3.5,5,7,2053.5,15,West
+23500000,Naya Basti,2,1,1,1711.25,10,South
+26000000,Naya Basti,2.5,4,5,1069.53,13,North East
+27500000,Naya Basti,2.5,4,5,1197.87,13,East
+32000000,Naya Basti,2.5,4,5,1283.43,20,West
+35500000,Naya Basti,3.5,5,7,1903.76,12,East
+38500000,Naya Basti,2.5,5,6,1433.17,20,East
+26000000,Naya Basti,2.5,2,5,1095.2,10,North
+28000000,Naya Basti,3,5,7,1711.25,10,East
+35000000,Naya Basti,2.5,4,5,1711.25,20,West
+25000000,Narayantar,3,3,6,1197.875,13,West
+24000000,Narayantar,3,3,5,1197.875,13,West
+24000000,Narayantar,2.5,3,5,1197.875,13,West
+40000000,Narayantar,2.5,3,5,1540.125,13,West
+19000000,Narayantar,3,3,6,1026.75,12,South East
+24000000,Narayantar,3,3,6,1026.75,11,South
+27500000,Narayantar,2.5,4,3,1437.45,18,East
+30000000,Narayantar,3,3,6,1095.2,13,South
+37500000,Narayantar,2.5,4,7,1095.2,16,South West
+26000000,Kageshwori Manohara,3,4,6,1197.875,13,West
+29000000,Kageshwori Manohara,2.5,4,6,1711.25,13,West
+12500000,Kageshwori Manohara,3,3,4,705.890625,10,East
+15000000,Kageshwori Manohara,2.5,3,6,1026.75,10,North
+18500000,Kageshwori Manohara,3,3,6,1048.140625,13,South West
+24000000,Kageshwori Manohara,2.5,3,6,1197.875,20,East
+25500000,Kageshwori Manohara,3,3,5,1026.75,13,West
+26500000,Kageshwori Manohara,3,3,6,1369,13,East
+27000000,Kageshwori Manohara,2.5,3,6,1197.87,13,North
+29500000,Swayambhu,2.5,3,7,855.625,13,West
+39900000,Swayambhu,3,4,6,1369,13,West
+20600000,Swayambhu,3,3,5,1112.3125,13,North East
+21000000,Swayambhu,2,2,4,1112.3125,18,South
+23500000,Swayambhu,3,5,6,1026.75,13,East
+34000000,Swayambhu,3,3,6,1369,12,South
+37000000,Swayambhu,3,5,8,1860.984375,12,South
+39000000,Swayambhu,3,5,5,2395.75,14,East
+47500000,Swayambhu,3.5,5,8,1711.25,13,East
+50000000,Swayambhu,2,3,5,2053.5,13,South
+17000000,Naikap,2,5,5,941.1875,13,East
+20000000,Naikap,2.5,2,4,1060.975,10,North
+22500000,Naikap,3,3,5,1369,13,East
+22500000,Naikap,2,4,5,1369,14,North East
+26000000,Naikap,2.5,3,3,1369,13,East
+27500000,Naikap,2.5,3,5,1369,13,South East
+27500000,Naikap,2.5,5,6,1369,13,East
+29500000,Naikap,3,2,5,2374.359375,15,South
+44000000,Naikap,3,3,3,2738,20,East
+47500000,Naikap,3,6,7,2806.45,13,North
+60000000,Manamaiju,2.5,4,4,3336.9375,13,West
+13500000,Manamaiju,3,3,4,855.625,10,East
+16000000,Manamaiju,2.5,2,5,1069.53,10,East
+17000000,Manamaiju,3,3,5,1026.75,14,West
+25000000,Manamaiju,2.5,3,6,1437.45,12,South West
+25500000,Manamaiju,3.5,4,7,1283.4375,14,East
+26000000,Manamaiju,3,4,8,1411.78125,16,South
+28000000,Manamaiju,3.5,6,8,1060.975,11,East
+38000000,Manamaiju,3.5,4,9,1369,12,South
+73500000,Manamaiju,3.5,3,4,3114.475,13,South East
+33000000,Makalbari,2,2,3,2738,13,West
+42500000,Makalbari,3,3,5,1454.5625,13,West
+35000000,Makalbari,2.5,4,4,2053.5,13,West
+16000000,Makalbari,2.5,3,3,1197.875,10,East
+17000000,Makalbari,3.5,5,6,752.95,12,North East
+18000000,Makalbari,2.5,3,5,1069.53125,12,East
+19500000,Makalbari,2.5,3,5,1026.75,13,West
+20000000,Makalbari,2.5,3,7,1475.953125,10,West
+27500000,Makalbari,3,3,8,1129.425,12,South East
+28000000,Makalbari,2.5,4,5,1369,10,South
+35000000,Kadaghari,3,4,5,1437.45,13,West
+19000000,Kadaghari,3.5,3,6,1048.140625,13,South
+21000000,Kadaghari,2.5,4,6,1112.3125,13,West
+21500000,Kadaghari,3,3,6,1283.4375,13,East
+23500000,Kadaghari,2.5,4,6,1369,20,South East
+26000000,Kadaghari,2.5,3,5,1026.75,13,South West
+27000000,Kadaghari,2.5,3,6,1095.2,13,North
+27000000,Kadaghari,3,3,6,1197.875,13,North
+29500000,Kadaghari,3,3,6,1369,13,South
+36000000,Kadaghari,3.5,4,6,1197.875,13,South East
+16500000,Goldhunga,2.5,3,6,1026.75,10,South East
+17000000,Goldhunga,2.5,3,5,1129.425,10,South
+17800000,Goldhunga,3,3,9,1197.875,13,East
+19500000,Goldhunga,2.5,5,4,1369,10,North East
+20000000,Goldhunga,2.5,3,6,1403.225,10,West
+20500000,Goldhunga,2.5,3,4,1026.75,16,East
+29500000,Goldhunga,3.5,4,8,1500,10,West
+29900000,Goldhunga,3.5,4,8,1540.125,10,West
+29900000,Goldhunga,3.5,4,8,1711.475,10,West
+32000000,Goldhunga,2.5,4,4,1369,20,North
+32500000,Deuba Chowk,2.5,5,5,1403.225,14,South West
+36000000,Deuba Chowk,2.5,5,5,2053.5,16,East
+36500000,Deuba Chowk,2.5,3,3,2395.75,13,East
+37500000,Deuba Chowk,2.5,3,5,1711.25,13,South
+43500000,Deuba Chowk,3,4,6,2053.5,13,North
+45000000,Deuba Chowk,2.5,4,5,1471.675,13,South
+47000000,Deuba Chowk,2.5,5,4,2053.5,15,South
+49500000,Deuba Chowk,2.5,5,8,2738,13,East
+52500000,Deuba Chowk,3,4,8,2738,12,East
+55000000,Deuba Chowk,2.5,4,8,2738,12,East
+40000000,Chappal Karkhana,2.5,4,5,1369,13,West
+48000000,Chappal Karkhana,2.5,5,5,1369,13,West
+55600000,Chappal Karkhana,3,5,6,2053.5,13,West
+49000000,Chappal Karkhana,2.5,5,5,1711.25,13,West
+27000000,Chappal Karkhana,3,4,3,1026.75,13,West
+32000000,Chappal Karkhana,3,5,4,1026.75,13,South West
+32000000,Chappal Karkhana,2.5,5,4,1026.75,13,South West
+35000000,Chappal Karkhana,3.5,4,4,1026.75,16,South
+40000000,Chappal Karkhana,3.5,4,7,1839.59375,12,North
+75000000,Chappal Karkhana,2.5,6,5,2840.675,13,South
+35000000,Chappal Karkhana,2.5,4,6,1625.6875,13,West
+42500000,Boudha,2.5,4,7,1796.81,13,West
+35000000,Boudha,3,5,5,1711.25,13,West
+34000000,Boudha,2.5,3,6,1197.875,13,West
+28000000,Boudha,2.5,4,5,1026.75,13,West
+17000000,Boudha,3.5,4,7,727.28,10,South East
+20531250,Boudha,3,3,4,1561.515625,16,South West
+21000000,Boudha,2.5,3,9,855.62,13,South West
+26500000,Boudha,2.5,3,5,1262.046875,13,North
+27000000,Boudha,3.5,4,4,1369,13,East
+35000000,Boudha,2.5,4,5,1754.03125,20,West
+30000000,Boudha,3.5,4,9,1369,13,West
+39500000,Thulo Bharyang,2.5,4,8,1369,13,West
+17500000,Thulo Bharyang,2.5,4,4,513.375,13,West
+24000000,Thulo Bharyang,2.5,3,3,1026.75,13,West
+19900000,Thulo Bharyang,2.5,3,5,855.62,12,South West
+22000000,Thulo Bharyang,2.5,3,4,1129.425,13,South East
+22700000,Thulo Bharyang,3,2,5,1454.5625,12,West
+30000000,Thulo Bharyang,2.5,3,4,1026.75,13,West
+32500000,Thulo Bharyang,3,4,5,1197.875,13,South
+39000000,Thulo Bharyang,3,5,5,2395.75,15,East
+41000000,Thulo Bharyang,3,2,3,1711.25,13,West
+22500000,Thulo Bharyang,3,3,5,1026.75,13,West
+33000000,Thulo Bharyang,2.5,5,6,1540.125,13,West
+28000000,Satungal,3,3,5,1369,13,West
+29500000,Satungal,3,3,3,1437.45,13,West
+22000000,Satungal,3,3,5,1668.46,13,West
+28000000,Satungal,3,3,4,1711.25,13,West
+12000000,Satungal,2.5,2,8,906.9625,13,West
+21000000,Satungal,2.5,4,4,1026.75,13,West
+18000000,Satungal,2.5,4,5,1240.65625,13,East
+21000000,Satungal,3,3,7,1026.75,13,South East
+22500000,Satungal,2.5,3,4,1732.64,16,East
+23000000,Satungal,3.5,4,6,1197.875,14,North East
+29000000,Satungal,3.5,5,8,1369,20,North East
+29500000,Satungal,2.5,4,4,1437.45,13,North West
+22500000,Satdobato,3,3,6,1026.75,13,West
+35000000,Satdobato,3,2,2,1369,13,West
+35000000,Satdobato,3,4,5,1369,13,West
+26000000,Satdobato,3,3,4,1026.75,13,West
+28000000,Satdobato,2.5,4,5,1369,13,West
+20000000,Satdobato,3,4,5,1048.140625,16,North
+25000000,Satdobato,2.5,3,5,2053.5,10,North
+26000000,Satdobato,2.5,3,4,1026.75,13,East
+32500000,Satdobato,3,4,5,1625.6875,10,South East
+45000000,Satdobato,2.5,5,5,2087.725,13,West
+56000000,Satdobato,2.5,3,5,2738,13,West
+47500000,Satdobato,3,3,5,2087.725,13,West
+14000000,Bhaktapur,2,2,3,1095.2,14,West
+17000000,Bhaktapur,2,2,4,1369,10,East
+20000000,Bhaktapur,3,3,4,1026.75,20,South East
+21500000,Bhaktapur,3,1,9,2053.5,20,West
+32500000,Bhaktapur,2,4,4,2395.75,20,South
+16000000,Bhaktapur,2.5,2,4,790.5975,13,West
+14000000,Bhaktapur,3.5,2,2,855.625,13,West
+27500000,Bhaktapur,3.5,3,3,1711.25,13,West
+27500000,Bhaktapur,3.5,3,3,1711.25,13,West
+43000000,Bhaktapur,3.5,4,5,2395.75,13,West
+34500000,Bhaktapur,2.5,3,4,1711.25,13,West
+13500000,Bhaktapur,2.5,2,3,1197.87,13,West
+75000000,Balaju,2.5,3,5,2738,13,West
+37500000,Balaju,2.5,3,5,1197.87,13,West
+40000000,Balaju,3,4,7,1711.25,13,West
+17500000,Balaju,2,2,4,1711.25,12,East
+14200000,Balaju,2,2,5,1240.65625,13,North West
+25000000,Balaju,3,3,3,2053.5,14,South
+26000000,Balaju,2.5,3,4,1540.125,13,East
+26000000,Balaju,2,3,4,1796.8125,13,East
+38000000,Balaju,3,5,8,1369,13,West
+13500000,Balaju,3,2,4,855.625,13,West
+13500000,Balaju,3,2,4,855.625,13,West
+28500000,Balaju,3,3,6,1197.875,13,West
+50000000,Aakasedhara,2.5,3,5,1711.25,13,West
+71500000,Aakasedhara,2.5,4,4,2738,13,West
+31500000,Aakasedhara,2.5,5,6,1711.25,12,South West
+16000000,Aakasedhara,2.5,2,6,1112.31,13,West
+38000000,Aakasedhara,2.5,2,4,2395.75,13,West
+21000000,Aakasedhara,3,4,9,1369,13,West
+25000000,Aakasedhara,3,4,6,1369,13,West
+27500000,Aakasedhara,3,3,5,1711.25,13,West
+27000000,Aakasedhara,3,3,3,2053.5,13,West
+19500000,Aakasedhara,2.5,5,7,1026.75,13,West
+58000000,Aakasedhara,2,3,4,684.5,13,West
+26000000,Aakasedhara,3,4,4,1060.975,13,West
+35000000,Rudreshwor,2.5,5,5,1711.25,13,West
+37500000,Rudreshwor,2.5,3,7,1711.25,18,North West
+42000000,Rudreshwor,2.5,5,5,2464.2,14,South
+42500000,Rudreshwor,2.5,5,5,2738,13,East
+45000000,Rudreshwor,3,5,5,2738,20,East
+48000000,Rudreshwor,2.5,3,4,2738,16,North East
+49000000,Rudreshwor,2.5,6,5,1745.475,13,East
+50000000,Rudreshwor,2.5,5,4,1745.475,13,South
+50000000,Rudreshwor,3,5,4,1745.475,16,East
+55000000,Rudreshwor,2.5,5,4,3080.25,20,South East
+57500000,Rudreshwor,2.5,5,5,2053.5,15,South
+59500000,Rudreshwor,3,5,5,2053.5,13,South
+68000000,Rudreshwor,2.5,4,5,2156.175,14,East
+31500000,Chabahil,3,4,6,1369,13,West
+24000000,Gongabu,3,3,6,1026.75,13,West
+25000000,Hepali,3,5,5,941.1875,13,West
+75000000,Hepali,3,3,4,2909.125,13,West
+52000000,Hepali,3,3,5,1882.375,13,West
+53000000,Hepali,2.5,4,5,1882.375,13,West
+52000000,Hepali,2.5,3,3,1882.375,13,West
+26000000,Hepali,2.5,5,4,1026.75,20,North
+33500000,Hepali,2.5,5,4,1369,13,North East
+37500000,Hepali,2,1,6,1754.03,14,North East
+38000000,Hepali,2.5,4,4,2121.95,16,South East
+43000000,Hepali,2.5,4,4,1711.25,16,South East
+45000000,Hepali,3,3,3,1437.45,20,South West
+46500000,Hepali,3,6,6,1471.675,13,West
+55000000,Hepali,2.5,5,5,1779.7,15,North East
+23000000,Gongabu,2.5,4,6,1369,13,West
+35000000,Gongabu,2.5,3,5,1060.975,13,West
+22500000,Gongabu,3.5,3,6,1437.45,10,East
+23750000,Gongabu,3.5,5,6,1069.53,12,East
+26000000,Gongabu,2.5,3,4,1197.875,13,North
+35000000,Gongabu,3,3,4,128.8,12,South
+35000000,Gongabu,3.5,3,5,1369,12,South
+35000000,Gongabu,3.5,5,8,1411.78,12,South
+37000000,Gongabu,2,2,4,1711.25,10,West
+37000000,Gongabu,3.5,4,8,1711.25,13,North East
+37000000,Gongabu,2,2,4,1711.25,10,West
+37500000,Gongabu,3.5,3,8,1060.975,10,West
+43500000,Chabahil,3,4,5,2395.75,13,West
+13500000,Chabahil,3,3,6,684.5,20,North
+23500000,Chabahil,2.5,3,5,1069.53125,13,North East
+29500000,Chabahil,2.5,4,5,1369,13,East
+32000000,Chabahil,3,6,8,1437.45,20,West
+37000000,Chabahil,3,4,5,1369,12,South West
+49500000,Chabahil,3,5,5,1796.8125,14,East
+50000000,Chabahil,2,4,4,1796.8125,16,East
+31000000,Chabahil,3,3,6,1197.875,13,West
+51000000,Chabahil,2.5,5,6,1813.925,13,West
+24500000,Chabahil,2.5,3,4,1347.6,13,West
+75000000,Chabahil,2.5,3,8,3080.25,13,West
+40000000,Sanobharyang,2.5,2,4,2566.87,13,West
+23500000,Sanobharyang,3,3,5,1026.75,15,East
+50000000,Sanobharyang,3,3,5,2053.5,13,South East
+36000000,Sanobharyang,3,3,5,1095.2,13,West
+22000000,Sanobharyang,2,2,8,1796.8125,14,East
+22500000,Sanobharyang,3,3,5,1112.3125,14,East
+22500000,Sanobharyang,3,5,6,1112.3125,14,East
+23000000,Sanobharyang,2.5,4,6,1197.875,13,West
+23000000,Sanobharyang,3,3,5,1112.3125,14,East
+31500000,Sanobharyang,2,2,7,1347.609375,16,North
+36000000,Sanobharyang,3,3,7,1454.5625,16,West
+42500000,Sanobharyang,3.5,7,6,1903.76,20,South West
+45000000,Sanobharyang,2.5,5,4,1711.25,20,North
+29000000,Sanobharyang,2.5,4,7,1732.64,20,West
+22000000,Ramkot,3,3,5,1369,13,West
+44900000,Ramkot,3,4,3,2352.96,13,West
+42900000,Ramkot,3,4,4,1958.9462,13,West
+52300000,Ramkot,2.5,4,5,2160.8778,13,West
+54100000,Ramkot,2.5,4,4,2448.7972,13,West
+49999999,Ramkot,2.5,5,3,2213.4972,13,West
+51000000,Ramkot,2.5,3,3,1176.48,13,West
+15500000,Ramkot,2,2,4,1369,20,North
+16800000,Ramkot,2.5,2,5,1369,16,West
+17500000,Ramkot,2.5,3,3,1129.425,10,South East
+17500000,Ramkot,2,2,4,1711.25,20,North
+19000000,Ramkot,2.5,4,2,1197.875,13,South
+19000000,Ramkot,3,3,4,1326.21875,20,East
+23000000,Ramkot,2.5,4,5,1129.425,10,North West
+70000000,Maharajgunj,3.5,4,5,2053.5,13,West
+72500000,Maharajgunj,3.5,5,5,3251.375,13,West
+45000000,Maharajgunj,3,3,5,3080.25,13,West
+24000000,Maharajgunj,2,2,4,1369,13,East
+24000000,Maharajgunj,2,2,4,1369,14,East
+48000000,Maharajgunj,2.5,5,7,2738,10,South
+48000000,Maharajgunj,3,6,7,2738,10,South
+55000000,Maharajgunj,2,3,4,2738,14,South East
+56000000,Maharajgunj,3,5,5,2738,15,South
+62500000,Maharajgunj,2,6,5,2481.3125,15,East
+65000000,Maharajgunj,2.5,5,8,2844.95,14,East
+65000000,Maharajgunj,3,6,5,2481.3125,15,East
+67500000,Maharajgunj,3,5,5,3080.25,20,South East
+70000000,Maharajgunj,3,5,5,3080.25,13,North
+25000000,Lubhu,3,3,4,1026.75,13,West
+19500000,Lubhu,2.5,4,5,1026.75,13,West
+23500000,Lubhu,3,3,5,1026.75,13,West
+17000000,Lubhu,2.5,3,4,1026.75,13,West
+11000000,Lubhu,3,4,3,1112.3125,11,South East
+14500000,Lubhu,2,3,4,1775.421875,13,South East
+17000000,Lubhu,2.5,2,5,752.95,13,North East
+17000000,Lubhu,2.5,2,6,752.95,13,North East
+17000000,Lubhu,2.5,3,5,1197.875,20,South
+19000000,Lubhu,2.5,3,5,1000,13,East
+22000000,Lubhu,2.5,4,5,1026.75,13,South
+23500000,Lubhu,2,6,6,1262.046875,20,South
+27500000,Lubhu,3,2,4,1711.25,13,West
+55000000,Lubhu,3.5,5,7,2053.5,16,North East
+30000000,Kirtipur,2.5,3,4,1711.25,13,West
+27000000,Kirtipur,3,4,4,1403.225,13,West
+25000000,Kirtipur,3,4,4,2053.5,13,West
+28700000,Kirtipur,2.5,4,3,1026.75,13,West
+35000000,Kirtipur,3,4,5,2086.356,13,West
+31500000,Kirtipur,3,4,5,1715.4939,13,West
+40000000,Kirtipur,3,4,5,2429.975,13,West
+25000000,Kirtipur,3,3,5,1369,13,West
+57000000,Kirtipur,2,4,5,2566.87,20,East
+18000000,Kirtipur,2.5,3,3,1026.75,13,West
+15000000,Kirtipur,2.5,2,3,941.1875,13,West
+17000000,Kirtipur,3,3,6,1283.4375,12,South East
+18000000,Kirtipur,2,4,4,2053.5,20,South East
+18000000,Kirtipur,2.5,4,4,2053.5,20,South East
+20000000,Banasthali,2.5,2,5,1026.75,13,West
+31500000,Banasthali,3,4,5,1060.975,13,West
+23500000,Banasthali,2.5,3,3,855.625,13,West
+22500000,Banasthali,2,3,4,1026.75,15,East
+26000000,Banasthali,2.5,3,5,1437.45,16,South
+27500000,Banasthali,2.5,5,5,1369,13,South
+29500000,Banasthali,2.5,3,4,1026.75,10,East
+31000000,Banasthali,2.5,4,4,1369,12,South
+34000000,Banasthali,3.5,5,6,1369,13,East
+34000000,Banasthali,3,4,6,1369,13,East
+35000000,Banasthali,3.5,4,6,787.175,15,South West
+39500000,Banasthali,3,6,5,1967.9375,20,North
+42000000,Banasthali,2.5,4,8,2806.45,12,South
+45000000,Banasthali,3,5,7,1497.34,13,North
+34000000,Baluwakhani,3,2,6,1129.425,13,West
+21500000,Baluwakhani,3,3,4,1026.75,12,South East
+27500000,Baluwakhani,2.5,4,6,1095.2,10,West
+34500000,Baluwakhani,2.5,5,7,1745.475,13,East
+26500000,Baluwakhani,2.5,4,4,1369,13,West
+28000000,Baluwakhani,3,3,5,1112.31,13,West
+24000000,Baluwakhani,3,3,5,1197.875,13,West
+28000000,Baluwakhani,2.5,5,9,1026.75,13,West
+17500000,Baluwakhani,2,2,1,1095.2,13,West
+39000000,Baluwakhani,3,5,6,1437.45,13,West
+39000000,Baluwakhani,3,5,6,1437.45,13,West
+37500000,Baluwakhani,3,5,6,1369,13,West
+39900000,Baluwakhani,2.5,3,5,1711.25,13,West
+27000000,Baluwakhani,2.5,3,3,1440,12,East
+14500000,Balkot,2.5,3,5,1369,13,West
+19000000,Balkot,3,4,3,1026.75,10,North
+24000000,Balkot,2.5,3,6,1711.25,13,East
+27500000,Balkot,2.5,4,4,1155.09375,13,West
+28000000,Balkot,3,5,5,1129.425,13,West
+29000000,Balkot,2,3,3,1796.8125,20,North
+42500000,Balkot,3.5,4,4,2053.5,10,South
+25000000,Balkot,3,4,5,1112.31,13,West
+31500000,Balkot,3,4,5,1711.25,13,West
+28000000,Balkot,3,5,5,1347.6,13,West
+27000000,Balkot,3,4,5,1095.2,13,West
+27000000,Balkot,3,2,4,1369,13,West
+35000000,Balkot,3,5,7,1711.25,13,West
+35000000,Balkot,3,4,6,2395.75,13,West
+35000000,Gwarko,3,4,4,1112.3125,13,West
+19500000,Gwarko,2,3,5,1369,15,West
+21000000,Gwarko,2.5,2,3,1048.140625,13,South
+25000000,Gwarko,2,2,6,718.725,13,West
+26000000,Gwarko,2.5,4,7,1197.87,20,East
+27000000,Gwarko,3,4,5,1060.975,13,South
+27000000,Gwarko,2.5,3,4,1060.975,13,South
+30000000,Gwarko,2.5,4,5,1437.45,13,South
+35500000,Gwarko,3.5,5,6,1437.45,14,South
+35500000,Gwarko,3,5,6,1796.8125,14,South
+33000000,Gwarko,3,4,6,1026.75,13,West
+22000000,Gwarko,3,4,6,941.1875,13,West
+26500000,Gwarko,2.5,4,4,1026.75,13,West
+25000000,Gwarko,2.5,2,6,718.725,13,West
+24000000,Gwarko,2.5,2,3,1026.75,13,West
+17000000,Chapali,3,3,8,1471.675,13,West
+27000000,Chapali,2.5,4,5,1540.125,12,South
+27000000,Chapali,3.5,4,6,2383,13,East
+28000000,Chapali,3,3,5,1129.425,13,North East
+29500000,Chapali,3,3,7,1129.425,13,East
+31000000,Chapali,2.5,5,4,1711.25,13,East
+33500000,Chapali,2.5,5,5,1403.225,15,South West
+39900000,Chapali,3,4,5,1540.125,14,North West
+42000000,Chapali,3,6,7,3165.8125,13,East
+61500000,Chapali,2.5,3,5,2053.5,13,South
+61500000,Chapali,2.5,5,5,2053.5,13,South
+20300000,Chapali,2.5,3,8,1796.8125,13,West
+52500000,Chapali,2.5,4,5,2053.5,13,West
+42500000,Chapali,2.5,5,6,1711.25,13,West
+57000000,Chapali,2.5,5,5,1882.375,13,West
+21000000,Balkhu,3,3,3,927.4975,13,West
+36500000,Balkhu,3,3,6,1369,13,West
+29200000,Balkhu,3,4,4,1026.75,13,West
+22300000,Balkhu,2.5,3,3,1026.75,16,North
+22350000,Balkhu,2.5,3,3,1026.75,16,North
+23000000,Balkhu,3,2,3,1796.8125,20,East
+24900000,Balkhu,2.5,3,3,787.175,20,North
+42500000,Balkhu,3,3,8,2053.5,12.5,South West
+45000000,Balkhu,2.5,3,4,2652.4375,16,East
+49500000,Balkhu,3,7,7,3080.25,10,South
+72000000,Balkhu,2.5,5,7,2738,20,West
+72500000,Balkhu,3,5,6,2738,20,South
+24900000,Balkhu,3,3,3,971.5538,13,West
+26300000,Balkhu,3,3,3,965.9924,13,West
+24800000,Balkhu,3,3,3,975.404,13,West
+42500000,Kalanki,3,3,3,2053.5,13,West
+27000000,Kalanki,3,4,5,1197.875,13,West
+45000000,Kalanki,2.5,4,4,2738,13,West
+33000000,Kalanki,2.5,4,5,1369,13,West
+19000000,Kalanki,2.5,4,6,1523.0125,13,West
+27500000,Kalanki,2.5,4,5,1437.45,13,West
+12000000,Kalanki,2.5,5,6,1882.37,16,North
+17000000,Kalanki,2.5,3,4,1369,10,North West
+23000000,Kalanki,2.5,3,5,1026.75,10,South
+25500000,Kalanki,2,4,5,1437.45,20,North East
+27500000,Kalanki,3.5,4,7,1711.25,15.12944333,West
+29000000,Kalanki,2.5,4,5,1403.225,10,South
+33000000,Kalanki,2.5,3,5,1925.15,13,North
+38000000,Kalanki,3,4,7,2139.0625,14,East
+38500000,Kalanki,3,5,4,1437.45,13,North
+45000000,Kalanki,3,4,6,1347.609375,12,North East
+25000000,Harisiddhi,3,3,4,1026.75,13,West
+19000000,Harisiddhi,3,3,8,1026.75,13,West
+18000000,Harisiddhi,3,3,3,1090.921875,18,South East
+20000000,Harisiddhi,3,3,3,1090.921875,18,South East
+22000000,Harisiddhi,3,3,5,1197.875,13,South
+22000000,Harisiddhi,2.5,5,5,1369,20,East
+23500000,Harisiddhi,2.5,3,5,1095.2,20,South
+24000000,Harisiddhi,2.5,5,3,1155.09375,20,North West
+26000000,Harisiddhi,2.5,3,5,1095.2,13,East
+27000000,Harisiddhi,2.5,3,3,1411.78125,20,North
+27000000,Harisiddhi,2.5,4,4,1026.75,20,West
+35000000,Harisiddhi,2.5,4,7,2053.5,16.5,North
+40000000,Harisiddhi,2.5,5,8,2738,12,East
+15000000,Harisiddhi,3,2,1,1026.75,13,West
+22500000,Harisiddhi,2.5,3,4,1026.75,13,West
+25500000,Harisiddhi,2.5,3,3,1240.65,13,West
+25000000,Sunakothi,3,2,3,941.18,13,West
+22500000,Sunakothi,3,2,3,1026.75,13,West
+40000000,Sunakothi,3,4,4,1711.25,13,West
+25000000,Sunakothi,3,2,3,1026.75,13,West
+21000000,Sunakothi,2.5,3,4,1283.43,13,West
+79000000,Sunakothi,2.5,5,5,3422.5,13,West
+18000000,Sunakothi,3,3,5,1369,13,West
+22500000,Sunakothi,2.5,3,3,1711.25,13,South East
+35000000,Sunakothi,2.5,3,3,2053.5,13,South East
+35000000,Sunakothi,2,3,3,1369,18,East
+35000000,Sunakothi,2.5,4,5,1403.225,20,East
+36000000,Sunakothi,2.5,3,3,2053.5,20,West
+37500000,Sunakothi,2.5,4,3,1711.25,20,North East
+42500000,Sunakothi,2.5,3,3,2053.5,15,East
+42500000,Sunakothi,2.5,3,3,2053.5,20,South East
+32500000,Sunakothi,3,3,3,1369,13,West
+37500000,Sunakothi,3,3,3,1505.9,13,West
+17000000,Mulpani,3,2,5,855.625,13,West
+18000000,Mulpani,3,4,5,1026.75,13,West
+16000000,Mulpani,3.5,3,4,1026.75,13,West
+12500000,Mulpani,2.5,3,4,1497,10,South East
+16000000,Mulpani,3.5,3,4,1000,10,East
+16500000,Mulpani,3,3,5,1026.75,10,North
+20000000,Mulpani,2.5,3,6,1369,10,North
+21000000,Mulpani,2,3,4,1369,20,East
+24500000,Mulpani,2.5,3,6,1369,10,East
+24500000,Mulpani,2.5,3,5,1026.75,15,East
+28000000,Mulpani,2.5,4,5,1754.03125,20,North
+30000000,Mulpani,2.5,3,6,1711.25,20,North
+31500000,Mulpani,2.5,4,5,1369,20,North
+45000000,Mulpani,2.5,5,4,1540.12,20,South East
+49800000,Mulpani,3,6,5,2738,20,East
+28000000,Mulpani,3,3,4,1060.975,13,West
+15000000,Mulpani,3,3,5,1026.75,13,West
+18000000,Chandragiri,3,3,4,684.5,13,West
+16000000,Chandragiri,2.5,3,6,1026.75,13,West
+13500000,Chandragiri,2.5,3,7,1026.75,13,West
+15000000,Chandragiri,2.5,3,3,1369,13,West
+22000000,Chandragiri,3.5,3,6,1197.875,13,West
+30500000,Chandragiri,3.5,4,5,1369,13,West
+26000000,Chandragiri,3,5,6,1369,13,West
+20500000,Chandragiri,3,3,4,1060.975,13,West
+23000000,Chandragiri,2.5,4,4,1540.125,13,West
+25000000,Chandragiri,2.5,3,5,1369,13,West
+12900000,Chandragiri,3,3,4,855.625,13,South
+16000000,Chandragiri,2,2,2,1369,10,South East
+17000000,Chandragiri,2.5,3,6,1095.2,10,South East
+17000000,Chandragiri,3,3,6,1026.75,16,East
+22000000,Chandragiri,3,3,6,1711.25,10,East
+26700000,Chandragiri,2.5,1,6,1711.25,20,West
+29500000,Chandragiri,2,4,7,1454.5625,14,West
+16500000,Baniyatar,3,3,6,1112.3125,10,South
+19000000,Baniyatar,2.5,3,4,983.96875,14,North
+22000000,Baniyatar,3,3,8,1369,16,North West
+23500000,Baniyatar,3,5,7,1129.425,13,East
+23500000,Baniyatar,2.5,4,5,1411.78,14,South
+23750000,Baniyatar,3,5,6,1197.875,12,North West
+24000000,Baniyatar,3,6,6,1454.5625,15,North East
+25000000,Baniyatar,3,5,7,1711.25,11,South
+27000000,Baniyatar,2.5,3,7,1129.425,13,South West
+28500000,Baniyatar,3.5,3,6,1711.25,10,South East
+29000000,Baniyatar,3,5,6,1369,20,East
+35000000,Baniyatar,3,5,8,1540.125,20,East
+19300000,Baniyatar,2.5,3,6,1197.875,13,West
+17500000,Baniyatar,3,3,4,1026.75,13,West
+28000000,Baniyatar,2.5,3,5,855.625,13,West
+28000000,Baniyatar,2.5,3,7,1197.875,13,West
+25000000,Baniyatar,2.5,4,5,1060.975,13,West
+14000000,Nagarjun,2.5,3,5,855.625,13,West
+39500000,Nagarjun,3,4,6,1411.78,13,West
+30500000,Nagarjun,3,4,4,1369,13,West
+26500000,Nagarjun,3,4,6,1604.29,13,West
+21000000,Nagarjun,3,4,5,1026.75,13,West
+15500000,Nagarjun,2.5,2,6,1026.75,13,West
+25000000,Nagarjun,2.5,3,4,1369,13,West
+23500000,Nagarjun,3,3,3,684.5,13,West
+26500000,Nagarjun,2.5,3,4,1026.75,13,West
+85000000,Nagarjun,2.5,5,5,2738,13,West
+31000000,Nagarjun,2.5,3,5,1540.125,13,West
+37000000,Nagarjun,3,4,4,1369,13,West
+17500000,Nagarjun,3,4,5,3165.8125,15,North
+18500000,Nagarjun,2.5,3,5,855.625,13,North East
+22000000,Nagarjun,2.5,4,7,1240.65625,10,South
+25000000,Nagarjun,2.5,3,4,1060.975,16,North East
+30000000,Nagarjun,2.5,3,4,1197.875,16,East
+31500000,Nagarjun,2,2,5,1711.25,13,South East
+29000000,Gothatar,2.5,3,5,1437.45,13,West
+12500000,Gothatar,2,2,4,898.4,13,East
+15800000,Gothatar,2,1,2,1112.3125,13,East
+17000000,Gothatar,2.5,3,6,1369,10,North
+17500000,Gothatar,2.5,3,4,1026.75,13,East
+18500000,Gothatar,2.5,3,3,1026.75,14,East
+21000000,Gothatar,2.5,3,5,1026.75,10,South
+23000000,Gothatar,3,5,6,1390.39,16,East
+24000000,Gothatar,2.5,3,6,1069.53125,13,East
+38000000,Gothatar,2.5,5,8,1369,10,East
+40000000,Gothatar,2.5,3,4,2053.5,20,South West
+56000000,Gothatar,3.5,6,7,2395.75,14,West
+35000000,Gothatar,3,4,7,1711.25,13,West
+45000000,Gothatar,2.5,3,6,2258.85,13,West
+40000000,Gothatar,3,3,4,2296.4975,13,West
+26000000,Gothatar,3,3,7,1369,13,West
+28000000,Gothatar,2.5,4,7,1197.875,13,West
+38000000,Gothatar,2.5,5,8,1369,13,West
+29000000,Bansbari,2.5,4,6,1390.39,10,West
+36000000,Bansbari,3,5,6,2053.5,10,South East
+36000000,Bansbari,3,6,6,2053.5,10,South East
+45000000,Bansbari,2.5,5,6,2738,16,West
+45000000,Bansbari,3,5,6,2738,16,North West
+45000000,Bansbari,2,4,6,2738,20,East
+47500000,Bansbari,2,5,4,2738,16,East
+50000000,Bansbari,2.5,4,4,2395.75,13,South
+51000000,Bansbari,2.5,5,5,1437.45,12,South
+52000000,Bansbari,2.5,5,4,1471.675,12,South
+52000000,Bansbari,2.5,3,6,2464.2,20,West
+55000000,Bansbari,2.5,5,6,2121.95,13,South East
+62500000,Bansbari,2,3,4,3148.7,13,South
+67500000,Bansbari,2.5,2,6,2395.75,13,West
+50000000,Bansbari,2.5,3,4,1711.25,13,West
+52500000,Bansbari,2.5,5,5,2053.5,13,West
+47500000,Bansbari,2.5,4,5,1711.25,13,West
+28000000,Bansbari,3,4,2,1711.25,13,South
+50000000,Thaiba,3,3,4,1882.375,13,West
+10000000,Thaiba,2.5,2,3,1369,13,West
+24500000,Thaiba,3,3,6,1369,13,West
+17000000,Thaiba,3,3,4,1069.53125,20,North
+18000000,Thaiba,2.5,3,4,1129.425,20,South
+19000000,Thaiba,3,4,4,1390.390625,13,East
+19000000,Thaiba,2.5,4,4,1454.56,13,East
+19000000,Thaiba,2.5,2,3,1026.75,20,South
+20000000,Thaiba,3,2,3,1026.75,20,South
+24000000,Thaiba,2.5,3,4,1095.2,13,East
+28500000,Thaiba,3,5,4,1369,20,South
+48500000,Thaiba,2.5,4,4,2053.5,20,North East
+50000000,Thaiba,2.5,3,4,1779.7,20,South West
+50000000,Thaiba,2.5,3,3,2053.5,20,South
+26500000,Thaiba,2.5,2,3,1369,13,West
+22500000,Thaiba,3,3,3,941.1875,13,West
+22500000,Thaiba,3,3,3,684.5,13,West
+15000000,Thaiba,2.5,3,3,684.5,13,West
+20500000,Thaiba,2.5,3,5,1437.45,13,West
+22000000,Kusunti,2.5,2,4,1475.95,13,West
+38500000,Kusunti,3,4,7,2139.06,13,West
+45000000,Kusunti,3,4,4,1540.125,13,West
+57000000,Kusunti,2.5,5,8,2053.5,13,West
+39000000,Kusunti,2.5,5,7,1711.25,13,West
+39000000,Kusunti,3,4,4,522,13,West
+39500000,Kusunti,3,4,5,1711.25,13,West
+46000000,Kusunti,2.5,5,7,1369,13,West
+23000000,Kusunti,2.5,3,4,1026.75,13,East
+23500000,Kusunti,2.5,4,4,1060.975,15,North West
+24000000,Kusunti,2.5,4,5,1095.2,13,South
+26500000,Kusunti,2.5,3,4,1026.75,15,East
+27000000,Kusunti,2.5,3,5,1369,15,South
+31000000,Kusunti,2.5,4,4,1471.675,20,South East
+38500000,Kusunti,3,4,4,1925.15625,13,North West
+39500000,Kusunti,2.5,4,4,1779.7,13,East
+40000000,Kusunti,2.5,4,4,1437.45,11,West
+40500000,Kusunti,2,3,4,1882.375,13,North East
+42500000,Kusunti,2.5,4,4,1779.7,15,South West
+52500000,Sanepa,2.5,3,1,1454.56,13,West
+85000000,Sanepa,2.5,3,5,2738,13,West
+28000000,Sanepa,3,2,8,1266.325,13,West
+67000000,Sanepa,3,4,7,2053.5,13,West
+55000000,Sanepa,2.5,4,1,1711.25,13,West
+30000000,Sanepa,2.5,5,6,1411.78,12,East
+30000000,Sanepa,3,4,4,1369,13,North
+30000000,Sanepa,2.5,3,4,1095.2,20,East
+32500000,Sanepa,3,4,6,1540.125,12,East
+35000000,Sanepa,3,2,3,855.625,13,South East
+41000000,Sanepa,2.5,5,6,1026.75,10,South East
+45000000,Sanepa,2.5,4,5,1711.25,10,South East
+63500000,Sanepa,2.5,6,5,1711.25,13,North East
+63500000,Sanepa,2.5,5,5,2700,14,North West
+65000000,Sanepa,2.5,5,6,1711.25,16,North East
+68000000,Sanepa,2.5,6,6,2738,10,South East
+75000000,Sanepa,2,2,5,3080.25,20,South
+77000000,Sanepa,2.5,4,6,3080.25,13,East
+77500000,Sanepa,2.5,4,4,3148.7,16,East
+60000000,Sanepa,3,4,5,1711.25,13,West
+29500000,Jorpati,3,3,5,1369,13,West
+18000000,Jorpati,3,3,5,1026.75,13,West
+31500000,Jorpati,2.5,3,6,1454.5625,13,West
+16500000,Jorpati,2.5,4,6,1026.75,13,West
+32000000,Jorpati,2.1,2,3,2738,13,West
+16000000,Jorpati,3,2,3,752.95,13,West
+35000000,Jorpati,2.5,3,6,1540.125,13,West
+14300000,Jorpati,2.5,3,3,752.95,10,South
+14300000,Jorpati,2.5,3,3,752.95,12,South
+15200000,Jorpati,2.5,3,4,855.625,10,East
+16500000,Jorpati,3,3,9,1026.75,10,South West
+20000000,Jorpati,2,2,5,1197.875,13,East
+21000000,Jorpati,3,3,5,1197.875,12,South West
+21500000,Jorpati,3,3,4,2700,12,East
+22500000,Jorpati,3,3,4,1026.75,14,North West
+23000000,Jorpati,2.5,3,5,1095.2,10,South
+23000000,Jorpati,3,4,7,1369,10,East
+27000000,Jorpati,2.5,3,6,1219.26,13,South East
+28500000,Jorpati,2,2,5,1796.8125,12,South
+30000000,Jorpati,3,3,8,1200,13,East
+24000000,Sanagau,3,4,5,1197.875,13,West
+24000000,Sanagau,3,5,9,1112.31,13,West
+23500000,Sanagau,3,3,5,962.57,13,West
+20000000,Sanagau,3,3,5,1026.75,13,West
+23500000,Sanagau,3,5,9,1026.75,13,West
+25000000,Sanagau,3,3,5,1095.2,13,West
+25000000,Sanagau,3,3,5,1112.31,13,West
+32000000,Sanagau,2.5,3,6,1437.45,13,West
+18500000,Sanagau,2.5,3,5,1197.875,13,East
+21500000,Sanagau,2,2,5,1369,20,East
+22000000,Sanagau,3,4,3,1454.5625,20,South
+13500000,Sanagau,2.5,3,5,962.57,13,West
+19900000,Sanagau,2.5,4,8,1069.53,12,East
+20400000,Sanagau,2.5,3,4,1026.75,11.5,South West
+21500000,Sanagau,2.5,3,4,1026.75,20,North East
+28000000,Sanagau,2.5,3,5,1967.93,13,East
+30500000,Sanagau,3,5,5,1403.225,14.5,North East
+32500000,Sanagau,2.5,4,5,1369,13,East
+33000000,Sanagau,2.5,6,8,1437.45,13,South East
+33500000,Sanagau,2.5,4,7,1711.25,20,East
+13200000,Sanagau,2.5,3,5,855.625,13,West
+32500000,Sainbu,3,3,5,1197.875,13,West
+47500000,Sainbu,2.5,3,3,2053.5,13,West
+52500000,Sainbu,3,5,5,1711.25,13,West
+55000000,Sainbu,3,5,5,1711.25,13,West
+37500000,Sainbu,3,4,4,1026.75,13,West
+32500000,Sainbu,3,4,4,1026.75,13,West
+28000000,Sainbu,3,3,6,1403.225,13,West
+50000000,Sainbu,3,4,4,1411.78,13,West
+39000000,Sainbu,3,3,4,1369,13,West
+31000000,Sainbu,3,3,4,1197.875,13,West
+21500000,Sainbu,2.5,3,5,855.625,13,West
+25000000,Sainbu,3.5,5,5,1026.75,13,East
+30000000,Sainbu,3,2.5,4,1369,15,North
+35000000,Sainbu,3,5,4,1095.2,15,South East
+35000000,Sainbu,3,4,7,1369,18,South East
+36500000,Sainbu,2.5,3,5,1745.475,14,North East
+47500000,Sainbu,3.5,8,7,1967.93,16,North East
+40000000,Sainbu,2.5,4,5,1240.65,13,West
+61500000,Sainbu,2.5,5,4,2053.5,13,West
+78000000,Sainbu,3,4,5,2053.5,13,West
+28500000,Sainbu,3,3,4,1197.875,13,West
+70000000,Dhumbarahi,3,2,4,2823.5625,13,West
+55000000,Dhumbarahi,2.5,5,7,3422.5,13,West
+30000000,Dhumbarahi,2.5,3,5,1369,13,West
+42000000,Dhumbarahi,2.5,3,5,1369,13,West
+65000000,Dhumbarahi,2.5,3,5,2053.5,13,West
+35000000,Dhumbarahi,3,4,5,1369,13,West
+52500000,Dhumbarahi,2.5,2,3,1711.25,13,West
+38000000,Dhumbarahi,2.5,3,3,1369,10,East
+45000000,Dhumbarahi,3.5,5,8,2395.75,12,East
+55000000,Dhumbarahi,3.5,7,8,1779.7,13,North West
+56000000,Dhumbarahi,3.5,6,7,2429.975,10,South
+57000000,Dhumbarahi,3.5,8,8,2429.975,10,East
+60000000,Dhumbarahi,3,5,8,2738,12,East
+62000000,Dhumbarahi,3,7,7,2738,13,East
+65000000,Dhumbarahi,2.5,4,5,2053.5,20,South East
+65000000,Dhumbarahi,3,4,5,2053.5,20,East
+67500000,Dhumbarahi,2,6,9,2738,11.5,South East
+36000000,Dhumbarahi,2.5,3,3,1369,13,West
+37500000,Dhumbarahi,2,2,3,1711.25,13,West
+28500000,Dhumbarahi,3,3,4,1095.2,13,West
+32500000,Dhumbarahi,2.5,4,6,855.625,13,West
+24000000,Khumaltar,2.5,4,3,1026.75,13,West
+32500000,Khumaltar,3,3,4,1026.75,13,West
+70000000,Khumaltar,3,4,5,3422.5,13,West
+55000000,Khumaltar,3,4,3,1711.25,13,West
+46000000,Khumaltar,3,4,5,1540.125,13,West
+39000000,Khumaltar,3,4,4,1369,13,West
+40000000,Khumaltar,3,4,6,1540.125,13,West
+55000000,Khumaltar,3,4,3,1711.25,13,West
+32000000,Khumaltar,2.5,4,8,1540.12,13,West
+17500000,Khumaltar,3.5,5,8,2310.18,10,East
+19500000,Khumaltar,3,5,6,1369,14,South
+21500000,Khumaltar,2.5,3,3,1048.14,12,South
+23000000,Khumaltar,3.5,4,4,1326.21875,10,North East
+36500000,Khumaltar,2.5,4,3,1095.2,13,East
+36500000,Khumaltar,2.5,4,3,1155.09,13,East
+39000000,Khumaltar,2.5,4,4,1437.45,14,South
+39000000,Khumaltar,2.5,4,4,1437.45,16,East
+42500000,Khumaltar,2.5,4,7,1779.7,18,West
+42500000,Khumaltar,2.5,4,6,1437.45,20,East
+50000000,Khumaltar,2.5,3,3,3080.25,20,South
+55000000,Khumaltar,3,4,3,1711.25,13,South
+58500000,Khumaltar,3,5,5,3080.25,13,East
+37500000,Pepsicola,3,4,5,1369,13,West
+18000000,Pepsicola,3,3,4,752.95,13,West
+25000000,Pepsicola,3,3,6,1095.2,13,West
+40000000,Pepsicola,3,3,6,1369,13,West
+30000000,Pepsicola,3,4,4,1369,13,West
+28000000,Pepsicola,3,4,6,1711.25,13,West
+45000000,Pepsicola,3,3,5,1454.56,13,West
+27000000,Pepsicola,2.5,4,4,1060.975,13,West
+13500000,Pepsicola,3,3,4,1112.3125,13,South East
+15000000,Pepsicola,2,2,4,855.625,13,North West
+16000000,Pepsicola,3,3,3,1026.75,13,West
+21500000,Pepsicola,2.5,6,6,1112.3125,13,East
+22000000,Pepsicola,3,4,6,1197.875,10,East
+22000000,Pepsicola,2.5,4,6,1133.7,20,West
+23000000,Pepsicola,3,5,5,1197.875,11,North East
+24000000,Pepsicola,2.5,3,6,1095.2,20,East
+24000000,Pepsicola,3,4,4,752.95,20,East
+25000000,Pepsicola,2.5,4,5,1026.75,18,North East
+25500000,Pepsicola,2.5,4,6,1454.5625,13,West
+26000000,Pepsicola,3.5,4,8,1026.75,10,North
+32500000,Pepsicola,3,4,5,1711.25,18,South East
+55500000,Pepsicola,3.5,6,6,2121.95,20,South
+67500000,Pepsicola,2.5,4,5,3000,20,South
+70000000,Narayanthan,3,5,7,2053.5,13,West
+29000000,Narayanthan,3,4,6,1437.45,13,West
+30000000,Narayanthan,3.5,4,4,1437.45,13,West
+49000000,Narayanthan,3.5,5,6,2053.5,13,West
+41000000,Narayanthan,2.5,3,5,1711.25,13,West
+42500000,Narayanthan,2.5,3,4,1540.125,13,West
+45000000,Narayanthan,2.5,3,4,1540.125,13,West
+25000000,Narayanthan,2.5,4,5,1711.25,13,West
+40000000,Narayanthan,2.5,4,4,1369,13,West
+22000000,Narayanthan,2.5,4,6,1369,13,East
+27500000,Narayanthan,3.5,5,5,1711.25,10,East
+35000000,Narayanthan,2.5,5,5,1369,13,North East
+42500000,Narayanthan,2.5,5,5,1129.425,16,South
+45000000,Narayanthan,2.5,5,5,1500,20,East
+55000000,Narayanthan,2.5,5,4,2464.2,13,North East
+55000000,Narayanthan,3,4,4,2087.725,13,West
+57500000,Narayanthan,3,5,5,2053.5,13,West
+65500000,Narayanthan,3,5,5,2395.75,13,West
+45000000,Narayanthan,3,3,5,2738,13,West
+38000000,Narayanthan,3,4,5,2053.5,13,West
+40000000,Narayanthan,3,4,3,1711.25,13,West
+66000000,Narayanthan,2.5,5,5,2310.1875,13,West
+55000000,Narayanthan,2.5,5,7,2738,13,West
+16000000,Sitapakha,2.5,2,4,1026.75,13,West
+27500000,Sitapakha,3,4,5,855.62,13,West
+32500000,Sitapakha,3,5,6,1283.43,13,West
+28500000,Sitapakha,3,5,6,1197.87,13,West
+27500000,Sitapakha,3,4,4,1197.87,13,West
+33500000,Sitapakha,3,4,6,1475.95,13,West
+27500000,Sitapakha,3,4,5,1369,13,West
+36500000,Sitapakha,3,4,5,1369,13,West
+27500000,Sitapakha,3,5,6,1026.75,13,West
+26500000,Sitapakha,3,4,5,1112.31,13,West
+23500000,Sitapakha,3,4,4,1005.35,13,West
+27500000,Sitapakha,3,4,5,1155.09,13,West
+28000000,Sitapakha,3,4,6,1197.87,13,West
+47500000,Sitapakha,3,4,3,1369,13,West
+28000000,Sitapakha,3,5,7,1369,13,West
+21600000,Sitapakha,3,3,3,859.0475,13,West
+21000000,Sitapakha,2.5,4,8,1026.75,13,West
+29500000,Sitapakha,3,4,6,1026.75,13,West
+25000000,Sitapakha,3,3,6,1026.75,13,West
+25500000,Sitapakha,3,4,5,1369,13,West
+24500000,Sitapakha,3,3,6,1026.75,13,West
+28000000,Sitapakha,3,4,6,1369,13,West
+34000000,Sitapakha,2.5,4,6,1540.12,13,West
+35000000,Sitapakha,2.5,4,5,1369,13,West
+19500000,Syuchatar,2.5,3,4,1471.675,13,East
+20500000,Syuchatar,2.5,3,6,1026.75,13,South
+21000000,Syuchatar,2,4,5,1454.5625,16,West
+22000000,Syuchatar,2,2,4,406.421875,14,North East
+22000000,Syuchatar,2,2,4,1095.2,14,North
+22400000,Syuchatar,3,4,6,1283.4375,13,North East
+22500000,Syuchatar,2.5,3,5,1882.37,10,East
+23000000,Syuchatar,3,2,4,1026.75,10,North West
+24500000,Syuchatar,2,4,7,1369,13,East
+24800000,Syuchatar,3,4,5,1026.75,13,South
+25000000,Syuchatar,2.5,2,6,1095.2,13,South
+25000000,Syuchatar,3,5,7,1369,13,North East
+25000000,Syuchatar,2.5,3,4,1711.25,16,East
+25500000,Syuchatar,2.5,2,4,1925.15,10,West
+30000000,Syuchatar,3.5,5,1,1540.125,10,East
+37000000,Syuchatar,3,4,6,1369,10,North
+38000000,Syuchatar,2.5,3,4,1369,18,South East
+39000000,Syuchatar,3,3,4,1369,13,West
+23500000,Syuchatar,3,3,1,1112.31,13,West
+25000000,Syuchatar,3,3,4,1711.25,13,West
+40000000,Syuchatar,3,3,6,2772.225,13,West
+32500000,Syuchatar,3,3,7,1779.7,13,West
+39000000,Syuchatar,2.5,4,1,1454.56,13,West
+85000000,Syuchatar,2.5,4,7,1403.225,13,West
+20000000,Syuchatar,3,3,3,1026.75,13,West
+67000000,Bafal,3,4,4,2395.75,13,West
+22500000,Bafal,2.5,3,5,1197.875,13,East
+23000000,Bafal,2,2,6,1026.75,10,South
+23500000,Bafal,2.5,2,6,752.95,12,North
+24500000,Bafal,2.5,3,4,1026.75,12,East
+24500000,Bafal,2.5,3,7,1540.125,13,North
+27500000,Bafal,2.5,4,4,1437.45,13,South
+28500000,Bafal,2,3,5,1369,13,South West
+31000000,Bafal,3,3,7,1369,10,South
+31000000,Bafal,2.5,3,5,1129.425,15,North East
+31000000,Bafal,2.5,3,6,1369,16,South West
+36500000,Bafal,2.5,4,5,1369,12,South
+36500000,Bafal,3,4,5,1711.25,13,South
+37000000,Bafal,2.5,3,4,1095.2,13,North East
+37000000,Bafal,2.5,3,4,1095.2,14,North East
+37500000,Bafal,2,4,7,1369,13,East
+42000000,Bafal,2.5,3,4,1369,14,South
+47500000,Bafal,2.5,3,6,2395.75,14,West
+58000000,Bafal,2.5,5,6,2887.73,12,East
+60000000,Bafal,3.5,5,4,2840.675,13,East
+70000000,Bafal,2.5,4,3,3148.7,13,East
+41000000,Bafal,3,5,5,1219.26,13,West
+37000000,Bafal,3,3,4,1262.04,13,West
+45000000,Bafal,3,4,5,1711.25,13,West
+36500000,Bafal,3,4,5,1711.25,13,West
+37500000,Bafal,3,4,7,1369,13,West
+29500000,Bafal,3,3,6,1369,13,West
+26500000,Nakhipot,2.5,3,5,1197.87,13,West
+45000000,Nakhipot,3,3,5,2566.875,13,West
+22000000,Nakhipot,3,4,4,1369,13,West
+41500000,Nakhipot,3,4,5,1403.225,13,West
+31000000,Nakhipot,3.5,4,5,1026.75,13,West
+37000000,Nakhipot,3,4,6,1369,13,West
+26000000,Nakhipot,2.5,4,8,1369,13,West
+45000000,Nakhipot,2.5,4,7,2395.75,13,West
+32500000,Nakhipot,2.5,4,6,1454.56,13,West
+26000000,Nakhipot,2.5,4,5,1197.875,13,West
+45000000,Nakhipot,2.5,4,4,1711.25,13,West
+35000000,Nakhipot,3.5,3,5,1369,13,West
+20000000,Nakhipot,2.5,3,4,855.625,13,East
+22500000,Nakhipot,3,4,4,1060,13,West
+23000000,Nakhipot,2.5,3,4,1090.92,16,East
+23500000,Nakhipot,2.5,4,4,1060.975,15,North West
+25500000,Nakhipot,2.5,7,9,1095.2,20,East
+26500000,Nakhipot,3,4,5,1197.875,13,North
+27000000,Nakhipot,2.5,4,4,1095.2,15,South
+27000000,Nakhipot,2.5,4,5,1197.875,20,South West
+28000000,Nakhipot,2.5,3,5,1095.2,13,South
+29000000,Nakhipot,3,4,4,1026.75,19,South
+29000000,Nakhipot,2.5,4,4,2244,20,South
+32000000,Nakhipot,2.5,4,5,1437.45,20,West
+33000000,Nakhipot,2.5,4,6,1095.2,20,South
+46000000,Nakhipot,2.5,5,6,2395.75,13,South East
+57500000,Nakhipot,3,5,6,3058.859375,20,West
+57500000,Nakhipot,3.5,6,5,1500,20,East
+60000000,Nakhipot,3,6,6,2806.45,15,South East
+39000000,Samakhusi,3,5,6,1026.75,13,West
+35500000,Samakhusi,3,4,6,1197.87,13,West
+35500000,Samakhusi,3,4,6,1197.87,13,West
+20500000,Samakhusi,3,4,5,855.625,16,South
+22500000,Samakhusi,3,4,9,1026.75,13,South
+23000000,Samakhusi,3,5,6,1454.5625,13,North West
+25500000,Samakhusi,3.5,4,6,1026.75,10,North
+27500000,Samakhusi,3,3,6,1369,13,West
+30000000,Samakhusi,2.5,6,6,1369,15.12944333,East
+30500000,Samakhusi,3,4,5,1129.425,15,West
+32000000,Samakhusi,2.5,5,6,1369,13,East
+32000000,Samakhusi,3,6,6,1369,15,East
+32000000,Samakhusi,2,4,6,1369,16,East
+33000000,Samakhusi,2.5,5,6,1369,13,North
+34500000,Samakhusi,3,4,4,1026.75,13,East
+34500000,Samakhusi,2.5,4,4,1026.75,13,East
+35000000,Samakhusi,2.5,3,4,1711.25,16.5,South West
+35000000,Samakhusi,2,3,6,1711.25,15,East
+44000000,Samakhusi,3,6,5,1369,15,East
+45000000,Samakhusi,2.5,4,7,1711.25,10,East
+55000000,Samakhusi,3,6,5,2395.75,14,South
+55000000,Samakhusi,2,4,5,2395.75,14,South East
+55000000,Samakhusi,3,7,7,2395.75,20,North
+55000000,Samakhusi,2.5,5,6,2395.75,20,East
+42000000,Samakhusi,2.5,3,5,1779.7,13,West
+25000000,Samakhusi,2.5,3,5,1026.75,13,West
+60000000,Samakhusi,3,4,4,3080.25,13,West
+55000000,Samakhusi,2.5,5,9,2053.5,13,West
+47000000,Samakhusi,2.5,3,5,1711.25,13,West
+65000000,Samakhusi,2.5,3,5,3422.5,13,West
+11000000,Samakhusi,2.5,3,4,513.375,13,West
+55000000,Dhapakhel,3,3,4,2121.95,13,West
+40000000,Dhapakhel,3,4,7,1642.8,13,West
+31700000,Dhapakhel,3,3,4,1369,13,West
+22500000,Dhapakhel,2.5,3,5,1060.975,13,West
+36000000,Dhapakhel,3,2,5,1369,13,West
+13500000,Dhapakhel,2.5,3,4,898.4,12,South
+17700000,Dhapakhel,2.5,4,3,855.625,12,West
+19000000,Dhapakhel,3,4,6,752.95,13,South
+19800000,Dhapakhel,2.5,3,4,1026.75,20,South
+25000000,Dhapakhel,2.5,3,4,1197.87,12,North East
+25000000,Dhapakhel,3,3,4,1625.6875,13,South
+25000000,Dhapakhel,2.5,2,7,1711.25,18,South East
+26000000,Dhapakhel,2.5,4,5,1437.45,18,East
+27000000,Dhapakhel,2.5,4,6,1129.425,13,East
+27000000,Dhapakhel,2.5,4,5,1026.75,20,North East
+28000000,Dhapakhel,3,3,6,1711.25,13,East
+29000000,Dhapakhel,2.5,3,3,1095.2,13.5,South East
+42000000,Dhapakhel,2,3,4,2806.45,13,North East
+26500000,Dhapakhel,2.5,4,5,1540.125,13,West
+45000000,Dhapakhel,2.5,3,9,2738,13,West
+31000000,Dhapakhel,3,3,7,1903.76,13,West
+28000000,Dhapakhel,3,3,5,1796.81,13,West
+38500000,Dhapakhel,3,4,6,2053.5,13,West
+15500000,Dhapakhel,3,3,5,855.625,13,West
+23000000,Dhapakhel,3,3,5,1026.75,13,West
+21900000,Dhapakhel,3,4,5,1454.5625,13,West
+29500000,Dhapakhel,3,3,5,1369,13,West
+24000000,Dhapakhel,3,3,4,941.18,13,West
+50000000,Dhapakhel,3,5,9,3080.25,13,West
+23500000,Dhapakhel,3,3,7,1540.125,13,West
+27500000,Dhapakhel,3,5,4,1369,13,West
+25500000,Dhapakhel,3,3,4,1129.425,13,West
+55000000,Dhapakhel,2.5,2,5,2224.625,13,West
+43500000,Mandhikatar,2.5,5,4,2224.625,13,West
+55000000,Mandhikatar,3,4,5,2738,13,West
+39500000,Mandhikatar,3,3,7,1711.25,13,West
+42000000,Mandhikatar,2.5,5,7,1369,13,West
+29500000,Mandhikatar,3,4,6,1026.75,13,West
+26000000,Mandhikatar,2.5,3,6,1026.75,13,West
+26400000,Mandhikatar,3,5,5,1369,13,West
+35000000,Mandhikatar,3,4,5,3080.25,13,West
+43000000,Mandhikatar,3,3,6,3080.25,13,West
+49000000,Mandhikatar,3,3,5,2053.5,13,West
+17500000,Mandhikatar,2.5,2,4,877.01,20,West
+18000000,Mandhikatar,3.5,4,4,1779.7,11,East
+19900000,Mandhikatar,3,4,6,1112.3125,13,South East
+20000000,Mandhikatar,3,4,4,1112.3125,15,East
+22000000,Mandhikatar,2.5,5,5,1048.14,12,East
+22500000,Mandhikatar,3,3,4,2139.0625,12,East
+25000000,Mandhikatar,3,5,7,120,13,West
+26500000,Mandhikatar,2.5,4,6,1060.975,13,West
+27500000,Mandhikatar,2,3,6,1369,15,East
+27600000,Mandhikatar,3,6,7,1369,13,East
+27800000,Mandhikatar,3,3,6,1711.25,13,East
+28000000,Mandhikatar,2.5,4,6,1711.25,13,East
+32500000,Mandhikatar,3,6,8,1369,20,South East
+35000000,Mandhikatar,2,4,5,1711.25,13,East
+40000000,Mandhikatar,2.5,3,5,1668.46,13,West
+40000000,Mandhikatar,2.5,3,4,1471.675,13,West
+46500000,Mandhikatar,3.5,5,4,2121.95,13,North West
+40000000,Mandhikatar,3,4,5,1668.46,13,West
+60000000,Mandhikatar,3,2,3,2053.5,13,West
+52500000,Mandhikatar,2.5,5,6,1711.25,13,West
+43500000,Mandhikatar,2.5,4,4,2224.62,13,West
+43500000,Mandhikatar,3.5,5,4,2224.62,13,North West
+39000000,Mandhikatar,3,5,6,1711.25,13,West
+35000000,Mandhikatar,3,3,5,1540.125,13,West
+70000000,Sukedhara,2.5,3,4,2395.75,12,East
+36000000,Sukedhara,3,5,5,1283.43,13,West
+39000000,Sukedhara,3,5,7,1369,13,West
+42500000,Sukedhara,2.5,4,8,1369,13,West
+30000000,Sukedhara,3,3,6,1283.43,13,West
+35500000,Sukedhara,3,3,5,1437.45,13,West
+29000000,Sukedhara,2.5,3,8,1369,13,West
+25000000,Sukedhara,3,3,6,1026.75,13,West
+16000000,Sukedhara,2.5,3,6,1026.75,20,East
+21000000,Sukedhara,2,3,6,1026.75,14,North
+26000000,Sukedhara,2,4,6,1604.29,15,East
+29800000,Sukedhara,2.5,5,5,1711.25,13,West
+30000000,Sukedhara,3,5,6,1454.5625,15,East
+31800000,Sukedhara,2.5,5,5,1754.03,13,South East
+32500000,Sukedhara,2.5,4,6,1369,12,South East
+32500000,Sukedhara,2,4,4,1283.4375,18,East
+35000000,Sukedhara,3.5,4,9,2010.71,12,North East
+35000000,Sukedhara,2.5,4,6,1369,13,East
+39000000,Sukedhara,2.5,4,6,1369,14,South
+40000000,Sukedhara,2.5,3,5,2053.5,12,South East
+42000000,Sukedhara,2.5,5,5,2053.5,13,East
+42000000,Sukedhara,3,5,5,2053.5,14,East
+42500000,Sukedhara,2,3,5,1711.25,12,East
+45000000,Sukedhara,2.5,3,5,2395.75,12,East
+45000000,Sukedhara,2.5,3,4,2395.75,15,East
+45000000,Sukedhara,3,6,6,2053.5,20,East
+45000000,Sukedhara,2.5,4,6,1369,20,North
+49500000,Sukedhara,2,3,1,1369,12,North
+70000000,Sukedhara,2.5,3,4,2395.75,12,East
+26000000,Sukedhara,2.5,4,6,1026.75,13,West
+52500000,Sukedhara,2.5,5,5,1711.25,13,West
+48000000,Sukedhara,3,5,6,2053.5,13,West
+62500000,Sukedhara,3,3,5,2053.5,13,West
+36500000,Sukedhara,3,4,5,1369,13,West
+45000000,Sukedhara,2.5,3,5,2121.95,13,West
+30000000,Baluwatar,3,4,4,1369,13,West
+50000000,Baluwatar,3,4,4,1711.25,13,West
+57500000,Baluwatar,3,5,5,1711.25,13,West
+60000000,Baluwatar,3,3,5,1711.25,13,West
+55000000,Baluwatar,3,3,5,1711.25,13,West
+60000000,Baluwatar,3,3,5,2738,13,West
+65000000,Baluwatar,2.5,3,6,2806.45,13,West
+21000000,Baluwatar,2.5,3,7,684.5,13,West
+23000000,Baluwatar,3,2,4,770.0625,15,East
+39000000,Baluwatar,2.5,3,7,1711.25,10,North
+39500000,Baluwatar,2,3,3,1882.375,15,East
+42500000,Baluwatar,3,6,6,2053.5,15,South East
+51500000,Baluwatar,3,3,6,2053.5,12,North East
+55000000,Baluwatar,2.5,3,4,2738,10,South
+55000000,Baluwatar,3,5,4,1796.8125,12,South East
+55000000,Baluwatar,2.5,5,4,1745.475,12,South East
+55000000,Baluwatar,2.5,5,6,1745.475,13,North East
+55000000,Baluwatar,2.5,4,4,1711.25,13,South East
+56000000,Baluwatar,3,4,4,2738,13,North
+60000000,Baluwatar,2.5,5,5,2053.5,13,South
+60000000,Baluwatar,3,5,5,2053.5,13,North East
+61000000,Baluwatar,3,6,5,2053.5,14,North
+65000000,Baluwatar,3,5,5,2224.625,20,West
+68000000,Baluwatar,2.5,3,6,2806.45,14,East
+71500000,Baluwatar,3.5,7,8,2053.5,12.5,East
+67500000,Baluwatar,2.5,4,7,2652.4375,13,West
+80000000,Baluwatar,2.5,3,3,3422.5,13,West
+80000000,Baluwatar,3,5,4,3422.5,13,West
+80000000,Baluwatar,3,5,4,3422.5,13,West
+75000000,Baluwatar,3,4,5,2139.06,13,West
+80000000,Baluwatar,3,3,5,2053.5,13,West
+55000000,Baluwatar,3,3,6,2909.125,13,West
+55000000,Baluwatar,2.5,3,6,2909.125,13,West
+65000000,Baluwatar,2.5,4,5,1711.25,13,West
+58500000,Baluwatar,2.5,5,4,1369,13,West
+36000000,Nakkhu,3.5,5,4,1454.5625,13,West
+44000000,Nakkhu,2.5,4,3,1347.6,13,West
+20000000,Nakkhu,2.5,3,1,855.62,13,West
+18000000,Nakkhu,3,5,4,1026.75,13,North
+23000000,Nakkhu,2.5,3,4,1026.75,16,South
+25500000,Nakkhu,2.5,4,4,1540.125,14,North West
+26500000,Nakkhu,2,4,4,1369,16,East
+26500000,Nakkhu,3,4,4,1369,16,South West
+26500000,Nakkhu,2.5,4,4,1197.875,20,South East
+28000000,Nakkhu,2.5,5,4,1369,20,East
+29000000,Nakkhu,2.5,5,4,1540.125,15,South
+29000000,Nakkhu,2.5,5,4,1369,20,East
+31000000,Nakkhu,2.5,5,6,1437.45,16.5,North
+32500000,Nakkhu,3,4,7,1369,14.5,South West
+33000000,Nakkhu,2.5,4,4,1403.225,15,South West
+36000000,Nakkhu,3,3,5,1403.225,10,North East
+36000000,Nakkhu,2,5,4,1454.5625,13,South West
+36000000,Nakkhu,2.5,5,4,1403.225,13,South West
+36000000,Nakkhu,2.5,5,4,1454.5625,13,South West
+38000000,Nakkhu,2.5,4,4,1745.475,12.5,West
+39000000,Nakkhu,2.5,4,4,1711.25,13,East
+39000000,Nakkhu,3.5,6,5,1197.875,13,East
+39500000,Nakkhu,2.5,4,4,1711.25,13,East
+39900000,Nakkhu,2,4,4,1711.25,13,East
+43000000,Nakkhu,2.5,3,5,1711.25,18,South
+53000000,Nakkhu,2.5,4,4,1779.7,13,South West
+41000000,Nakkhu,2.5,4,4,2224.62,13,West
+25000000,Nakkhu,2,4,3,1540.125,13,East
+29000000,Nakkhu,2.5,4,3,1129.425,18,South
+65000000,Nakkhu,3,4,5,1540.125,13,West
+29900000,Nakkhu,3.5,5,4,1112.3125,13,West
+29900000,Nakkhu,3.5,5,4,1112.3125,13,West
+29900000,Nakkhu,3.5,5,6,1163.65,13,West
+48000000,Nakkhu,3.5,4,4,1779.7,13,West
+60000000,Nakkhu,2.5,4,5,3080.25,13,West
+31000000,Nakkhu,2.5,3,4,1026.75,13,West
+55000000,Nakkhu,2.5,4,5,3080.25,13,West
+38000000,Nakkhu,3.5,3,5,1518.73,13,West
+23000000,Nakkhu,3,3,6,941.18,13,West
+25000000,Nakkhu,3,3,6,941.1875,13,West
+25000000,Nakkhu,3,3,5,855.625,13,West
+25000000,Hattiban,3,3,4,855.625,13,West
+22500000,Hattiban,3,3,5,1197.875,13,West
+29000000,Hattiban,3,3,5,1026.75,13,West
+36000000,Hattiban,2.5,3,5,1369,13,West
+25000000,Hattiban,2.5,4,8,1471.675,13,West
+23000000,Hattiban,2.5,3,5,1095.2,13,West
+16000000,Hattiban,3,1,1,1026.75,20,East
+20000000,Hattiban,2,2,4,1026.75,14,South East
+20000000,Hattiban,2,2,3,1026.75,14,South East
+21500000,Hattiban,2.5,4,6,1369,12,East
+21500000,Hattiban,2.5,4,4,1711.25,20,South East
+23500000,Hattiban,2.5,3,5,1197.87,13,South
+24000000,Hattiban,2.5,3,3,1369,16,South West
+25000000,Hattiban,3,3,6,700,20,North East
+25500000,Hattiban,2.5,5,6,1095.2,13,South
+26000000,Hattiban,2.5,3,8,2087.725,15,South
+26500000,Hattiban,3,5,6,1380,13,East
+28700000,Hattiban,3,6,6,1403.225,13,South
+28700000,Hattiban,3.5,5,6,1403.225,13,South
+29000000,Hattiban,2.5,4,4,1882.375,12,North
+29000000,Hattiban,2.5,4,6,1112.3125,13,West
+32500000,Hattiban,3,4,5,1369,13,South
+32500000,Hattiban,2.5,3,3,1095.2,20,West
+34000000,Hattiban,3.5,4,8,1095.2,13,East
+35000000,Hattiban,3.5,4,5,1369,13,North East
+39500000,Hattiban,3,5,7,1403.225,13,North East
+40000000,Hattiban,3,5,7,1403.225,13,North East
+45000000,Hattiban,2.5,5,5,2053.5,16,North
+46000000,Hattiban,3,4,4,1540.125,13,East
+46000000,Hattiban,2,4,5,1711.25,14,East
+46000000,Hattiban,2.5,5,4,1129.425,15,South
+50000000,Hattiban,3,4,5,2100,16,South
+50000000,Hattiban,2.5,3,4,1200,20,North
+55000000,Hattiban,3,5,5,2395.75,20,South
+24000000,Hattiban,2.5,4,9,1026.75,13,West
+40000000,Hattiban,2.5,3,6,1745.475,13,West
+67500000,Hattiban,2.5,3,3,1369,13,West
+27500000,Hattiban,3,3,1,1369,13,West
+26500000,Hattiban,3,3,5,1369,13,West
+24000000,Hattiban,2.5,5,4,1540.125,13,West
+36000000,Hattiban,2.5,5,6,1369,13,West
+26000000,Hattiban,2.5,4,6,1540.125,13,West
+58000000,Golfutar,3,4,5,1711.25,13,West
+45500000,Golfutar,2.5,3,5,1625.68,13,West
+36500000,Golfutar,2.5,3,5,1711.25,13,West
+18000000,Golfutar,3,4,6,1026.75,13,East
+19700000,Golfutar,3.5,4,4,1026.75,15,North East
+22000000,Golfutar,2.5,3,6,1197.87,13,North East
+22500000,Golfutar,3,3,6,1060.975,13,North East
+27500000,Golfutar,2.5,3,3,1060.975,16,South West
+28500000,Golfutar,2.5,4,5,1475.95,14,East
+29000000,Golfutar,2.5,3,5,1369,15,South West
+29000000,Golfutar,2.5,5,5,1095.2,16,West
+29500000,Golfutar,2.5,3,4,1369,16,South
+31500000,Golfutar,2.5,5,5,1095.2,20,North East
+32500000,Golfutar,2.5,2,4,1369,13,East
+32500000,Golfutar,2.5,4,5,1369,16,East
+35000000,Golfutar,2,4,4,2395.75,15,East
+35000000,Golfutar,2,4,4,2395.75,20,East
+36500000,Golfutar,2.5,3,5,1369,20,East
+37000000,Golfutar,3,6,5,1369,20,South
+37000000,Golfutar,3,5,5,1369,20,South
+40000000,Golfutar,3,5,4,2139.0625,13,North
+43000000,Golfutar,2.5,5,5,1779.7,15.12944333,East
+43000000,Golfutar,3,4,4,2139.0625,20,South East
+43500000,Golfutar,2.5,3,3,1437.45,16,West
+44500000,Golfutar,2.5,5,5,1711.25,15,West
+45000000,Golfutar,3,6,6,2053.5,15,East
+45000000,Golfutar,3,7,6,2053.5,15,East
+47500000,Golfutar,3,5,4,3080.25,15,East
+47500000,Golfutar,2,4,5,3080.25,16,South East
+50500000,Golfutar,2.5,5,5,2738,13,East
+54900000,Golfutar,2,5,5,2395.75,13,North East
+55000000,Golfutar,2,4,4,3080.25,20,South East
+65000000,Golfutar,2.5,4,5,2087.725,14,South
+35500000,Golfutar,2.5,2,4,1540.125,13,West
+67500000,Golfutar,3,4,5,2224.625,13,West
+75000000,Golfutar,3,4,4,3422.5,13,West
+49999999,Golfutar,3,5,5,2395.75,13,West
+43500000,Golfutar,3.5,3,3,1540.125,13,West
+49000000,Golfutar,3.5,4,4,2395.75,13,West
+35000000,Golfutar,2.5,4,9,2053.5,13,West
+56000000,Golfutar,2.5,3,5,2053.5,13,West
+72500000,Golfutar,2.5,4,5,3422.5,13,West
+32500000,Basundhara,3,3,8,1882.375,13,West
+55000000,Basundhara,3,4,5,2395.75,13,West
+42000000,Basundhara,3,5,6,1540.125,13,West
+21500000,Basundhara,3,3,6,1197.875,13,West
+20000000,Basundhara,3,2,5,1369,13,West
+31000000,Basundhara,3,4,6,1369,13,West
+37500000,Basundhara,3,3,5,1437.45,13,West
+42000000,Basundhara,3,5,6,1540.125,13,West
+65000000,Basundhara,3,5,7,3080.25,13,West
+42000000,Basundhara,2.5,5,5,1745.475,13,West
+45000000,Basundhara,3,5,6,2053.5,13,West
+43500000,Basundhara,3,3,6,1711.25,13,West
+41000000,Basundhara,2.5,4,5,1745.475,13,West
+35000000,Basundhara,3,3,5,1369,13,West
+45000000,Basundhara,2.5,4,4,1711.25,13,West
+33500000,Basundhara,3,4,5,1369,13,West
+25000000,Basundhara,3,3,5,855.625,13,West
+62500000,Basundhara,2.5,3,5,1711.25,13,West
+39500000,Basundhara,2.5,3,5,1711.25,13,West
+19500000,Basundhara,3,3,3,941.1875,12,South East
+22500000,Basundhara,3,5,5,1112.3125,14,East
+22500000,Basundhara,2,3,4,1112.3125,16,East
+23000000,Basundhara,2,3,4,1112.3125,15,South
+25000000,Basundhara,3.5,4,6,1369,13,South East
+25500000,Basundhara,3,4,7,1369,14,East
+29800000,Basundhara,3,5,5,1454.5625,16,East
+30000000,Basundhara,3,4,4,1369,10,South
+31000000,Basundhara,2.5,3,5,1711.25,13,South West
+32500000,Basundhara,2.5,3,6,1882.375,15,South
+35000000,Basundhara,2,1,2,2139.0625,12,East
+35000000,Basundhara,2.5,1,2,1882.375,13,East
+35000000,Basundhara,3,7,6,1711.25,15,East
+36000000,Basundhara,3.5,6,4,1796.8125,15,South East
+36500000,Basundhara,2,3,4,1711.25,15,East
+39000000,Basundhara,3,2,5,1711.25,14,South
+39900000,Basundhara,3,6,5,2395.75,14,East
+41000000,Basundhara,3,6,7,2395.75,20,East
+42000000,Basundhara,2.5,5,6,1437.45,16,South East
+45000000,Basundhara,3,6,6,2738,15,South West
+45000000,Basundhara,3,6,6,2738,20,South West
+49000000,Basundhara,3,6,6,1967.9375,14,South
+67000000,Basundhara,2.5,5,5,2481.31,13,West
+67000000,Basundhara,2.5,3,3,2429.975,13,West
+72500000,Basundhara,2.5,6,9,2395.75,13,East
+49500000,Basundhara,2.5,4,4,2395.75,13,West
+22500000,Basundhara,3,3,4,941.1875,13,West
+35500000,Basundhara,3,5,5,1369,13,West
+42500000,Basundhara,2.5,4,5,684.5,13,West
+35000000,Dhapasi,3,3,5,2121.95,13,West
+29000000,Dhapasi,3,3,4,1026.75,13,West
+37500000,Dhapasi,2.5,4,7,1711.25,13,West
+28000000,Dhapasi,2.5,3,5,1540.125,13,West
+17000000,Dhapasi,3,3,4,1112.3125,13,East
+19500000,Dhapasi,2.5,3,5,1026.75,12,East
+21000000,Dhapasi,2.5,3,5,1060.975,12,East
+21000000,Dhapasi,2,3,5,1026.75,13,West
+23000000,Dhapasi,3,3,4,1112.3125,13,North East
+25500000,Dhapasi,3,6,5,1454.5625,13,East
+26000000,Dhapasi,3,3,4,2139.0625,15,West
+27000000,Dhapasi,2.5,3,5,1026.75,13,North
+28500000,Dhapasi,2.5,4,4,1095.2,16,East
+29000000,Dhapasi,2.5,3,4,1095.2,14,North
+29500000,Dhapasi,2.5,3,3,1369,13,South
+29500000,Dhapasi,2.5,4,5,1369,13,East
+29500000,Dhapasi,2.5,3,5,1026.75,13,West
+31000000,Dhapasi,2.5,3,5,1129.425,13,South West
+32000000,Dhapasi,2.5,6,6,1711.25,13,East
+32000000,Dhapasi,2.5,5,6,1711.25,13,East
+32500000,Dhapasi,2.5,1,5,2053.5,10,East
+32500000,Dhapasi,2.5,5,5,1711.25,13,East
+33500000,Dhapasi,3,4,4,1711.25,20,North East
+35000000,Dhapasi,2,4,4,1711.25,15,East
+36000000,Dhapasi,3.5,7,7,1403.225,16,South East
+37500000,Dhapasi,3,4,6,1369,13,East
+39000000,Dhapasi,2.5,4,7,2395.75,12,East
+40000000,Dhapasi,3,4,8,2994.6875,12,South
+41000000,Dhapasi,3,4,5,1369,20,South East
+42500000,Dhapasi,2.5,5,6,1711.25,18,South
+44000000,Dhapasi,2.5,4,5,2395.75,13,North East
+45000000,Dhapasi,3,6,6,2738,20,South West
+47000000,Dhapasi,2.5,2,6,3080.25,12,East
+47500000,Dhapasi,2.5,4,3,2087.725,15,South East
+50000000,Dhapasi,2.5,4,4,2395.75,10,South
+51000000,Dhapasi,2.5,2,4,2053.5,20,East
+58000000,Dhapasi,3.5,5,5,3114.475,17.5,South
+65000000,Dhapasi,3,6,6,2738,20,West
+58000000,Dhapasi,2.5,3,4,3422.5,13,West
+35000000,Dhapasi,3,4,5,1711.25,13,West
+26500000,Dhapasi,3,5,6,1197.875,13,West
+34000000,Dhapasi,3,4,6,1283.4375,13,West
+32500000,Dhapasi,3,3,3,1369,13,West
+44000000,Dhapasi,3,4,7,1711.25,13,West
+37500000,Dhapasi,3,3,5,2395.75,13,West
+47500000,Dhapasi,3,5,4,2395.75,13,West
+47500000,Dhapasi,2.5,5,5,2395.75,13,West
+33000000,Dhapasi,2.5,3,5,1155.09,13,West
+25500000,Dhapasi,2.5,5,6,1095.2,13,West
+55000000,Pasikot,2.5,5,5,3080.25,13,West
+29000000,Pasikot,3,3,5,1369,13,West
+25000000,Pasikot,2.5,3,4,1026.75,13,West
+27000000,Pasikot,2.5,4,6,1711.25,13,West
+30000000,Pasikot,3,4,8,1540.125,13,West
+28000000,Pasikot,3,4,4,1369,13,West
+33500000,Pasikot,3,5,3,1369,13,West
+28000000,Pasikot,3,4,4,1026.75,13,West
+28500000,Pasikot,3,4,6,1369,13,West
+28000000,Pasikot,3,3,5,1369,13,West
+28000000,Pasikot,3,4,5,1369,13,West
+34500000,Pasikot,3,3,3,1369,13,West
+30000000,Pasikot,3,5,8,1540.125,13,West
+33000000,Pasikot,3,3,5,1711.25,13,West
+42500000,Pasikot,3.5,4,6,2053.5,13,West
+50000000,Pasikot,3,2,5,3080.25,13,West
+28000000,Pasikot,3,4,8,1711.25,13,West
+28000000,Pasikot,2.5,5,8,1711.25,13,West
+16800000,Pasikot,3,5,5,1026.75,14,North East
+17500000,Pasikot,3,2,6,1197.875,12,North
+22500000,Pasikot,3,5,6,1197.87,15,South East
+24000000,Pasikot,2.5,2,5,1369,20,South East
+24500000,Pasikot,2.5,5,6,1369,13,South East
+28000000,Pasikot,3.5,4,8,1711.25,13,South
+28000000,Pasikot,3,3,8,1796.8125,14,East
+30000000,Pasikot,3,4,5,1369,20,West
+30000000,Pasikot,2.5,4,5,1471.675,20,South
+30000000,Pasikot,2.5,5,4,1779.7,20,North East
+31000000,Pasikot,2.5,2,5,1411.78,12,South East
+31000000,Pasikot,2.5,3,5,1300.55,13,East
+32000000,Pasikot,2.5,4,5,2053.5,13,South East
+32000000,Pasikot,2.5,5,4,1882.375,20,North
+32500000,Pasikot,3.5,2,5,1745.475,10,East
+32500000,Pasikot,2.5,5,6,1754.03,14,East
+33000000,Pasikot,2.5,4,6,2053.5,13,South East
+33500000,Pasikot,2.5,4,5,1711.25,13,South
+34000000,Pasikot,2.5,4,5,1369,13,South East
+34000000,Pasikot,2.5,5,6,1711.25,13,North East
+34000000,Pasikot,2.5,5,5,1754.03,14,East
+35000000,Pasikot,3,6,7,1711.25,12,South
+35000000,Pasikot,2.5,4,5,1369,13,South East
+36000000,Pasikot,2.5,4,5,1711.25,13,North
+36000000,Pasikot,2.5,5,6,1711.25,13,North East
+38000000,Pasikot,2.5,3,5,1745.475,14,South
+38000000,Pasikot,2.5,3,5,1745.475,14,South West
+42500000,Pasikot,2.5,5,4,2738,15,North East
+45000000,Pasikot,2.5,3,4,2738,15,North East
+53500000,Pasikot,3.5,5,7,2429.975,18.5,South West
+40000000,Pasikot,3,3,5,2053.5,13,West
+33500000,Pasikot,3,3,5,1711.25,13,West
+28000000,Pasikot,3,3,5,1129.425,13,West
+52500000,Kapan,3,5,4,3080.25,13,West
+25500000,Kapan,3,2,5,1197.875,13,West
+24000000,Kapan,3,3,7,1026.75,13,West
+26300000,Kapan,3,3,6,1711.25,13,West
+36000000,Kapan,3,5,6,1711.25,13,West
+17000000,Kapan,2.5,4,5,1026.75,13,West
+22000000,Kapan,2.5,3,5,1026.75,13,West
+12500000,Kapan,3,3,3,1026.75,10,North
+12500000,Kapan,2.5,3,4,684.5,12,South West
+14000000,Kapan,3,2,2,1197.875,12,East
+14000000,Kapan,2.5,2,3,1095.2,13,East
+17000000,Kapan,3,5,4,1026.75,16,West
+18000000,Kapan,3,3,6,1625.6875,13,South
+18200000,Kapan,3,5,5,1197.875,13,East
+20000000,Kapan,3,3,8,1540.12,13,South East
+22000000,Kapan,3,5,6,1711.25,14,East
+23500000,Kapan,2.5,3,5,1197.875,10,South East
+23500000,Kapan,3,5,5,1796.8125,13,South West
+24000000,Kapan,2.5,5,6,1129.425,12,West
+24000000,Kapan,2,3,5,1283.4375,13,East
+24000000,Kapan,3.5,4,7,1197.875,13,West
+25000000,Kapan,2.5,5,7,1540.125,12,North East
+26000000,Kapan,3,5,6,1369,14,East
+26000000,Kapan,2,3,4,1369,14,North East
+26000000,Kapan,2,2,2,1625.68,10,North
+26500000,Kapan,2.5,3,5,1369,10,East
+26500000,Kapan,2.5,5,5,1437.45,13,East
+27000000,Kapan,2.5,5,5,1369,13,East
+27200000,Kapan,2.5,3,6,1540.125,13,East
+27500000,Kapan,2.5,2,5,1197.875,11,East
+27500000,Kapan,3,5,6,1369,16,East
+28000000,Kapan,3,3,6,1390.390625,13,North
+28000000,Kapan,2.5,4,7,1369,13,East
+28000000,Kapan,2,3,4,1796.8125,14,South East
+29000000,Kapan,3,1,1,1369,10,South East
+29500000,Kapan,3,3,7,1732.640625,13,South
+30000000,Kapan,2.5,1,1,1471.675,15,South East
+31000000,Kapan,3.5,3,8,1369,12,North
+31000000,Kapan,2.5,4,5,1625.6875,12,West
+32000000,Kapan,2.5,4,5,1369,13,South East
+32500000,Kapan,3,3,6,1813.925,13,South East
+33000000,Kapan,3,3,6,1540.125,13,East
+35500000,Kapan,2.5,1,5,1403.225,13,West
+36000000,Kapan,3.5,5,6,1711.25,13,North
+37000000,Kapan,3.5,4,7,2087.725,20,East
+39000000,Kapan,3.5,3,6,1095.2,12,East
+40000000,Kapan,2,5,5,2053.5,20,East
+41000000,Kapan,3.5,1,1,2053.5,20,East
+42000000,Kapan,3.5,4,6,1540.125,20,South West
+50000000,Kapan,2.5,4,6,2053.5,14,East
+52500000,Kapan,2.5,5,5,3080.25,20,South East
+52500000,Kapan,2.5,5,5,3080.25,20,South West
+36500000,Bhangal,3,3,6,1369,13,West
+37500000,Bhangal,3,5,5,1437.45,13,West
+18500000,Bhangal,3,3,4,787.175,13,West
+29500000,Bhangal,3,4,7,1129.425,13,West
+18000000,Bhangal,2,3,5,1369,13,West
+28500000,Bhangal,2.5,3,4,1095.2,13,West
+24000000,Bhangal,3,5,6,1048.14,13,West
+19500000,Bhangal,3,5,4,752.95,13,West
+37500000,Bhangal,3,4,7,1026.75,13,West
+24000000,Bhangal,3,5,6,1048.14,13,West
+25000000,Bhangal,3,4,7,1197.875,13,West
+23000000,Bhangal,3,4,5,1437.45,13,West
+38500000,Bhangal,3,5,6,1711.25,13,West
+37500000,Bhangal,3,4,6,1711.25,13,West
+19000000,Bhangal,3,3,3,855.625,13,West
+35000000,Bhangal,3,4,5,1369,13,West
+34000000,Bhangal,2.5,4,4,1283.43,13,West
+38900000,Bhangal,2.5,5,7,1581.195,13,West
+16500000,Bhangal,2.5,4,5,1197.875,13,South West
+16500000,Bhangal,3,4,5,1454.5625,13,South West
+17900000,Bhangal,3,5,5,1454.5625,14,East
+19900000,Bhangal,3,5,6,1112.3125,12,South West
+21000000,Bhangal,2.5,6,6,1112.31,12,West
+21000000,Bhangal,2,4,5,1454.5625,13,West
+21000000,Bhangal,2.5,3,6,1026.75,20,East
+21500000,Bhangal,3,5,5,1454.5625,13,East
+21500000,Bhangal,3,5,5,1454.5625,13,South
+21500000,Bhangal,3,5,6,1454.5625,20,North East
+22000000,Bhangal,2.5,5,7,1069.53,13,East
+23000000,Bhangal,3,5,5,1369,13,West
+23800000,Bhangal,2.5,5,5,1454.56,13,East
+23800000,Bhangal,3,6,6,1369,18,East
+24000000,Bhangal,3,6,6,1369,14,South East
+24000000,Bhangal,3,6,6,1369,15,North West
+25000000,Bhangal,3,3,4,1369,13,East
+27000000,Bhangal,2.5,4,5,1369,12,South East
+27500000,Bhangal,3,6,6,1369,14,East
+28500000,Bhangal,2.5,3,4,1095.2,9,East
+28500000,Bhangal,3,6,6,1796.8125,20,East
+30000000,Bhangal,2.5,4,6,1095.2,12,North
+32000000,Bhangal,2.5,6,5,1060.975,13,North
+33500000,Bhangal,3,4,4,1796.8125,12,South
+34000000,Bhangal,2.5,5,3,1711.25,13,South West
+34500000,Bhangal,3,5,5,2395.75,15,South West
+35000000,Bhangal,2.5,4,6,2053.5,13,South
+35000000,Bhangal,2.5,3,3,1711.25,14,East
+40000000,Bhangal,2.5,4,5,1711.25,20,East
+45000000,Bhangal,3,6,7,1745.475,13,South West
+56000000,Bhangal,3.5,3,6,2738,13,West
+27500000,Bhangal,2.5,3,5,1112.31,13,West
+37000000,Bhangal,3.5,4,5,1604.29,13,West
+20000000,Bhangal,3.5,3,6,1048.14,13,West
+65000000,Talchhikhel ,3,3,5,2395.75,13,West
+23000000,Talchhikhel ,3,4,4,684.5,13,West
+22000000,Talchhikhel ,3,3,5,1026.75,13,West
+25500000,Talchhikhel ,3,3,5,1026.75,13,West
+26000000,Talchhikhel ,3,3,3,1026.75,13,West
+23000000,Talchhikhel ,3,3,5,1026.75,13,West
+25500000,Talchhikhel ,3,4,4,1026.75,13,West
+33000000,Talchhikhel ,3,2,4,1026.75,13,West
+23500000,Talchhikhel ,3,4,4,1026.75,13,West
+23500000,Talchhikhel ,3,4,4,1026.75,13,West
+23500000,Talchhikhel ,3,4,4,1026.75,13,West
+26500000,Talchhikhel ,3,4,4,1026.75,13,West
+32500000,Talchhikhel ,3,3,5,1026.75,13,West
+37500000,Talchhikhel ,3,5,6,1711.25,13,West
+26000000,Talchhikhel ,3,3,2,1369,13,West
+60000000,Talchhikhel ,3,5,5,1711.25,13,West
+33500000,Talchhikhel ,3,4,8,1711.25,13,West
+42500000,Talchhikhel ,3,5,9,1437.45,13,West
+38000000,Talchhikhel ,3,4,5,1437.45,13,West
+45000000,Talchhikhel ,3,5,4,1369,13,West
+29500000,Talchhikhel ,3,5,6,1369,13,West
+27000000,Talchhikhel ,3,4,4,1026.75,13,West
+22000000,Talchhikhel ,3,4,5,1026.75,13,West
+27000000,Talchhikhel ,3,4,4,1026.75,13,West
+27500000,Talchhikhel ,3,4,5,1026.75,13,West
+25500000,Talchhikhel ,3,4,5,1026.75,13,West
+33000000,Talchhikhel ,3,4,6,1026.75,13,West
+33000000,Talchhikhel ,3,4,5,1026.75,13,West
+24000000,Talchhikhel ,3,4,6,1060.975,13,West
+29500000,Talchhikhel ,3,4,5,1095.2,13,West
+22500000,Talchhikhel ,3,4,6,1197.87,13,West
+37500000,Talchhikhel ,3,5,5,1369,13,West
+13500000,Talchhikhel ,3,3,5,1369,13,West
+34500000,Talchhikhel ,3,4,5,1369,13,West
+31500000,Talchhikhel ,3,4,4,1026.75,13,West
+26500000,Talchhikhel ,3,4,4,1026.75,13,West
+32500000,Talchhikhel ,3,4,6,1026.75,13,West
+25500000,Talchhikhel ,3,4,5,1026.75,13,West
+23000000,Talchhikhel ,3,3,7,1026.75,13,West
+22500000,Talchhikhel ,3,4,4,684.5,13,West
+28500000,Talchhikhel ,3,4,4,941.18,13,West
+24000000,Talchhikhel ,3,3,4,1026.75,13,West
+23000000,Talchhikhel ,3,3,7,1026.75,13,West
+28000000,Talchhikhel ,3,3,7,1026.75,13,West
+27000000,Talchhikhel ,3,3,5,1026.75,13,West
+32000000,Talchhikhel ,3,5,4,1369,13,West
+31500000,Talchhikhel ,3,4,5,1026.75,13,West
+26500000,Talchhikhel ,2.5,5,5,1026.75,13,West
+38000000,Talchhikhel ,2.5,4,6,1369,13,West
+65000000,Talchhikhel ,2.5,4,6,2053.5,13,West
+22500000,Talchhikhel ,2.5,4,5,941.18,13,West
+26500000,Talchhikhel ,2.5,4,8,598.93,13,West
+31000000,Talchhikhel ,2.5,4,5,1026.75,13,West
+47500000,Talchhikhel ,2.5,5,7,1369,13,West
+28000000,Talchhikhel ,2.5,4,8,1711.25,13,West
+70000000,Talchhikhel ,2.5,5,4,2053.5,13,West
+32500000,Tokha,2.5,3,3,1369,13,West
+35000000,Tokha,2.5,4,5,1711.25,13,West
+22500000,Tokha,3,3,5,1026.75,13,West
+24500000,Tokha,3,3,6,1026.75,13,West
+26500000,Tokha,3,3,6,1369,13,West
+25500000,Tokha,3,4,6,1369,13,West
+25500000,Tokha,3,5,6,1369,13,West
+27500000,Tokha,2.5,5,7,1026.75,13,West
+36000000,Tokha,3,4,7,1497.34,13,West
+28000000,Tokha,3,4,6,1283.43,13,West
+26000000,Tokha,3,4,3,1112.31,13,West
+22500000,Tokha,3,3,4,1026.75,13,West
+30000000,Tokha,2.5,5,9,1197.875,13,West
+25000000,Tokha,3,2,3,1711.25,13,West
+67500000,Tokha,2.5,4,3,2395.75,13,West
+25000000,Tokha,3,3,4,1369,13,West
+30000000,Tokha,2.5,4,4,1369,13,West
+32500000,Tokha,3,3,5,1711.25,13,West
+33000000,Tokha,3,2,3,1369,13,West
+37500000,Tokha,3,3,5,1283.43,13,West
+27500000,Tokha,3,4,6,1197.875,13,West
+22000000,Tokha,3,4,5,1026.75,13,West
+27000000,Tokha,3,4,6,1711.25,13,West
+19500000,Tokha,2.5,3,5,1026.75,13,West
+14200000,Tokha,2,2,4,1112.3125,13,West
+17800000,Tokha,3,6,5,1112.3125,12,South
+19000000,Tokha,2,3,4,2930.515625,12,East
+21000000,Tokha,3,6,6,1026.75,13,East
+22000000,Tokha,3,5,5,1112.3125,13,East
+23000000,Tokha,3,5,6,1369,13,East
+23500000,Tokha,3,6,7,1283.4375,15,East
+24000000,Tokha,3,3,5,1026.75,11,South
+24500000,Tokha,3,3,7,1540.125,10,South East
+25000000,Tokha,2,3,4,1112.3125,12,East
+25000000,Tokha,3,6,7,1882.375,18,West
+26000000,Tokha,2.5,3,6,1369,10,North East
+26000000,Tokha,3,4,3,1112.3125,13,South West
+26000000,Tokha,2.5,4,3,1026.75,14,South West
+26000000,Tokha,2.5,4,5,1500,20,East
+26500000,Tokha,2.5,3,6,1026.75,13,West
+28000000,Tokha,2.5,5,5,1471.675,15,South
+29000000,Tokha,3,5,6,1369,13,South
+29500000,Tokha,2,3,4,1369,13,East
+30000000,Tokha,3,5,6,1711.25,14,North
+33500000,Tokha,3,6,6,1369,14,South East
+37500000,Tokha,3,4,6,1369,13,East
+41000000,Tokha,3,4,5,1411.78125,20,South East
+45000000,Tokha,2.5,3,5,1779.7,12,North East
+53000000,Tokha,3,4,6,2823.5625,15,West
+70000000,Tokha,2.5,6,5,2806.45,18,West
+70000000,Tokha,3,7,5,2909.125,18,North West
+58000000,Tokha,3,3,4,3422.5,13,West
+23500000,Tokha,3,4,5,1026.75,13,West
+80000000,Tokha,3,4,5,3175.4355,13,West
+29000000,Tokha,3,5,7,1369,13,West
+57500000,Tokha,2.5,3,5,3422.5,13,West
+52500000,Tokha,2.5,3,3,2053.5,13,West
+30000000,Hattigauda,3,3,4,1095.2,13,West
+62500000,Hattigauda,2.5,5,6,2053.5,13,West
+25000000,Hattigauda,2,3,5,1711.25,13,West
+42000000,Hattigauda,2.5,5,4,1711.25,13,West
+67500000,Hattigauda,2.5,2,4,2053.5,13,West
+34500000,Hattigauda,3,5,5,1540.125,13,West
+33000000,Hattigauda,3,4,7,2053.5,13,West
+46000000,Hattigauda,3,5,4,1779.7,13,West
+35000000,Hattigauda,3,4,6,1711.25,13,West
+52500000,Hattigauda,3,3,4,3080.25,13,West
+34500000,Hattigauda,3,4,5,1540.125,13,West
+35200000,Hattigauda,3,4,5,1390.39,13,West
+31500000,Hattigauda,3,4,6,1369,13,West
+31500000,Hattigauda,3,5,6,1369,13,West
+39500000,Hattigauda,3,5,5,1369,13,West
+36800000,Hattigauda,3.5,4,4,1369,13,West
+35000000,Hattigauda,3.5,4,5,1369,13,West
+58000000,Hattigauda,3,4,8,2053.5,13,West
+31500000,Hattigauda,2.5,3,5,1197.875,13,West
+35000000,Hattigauda,2.5,5,7,1711.25,13,West
+53000000,Hattigauda,2.5,4,6,3114.475,13,West
+58000000,Hattigauda,2.5,3,8,2053.5,13,West
+50000000,Hattigauda,2.5,4,5,2395.75,13,West
+42500000,Hattigauda,3,5,5,1369,13,West
+35000000,Hattigauda,3,4,5,3080.25,13,West
+27500000,Hattigauda,3,3,4,1540.12,13,West
+26500000,Hattigauda,3,3,5,1026.75,13,West
+27000000,Hattigauda,3,4,4,1060.975,13,West
+22000000,Hattigauda,3,3,6,1112.31,13,West
+17500000,Hattigauda,3,4,8,1112.3125,13,West
+27500000,Hattigauda,2.5,3,6,1095.2,13,West
+26500000,Hattigauda,3,6,6,1711.25,14,West
+28000000,Hattigauda,2.5,3,5,1369,12,East
+28500000,Hattigauda,3,5,5,1369,15,North
+31000000,Hattigauda,3,5,6,1711.25,13,North
+33400000,Hattigauda,3,5,5,1711.25,13,South West
+33400000,Hattigauda,2.5,5,5,1754.03,13,South East
+33500000,Hattigauda,3,5,5,2139.0625,13,North West
+33500000,Hattigauda,3,5,5,2139.0625,14,North West
+34000000,Hattigauda,2.5,4,6,2395.75,13,South West
+34000000,Hattigauda,3,3,4,1369,13,South East
+34500000,Hattigauda,3,5,5,1711.25,13,South
+34500000,Hattigauda,2.5,4,5,1711.25,13,South
+35500000,Hattigauda,3,5,5,2139.0625,13,North West
+35500000,Hattigauda,2,4,4,2139.0625,15,East
+36500000,Hattigauda,3,3,5,2224.625,13,North East
+36500000,Hattigauda,3,3,4,2121.95,13,North East
+36500000,Hattigauda,2.5,5,5,2121.95,15,East
+37500000,Hattigauda,2,2,5,2139.05,12,East
+37500000,Hattigauda,2,3,4,1711.25,15,South East
+37500000,Hattigauda,2.5,5,7,2053.5,14,North East
+39000000,Hattigauda,3.5,7,5,1745.475,13,North
+45000000,Hattigauda,3,5,5,2053.5,13,North
+45000000,Hattigauda,3,4,5,1882.375,13,East
+45000000,Hattigauda,3,6,6,3165.8125,13,East
+45000000,Hattigauda,3,4,6,1711.25,13,North
+45000000,Hattigauda,2.5,5,6,1711.25,15,North East
+50000000,Hattigauda,2.5,5,4,1540.125,20,West
+57500000,Hattigauda,2.5,5,6,2053.5,15,South East
+65000000,Hattigauda,2.5,7,6,2121.95,14,East
+77000000,Hattigauda,2.5,5,4,2121.95,20,West
+24000000,Tikathali,2.5,3,3,3300,13,West
+24000000,Tikathali,3,4,4,1026.75,13,West
+22000000,Tikathali,3,3,5,1026.75,13,West
+22500000,Tikathali,2.5,3,4,1026.75,13,West
+25000000,Tikathali,2.5,4,6,1369,13,West
+14500000,Tikathali,2.5,3,4,1026.75,13,West
+23000000,Tikathali,2.5,2,4,1369,13,West
+24000000,Tikathali,3,4,5,787.175,13,West
+19000000,Tikathali,3,3,4,1005.35,13,West
+24000000,Tikathali,3,4,5,1026.75,13,West
+23500000,Tikathali,3,4,5,1026.75,13,West
+23000000,Tikathali,3,2,6,1095.2,13,West
+18500000,Tikathali,3,3,5,1219.26,13,West
+24000000,Tikathali,3,4,6,1283.4375,13,West
+23000000,Tikathali,3,2,6,1369,13,West
+21800000,Tikathali,3,4,7,1026.75,13,West
+25500000,Tikathali,3,3,7,1219.26,13,West
+24000000,Tikathali,3,3,5,1369,13,West
+22000000,Tikathali,2.5,4,5,1095.2,13,West
+35000000,Tikathali,2.5,4,5,1369,13,West
+23000000,Tikathali,2.5,4,4,1129.425,13,West
+29000000,Tikathali,2.5,4,4,1026.75,13,West
+29000000,Tikathali,2.5,3,5,1369,13,West
+37500000,Tikathali,3,4,6,1369,13,West
+15000000,Tikathali,2.5,2,5,1133.703125,10,East
+16500000,Tikathali,3,3,6,1026.75,10,South
+17000000,Tikathali,2,2,3,1369,13,West
+18500000,Tikathali,3,3,3,855.625,10,North East
+18500000,Tikathali,2.5,2,4,1026.75,13,South
+19500000,Tikathali,2.5,3,5,752.95,13,West
+19500000,Tikathali,3,3,5,1112.3125,13,North
+19500000,Tikathali,2,4,5,1561.515625,15,South East
+19900000,Tikathali,3,4,5,941.1875,13,East
+21500000,Tikathali,2.5,3,9,787.175,13,East
+21500000,Tikathali,2.5,4,6,1369,20,West
+22000000,Tikathali,2.5,4,6,600,12,South East
+22000000,Tikathali,2.5,5,6,1026.75,13,South East
+22500000,Tikathali,2.5,3,6,1112.3125,12,North
+22500000,Tikathali,3,3,6,1197.875,12,East
+22500000,Tikathali,2.5,4,4,1155.09,13,South
+23000000,Tikathali,3,3,6,1069.53125,12,South
+23000000,Tikathali,2.5,4,6,1197.875,12,South East
+23000000,Tikathali,2.5,3,4,1026.75,13,South
+23000000,Tikathali,2.5,3,7,1026.75,13,South
+23000000,Tikathali,2.5,4,4,1026.75,13,East
+23500000,Tikathali,2.5,4,5,1112.3125,13,South East
+23500000,Tikathali,2.5,3,7,1112.3125,20,West
+24100000,Tikathali,2.5,3,7,1026.75,13,North West
+24500000,Tikathali,2.5,5,6,1197.875,16,East
+25000000,Tikathali,2.5,3,6,1060.975,13,North
+25000000,Tikathali,2.5,4,4,1133.7,13,East
+25000000,Tikathali,2.5,3,6,1112.3125,13,South West
+25000000,Tikathali,2.5,5,6,1112.3125,13,South
+25000000,Tikathali,2.5,3,3,1197.875,13,South West
+25000000,Tikathali,2.5,5,6,1026.75,16,East
+26000000,Tikathali,2.5,3,7,1197.875,12,East
+26000000,Tikathali,2.5,3,5,1882.37,12,West
+27000000,Tikathali,2.5,4,7,1403.225,13,North West
+29500000,Tikathali,2,5,5,1095.2,13,East
+35000000,Tikathali,3,5,6,1369,10,North East
+37500000,Tikathali,2.5,4,5,1283.4375,13,South East
+27500000,Tikathali,3,4,5,1095.2,13,West
+18000000,Tikathali,3,4,5,1197.875,13,West
+31000000,Sitapaila,3,3,5,1197.87,13,West
+45000000,Sitapaila,3,4,5,2738,13,West
+25000000,Sitapaila,3,4,4,2395.75,13,West
+28500000,Sitapaila,3,3,6,1240.65,13,West
+27000000,Sitapaila,3,2,5,1197.875,13,West
+30000000,Sitapaila,3,3,6,1026.75,13,West
+40000000,Sitapaila,3,5,7,1540.125,13,West
+16000000,Sitapaila,3,3,5,855.625,13,West
+12000000,Sitapaila,2,2,4,1112.3125,13,North East
+14500000,Sitapaila,2.5,3,3,1095.2,10,East
+15500000,Sitapaila,3,3,5,855.625,13,South
+17000000,Sitapaila,2.5,2,4,1048.14,15,East
+17500000,Sitapaila,2.5,4,5,1112.3125,16,North
+17500000,Sitapaila,2.5,3,3,1347.6,10,South West
+18000000,Sitapaila,3,4,4,1112.3125,13,North
+18500000,Sitapaila,2,3,3,1283.4375,10,South
+20500000,Sitapaila,2.5,4,4,1283.4375,13,East
+21000000,Sitapaila,2,2,5,1197.875,13,South
+21000000,Sitapaila,2.5,5,6,1369,14,East
+21500000,Sitapaila,2.5,4,4,1283.43,13,East
+22000000,Sitapaila,3,4,3,1026.75,14,East
+22000000,Sitapaila,3.5,3,7,787.175,15,North West
+22500000,Sitapaila,2.5,3,4,1060.975,18,North
+23500000,Sitapaila,2.5,3,3,752.95,13,South East
+23500000,Sitapaila,2,3,7,1240.65625,13,East
+24000000,Sitapaila,2.5,4,4,1369,13,East
+24000000,Sitapaila,3,5,8,1369,14,West
+24000000,Sitapaila,2.5,4,4,1437.45,16,North
+25000000,Sitapaila,3.5,3,6,1369,20,North
+25300000,Sitapaila,2.5,5,5,1390.39,13,East
+25500000,Sitapaila,3,4,5,1475.953125,13,East
+25500000,Sitapaila,3,6,6,1369,13,East
+26000000,Sitapaila,3,5,8,85.5625,14,West
+26000000,Sitapaila,2.5,3,5,1403.225,16.5,South
+26500000,Sitapaila,2.5,4,6,1129.425,20,West
+27000000,Sitapaila,2.5,3,4,1403.225,13,East
+27000000,Sitapaila,2.5,4,5,1540.125,13,North
+27000000,Sitapaila,2.5,4,4,1095.2,20,South
+27500000,Sitapaila,2.5,4,4,1090.92,12,North East
+29000000,Sitapaila,2.5,4,4,1711.25,10,West
+29000000,Sitapaila,3,4,6,2053.5,10,East
+29500000,Sitapaila,2.5,5,5,1711.25,13,North
+29500000,Sitapaila,2.5,3,4,1437.45,16,South
+29500000,Sitapaila,3,3,4,2395.75,20,South East
+30000000,Sitapaila,2,4,6,1369,11,North West
+30000000,Sitapaila,2.5,3,6,1437.45,12,North
+30000000,Sitapaila,2.5,2,2,1197.875,13,East
+30500000,Sitapaila,2.5,5,6,2395.75,18,East
+31000000,Sitapaila,2.5,4,5,1369,13,South East
+31500000,Sitapaila,2.5,5,5,1711.25,13,East
+31500000,Sitapaila,2.5,5,6,1818.2,16,East
+35500000,Sitapaila,2.5,4,6,1500,10,East
+35500000,Sitapaila,3,4,6,1369,12,East
+36500000,Sitapaila,2.5,3,4,1437.45,20,North East
+37500000,Sitapaila,2.5,3,4,2395.75,13,South
+38000000,Sitapaila,3.5,7,7,2156.175,11.5,East
+38000000,Sitapaila,2.5,6,6,2053.5,13,East
+47000000,Sitapaila,2.5,3,5,2121.95,20,West
+49500000,Sitapaila,3.5,7,8,2806.45,12,South East
+53600000,Sitapaila,3.5,4,3,2203.234375,20,North
+54000000,Sitapaila,2.5,1,1,2806.45,13,South West
+46500000,Sitapaila,2.5,2,3,1882.375,13,West
+26600000,Sitapaila,3,3,4,1369,13,West
+20000000,Sitapaila,3,3,5,1026.75,13,West
+55000000,Sitapaila,3,4,4,2395.75,13,West
+55000000,Sitapaila,3,3,5,3080.25,13,West
+37500000,Sitapaila,3,4,4,1369,13,West
+20000000,Sitapaila,2.5,3,5,1540.125,13,West
+38000000,Sitapaila,2.5,4,7,2395.75,13,West
+25000000,Bhaisepati,3,3,4,1026.75,13,West
+15500000,Bhaisepati,3,2,4,1437.45,13,West
+36000000,Bhaisepati,2.5,4,5,1711.25,13,West
+32500000,Bhaisepati,2.5,5,5,1240.65,13,West
+36000000,Bhaisepati,2.5,5,5,1369,13,West
+60000000,Bhaisepati,3,3,5,3422.5,13,West
+75000000,Bhaisepati,2.5,4,3,2053.5,13,West
+19000000,Bhaisepati,3,5,4,1900,15,East
+21000000,Bhaisepati,2.5,5,5,1026.75,12,South East
+24500000,Bhaisepati,2.5,5,4,1219.265625,20,South
+25000000,Bhaisepati,3,4,6,1369,13,North
+25000000,Bhaisepati,3.5,5,4,1026.75,16,South East
+26500000,Bhaisepati,2.5,5,5,1095.2,16,North West
+27500000,Bhaisepati,2.5,4,5,1369,13,South
+27500000,Bhaisepati,2.5,4,3,1369,13,West
+27500000,Bhaisepati,2,3,5,1475.953125,20,East
+27500000,Bhaisepati,2.5,5,4,1095.2,20,South
+28000000,Bhaisepati,2.5,4,4,1471.675,16,East
+28500000,Bhaisepati,2.5,4,6,1411.78,13,East
+28500000,Bhaisepati,3,4,5,1647.078125,13,South East
+28500000,Bhaisepati,2,4,4,1133.703125,13,East
+28500000,Bhaisepati,3,5,3,1540.125,18,South West
+29500000,Bhaisepati,2.5,4,4,1369,20,East
+29500000,Bhaisepati,2.5,5,6,1095.2,20,South East
+30000000,Bhaisepati,2,4,5,1026.75,12,West
+30000000,Bhaisepati,3,3,4,1283.4375,13,West
+30000000,Bhaisepati,2.5,4,4,1369,14,East
+31000000,Bhaisepati,2.5,4,5,1129.425,15,South West
+31000000,Bhaisepati,2.5,5,4,1369,18,South East
+31000000,Bhaisepati,3,3,4,1369,18,South East
+31500000,Bhaisepati,3,4,4,1625.6875,12,South
+32000000,Bhaisepati,2.5,4,4,1129.425,16.5,North East
+32500000,Bhaisepati,2.5,4,4,1129.425,13,South East
+32500000,Bhaisepati,2.5,4,4,1129.425,13,South West
+32500000,Bhaisepati,3,5,4,1369,20,West
+33500000,Bhaisepati,2.5,3,5,1711.25,13,East
+33500000,Bhaisepati,2.5,4,5,1796.81,14,North East
+35000000,Bhaisepati,2,3,3,1095.2,16,North
+35000000,Bhaisepati,3,4,5,1411.78,20,South East
+35000000,Bhaisepati,3,4,4,1197.875,20,East
+36000000,Bhaisepati,2.5,7,7,1711.25,20,South West
+37000000,Bhaisepati,2.5,4,4,1711.25,16,East
+37000000,Bhaisepati,2.5,5,6,1369,16,North West
+37500000,Bhaisepati,2.5,4,4,2224.625,13,North West
+37500000,Bhaisepati,2.5,6,6,1369,16,North West
+37500000,Bhaisepati,3,4,3,1540.125,18,South
+38000000,Bhaisepati,2.5,3,4,1403.225,10,South East
+38000000,Bhaisepati,2.5,1,4,1403.225,12,North East
+38000000,Bhaisepati,3,4,4,1129.425,13,East
+38000000,Bhaisepati,3,4,4,1197.875,13,East
+38000000,Bhaisepati,2.5,4,4,1745.475,15,South East
+38000000,Bhaisepati,2.5,5,5,1779.7,18,North East
+38500000,Bhaisepati,2,4,3,1437.45,13.5,South
+38500000,Bhaisepati,2.5,4,4,1060.975,16,East
+39077000,Bhaisepati,3,4,4,2909.125,16,South
+39900000,Bhaisepati,2.5,4,4,1711.25,15,East
+40000000,Bhaisepati,2.5,3,3,1369,17,North
+40000000,Bhaisepati,2.5,4,6,1437.45,20,South East
+40000000,Bhaisepati,2.5,4,5,1711.25,20,West
+41000000,Bhaisepati,2,5,5,1369,13,South West
+41000000,Bhaisepati,2.5,4,4,1129.425,20,North
+42500000,Bhaisepati,3,3,7,1711.25,20,South
+44000000,Bhaisepati,2.5,1,1,1711.25,13,South East
+44000000,Bhaisepati,2.5,4,4,1129.425,20,North
+44500000,Bhaisepati,2.5,5,3,2121.95,17,North West
+45000000,Bhaisepati,3,5,4,1711.25,16,South West
+45000000,Bhaisepati,2.5,4,5,1437.45,13,South East
+45000000,Bhaisepati,2.5,5,5,3125,14,West
+45000000,Bhaisepati,2,4,4,1711.25,16,South
+45000000,Bhaisepati,2.5,5,5,1711.25,18,North East
+45000000,Bhaisepati,2.5,5,4,1437.45,20,South East
+46500000,Bhaisepati,3,4,4,1369,13,East
+46500000,Bhaisepati,2.5,4,4,1369,14,South East
+47500000,Bhaisepati,2.5,4,5,1437.45,13,South East
+49500000,Bhaisepati,2.5,4,4,1369,13,South East
+49500000,Bhaisepati,3.5,8,7,1813.925,16,North East
+50000000,Bhaisepati,2.5,6,5,1796.8125,15,North East
+50000000,Bhaisepati,2.5,5,4,2053.5,13,South
+50000000,Bhaisepati,2.5,3,4,1711.25,13,East
+51000000,Bhaisepati,2.5,4,5,1711.25,20,West
+53000000,Bhaisepati,2,4,4,1882.375,13,South
+55000000,Bhaisepati,2,4,3,1437.45,13.5,South
+55000000,Bhaisepati,2.5,5,4,1711.25,16,South West
+55000000,Bhaisepati,2.5,4,5,1779.7,16,South East
+55000000,Bhaisepati,2.5,5,4,1711.25,20,South West
+59500000,Bhaisepati,2.5,5,5,2053.5,16.5,South West
+60000000,Bhaisepati,2.5,4,6,2738,12,North
+62500000,Bhaisepati,2.5,6,5,2121.95,13,South West
+62500000,Bhaisepati,2.5,3,3,1813.925,16,South West
+69500000,Bhaisepati,2.5,3,6,2121.95,20,South East
+70000000,Bhaisepati,3.5,5,4,2053.5,13,West
+75000000,Bhaisepati,2.5,5,6,2121.95,20,South East
+78000000,Bhaisepati,2.5,5,4,2053.5,13,North East
+38000000,Bhaisepati,3.5,4,4,1095.2,13,West
+40000000,Bhaisepati,2.5,4,5,1711.25,13,West
+50000000,Bhaisepati,2.5,3,5,1796.8125,13,West
+58000000,Bhaisepati,3.5,4,5,3251.375,13,West
+25000000,Bhaisepati,2.5,5,4,1026.75,13,West
+87500000,Bhaisepati,2.5,4,4,2156.175,13,West
+38000000,Bhaisepati,2.5,4,4,1197.875,13,West
+85000000,Bhaisepati,2.5,5,4,2738,13,West
+50000000,Bhaisepati,3,5,4,1882.37,13,West
+70000000,Bhaisepati,3,3,5,2121.95,13,West
+28500000,Bhaisepati,3,3,4,1197.875,13,West
+31100000,Bhaisepati,3.5,4,4,1163.65,13,West
+35000000,Bhaisepati,3.5,2,1,1197.87,13,West
+35600000,Bhaisepati,3.5,4,3,1390.39,13,West
+45000000,Bhaisepati,3.5,4,4,1540.125,13,West
+68000000,Bhaisepati,3.5,5,5,2053.5,13,West
+51000000,Bhaisepati,3.5,5,7,1916.6,13,West
+46000000,Bhaisepati,3.5,3,4,1540.125,13,West
+25000000,Bhaisepati,3,4,4,855.625,13,West
+31000000,Bhaisepati,3,4,7,1197.87,13,West
+42500000,Bhaisepati,3,4,7,1711.25,13,West
+45000000,Bhaisepati,2.5,3,6,2053.5,13,West
+47500000,Bhaisepati,2.5,5,8,1882.375,13,West
+37000000,Bhaisepati,2.5,4,5,1369,13,West
+33500000,Bhaisepati,2.5,4,3,1349.0973,13,West
+40000000,Bhaisepati,2.5,4,5,1967.93,13,West
+50000000,Bhaisepati,2.5,4,4,1625.6875,13,West
+26500000,Budhanilkantha,2.5,5,6,1095.2,13,West
+21000000,Budhanilkantha,2.5,4,6,1026.75,13,West
+36000000,Budhanilkantha,2.5,4,7,1711.25,13,West
+62500000,Budhanilkantha,2.5,4,5,2395.75,13,West
+51500000,Budhanilkantha,2.5,4,4,1711.25,13,West
+42500000,Budhanilkantha,2.5,4,5,1369,13,West
+17000000,Budhanilkantha,2.5,3,4,1026.75,13,West
+12000000,Budhanilkantha,2.5,3,4,1026.75,13,West
+17500000,Budhanilkantha,2.5,3,3,1026.75,13,West
+57500000,Budhanilkantha,3,4,4,2909.125,13,West
+39000000,Budhanilkantha,3,4,3,2652.43,13,West
+49000000,Budhanilkantha,3,5,6,1711.25,13,West
+47500000,Budhanilkantha,3,5,3,2053.5,13,West
+65000000,Budhanilkantha,3,5,5,2395.75,13,West
+35000000,Budhanilkantha,3,3,4,2395.75,13,West
+67500000,Budhanilkantha,3,4,5,2310.1875,13,West
+65000000,Budhanilkantha,3,3,5,2566.875,13,West
+82000000,Budhanilkantha,2.5,3,5,1369,13,West
+21000000,Budhanilkantha,2.5,3,4,1026.75,13,West
+13500000,Budhanilkantha,2,2,2,1711.25,13,West
+17000000,Budhanilkantha,2.5,2,2,1369,13,West
+40000000,Budhanilkantha,2.5,2,2,1711.25,13,West
+39000000,Budhanilkantha,2.5,4,4,2053.5,13,West
+51000000,Budhanilkantha,2.5,5,5,1711.25,13,West
+17000000,Budhanilkantha,2.5,2,6,1437.45,13,West
+41500000,Budhanilkantha,2.6,4,5,2121.95,13,West
+37500000,Budhanilkantha,3,3,6,2053.5,13,West
+29000000,Budhanilkantha,3,4,5,1060.975,13,West
+27500000,Budhanilkantha,3,3,8,1711.25,13,West
+38500000,Budhanilkantha,3,5,6,1604.29,13,West
+38000000,Budhanilkantha,3,5,5,1711.25,13,West
+60000000,Budhanilkantha,3,5,8,2053.5,13,West
+25000000,Budhanilkantha,3,5,5,1540.125,13,West
+35000000,Budhanilkantha,3,4,4,1369,13,West
+42500000,Budhanilkantha,3,5,5,1369,13,West
+42500000,Budhanilkantha,3,5,4,1369,13,West
+34000000,Budhanilkantha,3,4,5,1369,13,West
+28000000,Budhanilkantha,3,4,5,1369,13,West
+31500000,Budhanilkantha,3,5,9,1369,13,West
+24500000,Budhanilkantha,3,3,3,1129.425,13,West
+28000000,Budhanilkantha,3,5,4,1026.75,13,West
+21000000,Budhanilkantha,3,5,9,1026.75,13,West
+30000000,Budhanilkantha,3.5,3,4,1711.25,13,West
+49500000,Budhanilkantha,3.5,5,5,1711.25,13,West
+45000000,Budhanilkantha,3.5,2,5,1711.25,13,West
+46000000,Budhanilkantha,3.5,5,5,1711.25,13,West
+47000000,Budhanilkantha,3.5,5,4,2053.5,13,West
+33000000,Budhanilkantha,3.5,4,6,2738,13,West
+60000000,Budhanilkantha,3,5,3,2053.5,13,West
+21500000,Budhanilkantha,3,3,5,1129.425,13,West
+34000000,Budhanilkantha,3,3,5,1369,13,West
+35000000,Budhanilkantha,2.5,3,4,1369,13,West
+35500000,Budhanilkantha,2.5,5,8,1369,13,West
+45000000,Budhanilkantha,2.5,5,5,1369,13,West
+21000000,Budhanilkantha,2.5,3,5,1796.81,13,West
+39500000,Budhanilkantha,2.5,5,4,1500,13,West
+39500000,Budhanilkantha,2.5,4,4,1711.25,13,West
+25500000,Budhanilkantha,2.5,4,6,1711.25,13,West
+55000000,Budhanilkantha,2.5,4,5,2395.75,13,West
+37500000,Budhanilkantha,2.5,3,9,1860.98,13,West
+60000000,Budhanilkantha,2.5,4,8,2139.06,13,West
+16000000,Budhanilkantha,3,3,4,1112.3125,10,East
+16000000,Budhanilkantha,3,3,3,941.1875,13,South West
+16500000,Budhanilkantha,2.5,3,9,1711.25,14,South
+18000000,Budhanilkantha,3,5,5,1112.3125,13,North
+19000000,Budhanilkantha,3,4,8,1197.875,10,North
+19000000,Budhanilkantha,2,3,4,1026.75,15,East
+21800000,Budhanilkantha,3,6,5,1454.5625,12,North East
+22000000,Budhanilkantha,3,4,6,1369,15,East
+22500000,Budhanilkantha,2,3,4,1026.75,13,South
+22500000,Budhanilkantha,3,5,5,1026.75,14,South East
+22500000,Budhanilkantha,3,3,4,1090.921875,15,East
+22500000,Budhanilkantha,3,6,6,1112.3125,18,North East
+23000000,Budhanilkantha,3,3,4,1197.875,16,East
+23500000,Budhanilkantha,2.5,3,6,1060.975,12,East
+24000000,Budhanilkantha,2,3,4,1369,14,East
+24500000,Budhanilkantha,2.5,3,3,1129.425,13,West
+24500000,Budhanilkantha,2.5,4,6,1197.875,13,East
+25000000,Budhanilkantha,2,5,7,1540.125,12,North West
+25000000,Budhanilkantha,3,3,4,2738,13,West
+25000000,Budhanilkantha,3,3,9,1026.75,13,South
+25500000,Budhanilkantha,3,4,6,1796.8125,13,East
+26500000,Budhanilkantha,3,6,6,1369,13,East
+26500000,Budhanilkantha,2.5,4,4,1060.975,18,North
+27000000,Budhanilkantha,3,6,6,1796.8125,14,East
+28000000,Budhanilkantha,2.5,4,4,1026.75,13,South
+28000000,Budhanilkantha,3,6,6,1369,13,South East
+28000000,Budhanilkantha,3,3,5,1433.171875,13,North West
+28500000,Budhanilkantha,2,3,3,1796.8125,18,South West
+29000000,Budhanilkantha,2.5,5,6,1095.2,12,North
+29000000,Budhanilkantha,3,5,5,1711.25,14,South
+29800000,Budhanilkantha,3,5,5,1369,15,East
+29900000,Budhanilkantha,3,6,7,1711.25,20,South West
+30000000,Budhanilkantha,2.5,4,5,1711.25,13,South West
+30500000,Budhanilkantha,2,5,5,1369,13,West
+30500000,Budhanilkantha,3,4,4,1711.25,15,North East
+31000000,Budhanilkantha,3,5,5,1796.8125,14,South West
+31000000,Budhanilkantha,2,4,4,1540.125,14,East
+31000000,Budhanilkantha,2.5,5,5,1437.45,19,South West
+31000000,Budhanilkantha,2.5,6,5,1882.375,20,North
+32000000,Budhanilkantha,3,4,5,1796.8125,13,South East
+32000000,Budhanilkantha,2.5,4,5,2053.5,13,South
+32000000,Budhanilkantha,2.5,5,6,1026.75,15,North West
+32000000,Budhanilkantha,3,6,4,2139.0625,20,North
+32000000,Budhanilkantha,2.5,4,4,1369,20,South
+32500000,Budhanilkantha,3,5,5,1369,13,East
+32500000,Budhanilkantha,3,4,5,1369,13,South
+32500000,Budhanilkantha,3,4,5,1540.125,14,West
+32500000,Budhanilkantha,3,4,5,1369,15,East
+32500000,Budhanilkantha,2,4,4,2139.0625,15,East
+32900000,Budhanilkantha,2.5,5,8,2139.0625,14,North East
+33000000,Budhanilkantha,3,3,7,1540.12,13,South East
+33000000,Budhanilkantha,3,6,5,1711.25,13,North
+33000000,Budhanilkantha,3,4,3,1347.609375,20,East
+33500000,Budhanilkantha,3,5,6,1369,13,North
+34000000,Budhanilkantha,2,3,5,1369,16,North East
+34500000,Budhanilkantha,2.5,5,6,1369,13,West
+35000000,Budhanilkantha,3,4,5,2845,12,East
+35000000,Budhanilkantha,3,3,4,1369,14,North
+35000000,Budhanilkantha,3,6,6,2738,20,East
+36000000,Budhanilkantha,3,5,5,2053.5,13,East
+36000000,Budhanilkantha,3,7,5,2053.5,14,East
+36000000,Budhanilkantha,2.5,5,6,1711.25,14,South West
+36000000,Budhanilkantha,2.5,5,4,1369,15,West
+36000000,Budhanilkantha,2,4,5,2053.5,15,North East
+36500000,Budhanilkantha,2,4,5,2139.0625,20,East
+37000000,Budhanilkantha,2.5,5,6,2053.5,13,North
+37000000,Budhanilkantha,3,5,5,2738,15,South East
+37000000,Budhanilkantha,3,6,6,2053.5,16,East
+37500000,Budhanilkantha,3,5,6,1369,13,North
+37500000,Budhanilkantha,2.5,4,5,1540.12,14,South West
+37500000,Budhanilkantha,2,2,8,1711.25,20,West
+38000000,Budhanilkantha,2.5,3,4,2087.725,16.66666667,South East
+38500000,Budhanilkantha,2.5,5,7,1369,13,North East
+39000000,Budhanilkantha,2.5,6,6,2053.5,14,South West
+39000000,Budhanilkantha,3,6,6,2053.5,14.5,South West
+39500000,Budhanilkantha,3,5,7,1711.25,13,South East
+40000000,Budhanilkantha,2.5,4,5,1471.675,13,West
+40000000,Budhanilkantha,2.5,6,6,1711.25,15,South East
+40000000,Budhanilkantha,3,5,5,2823.5625,20,East
+40500000,Budhanilkantha,2.5,4,5,1711.25,20,East
+41000000,Budhanilkantha,2,4,5,2823.5625,13,East
+41000000,Budhanilkantha,2.5,5,5,2053.5,13,South
+41500000,Budhanilkantha,2.5,6,6,1745.475,13,North West
+42000000,Budhanilkantha,3,5,5,2738,20,East
+42500000,Budhanilkantha,3,4,5,1711.25,13,South East
+42500000,Budhanilkantha,3,5,5,2738,13,East
+42500000,Budhanilkantha,3,4,5,1454.5625,13,West
+42500000,Budhanilkantha,2,5,5,1283.4375,16,South East
+44500000,Budhanilkantha,3,5,6,2823.5625,15,South East
+44500000,Budhanilkantha,3,5,5,1711.25,16,South
+45000000,Budhanilkantha,2.5,3,6,2806.45,12.5,South East
+45000000,Budhanilkantha,3,6,5,2053.5,13,North East
+45000000,Budhanilkantha,2.5,5,6,1711.25,13,West
+45000000,Budhanilkantha,3,4,6,1711.25,13,East
+45000000,Budhanilkantha,3,4,5,1625.6875,13,South
+45000000,Budhanilkantha,2.5,6,5,1711.25,15,North West
+45000000,Budhanilkantha,3,5,4,2395.75,15,South East
+45000000,Budhanilkantha,3,7,5,2738,20,South East
+45000000,Budhanilkantha,2.5,5,5,2395.75,20,East
+45000000,Budhanilkantha,3,4,3,1540.125,20,South West
+45000000,Budhanilkantha,3,4,4,2738,20,South
+46000000,Budhanilkantha,2.5,6,5,1711.25,14,West
+46500000,Budhanilkantha,2.5,4,5,1711.25,16,South
+47500000,Budhanilkantha,2.5,5,5,2053.5,20,East
+49000000,Budhanilkantha,3,5,5,3165.8125,13,West
+49500000,Budhanilkantha,2.5,5,5,1967.9375,13,South
+50000000,Budhanilkantha,3,5,4,1796.8125,14,East
+50000000,Budhanilkantha,2.5,5,4,1745.475,15,East
+50000000,Budhanilkantha,2,4,5,3165.8125,20,East
+50000000,Budhanilkantha,3,4,4,1796.8125,20,West
+51500000,Budhanilkantha,2,3,5,2840.675,13,South West
+52500000,Budhanilkantha,3,4,9,2738,13,North
+52500000,Budhanilkantha,3,5,5,2738,20,South East
+53000000,Budhanilkantha,3,3,5,1882.375,14,North
+55000000,Budhanilkantha,2.5,5,5,2566.875,13,North East
+55000000,Budhanilkantha,2.5,4,4,2806.45,13,North East
+55000000,Budhanilkantha,2,4,4,2909.125,13,North East
+55000000,Budhanilkantha,3,5,4,3080.25,18,North
+55000000,Budhanilkantha,3.5,8,7,2566.875,19.5,South West
+55000000,Budhanilkantha,3,4,4,3080.25,20,South East
+57000000,Budhanilkantha,3,4,4,2395.75,13,South West
+57500000,Budhanilkantha,2.5,3,4,3080.25,12,South
+57500000,Budhanilkantha,3,5,4,2738,20,South West
+58000000,Budhanilkantha,2.5,5,5,2053.5,14,South
+58000000,Budhanilkantha,3,5,5,2481.3125,20,East
+58000000,Budhanilkantha,3,4,9,2823.5625,20,East
+59000000,Budhanilkantha,3,6,4,2652.4375,20,South East
+59500000,Budhanilkantha,3,5,5,2053.5,13,South
+60000000,Budhanilkantha,2.5,5,4,3114.475,13,South West
+60000000,Budhanilkantha,2.5,4,7,3123.03125,13,East
+61000000,Budhanilkantha,2.5,5,6,2053.5,15,North East
+62500000,Budhanilkantha,2.5,6,6,2121.95,15,North East
+62500000,Budhanilkantha,2.5,5,4,2053.5,20,East
+63000000,Budhanilkantha,3.5,5,6,2566.875,16,East
+65000000,Budhanilkantha,2,4,5,2738,20,East
+68000000,Budhanilkantha,3,6,5,2738,20,South West
+70000000,Budhanilkantha,2.5,6,5,2395.75,14,South East
+70000000,Budhanilkantha,2.5,5,6,2738,20,West
+77500000,Budhanilkantha,3,5,5,2823.5625,20,East
+44000000,Budhanilkantha,2.5,3,4,1505.9,13,West
+49500000,Budhanilkantha,3,3,5,2053.5,13,West
+47500000,Budhanilkantha,2.5,3,5,2464.2,13,West
+42500000,Budhanilkantha,3,5,5,1197.875,13,West
+65000000,Budhanilkantha,2.5,5,5,2395.75,13,West
+22500000,Budhanilkantha,2.5,4,4,1026.75,13,West
+48500000,Budhanilkantha,2.5,3,4,2395.75,13,West
+57500000,Budhanilkantha,2.5,5,6,2053.5,13,West
+42500000,Budhanilkantha,2.5,4,6,2053.5,13,West
+19500000,Budhanilkantha,2.5,3,4,3020,13,West
+23000000,Budhanilkantha,2.5,3,7,1026.75,13,West
+53000000,Budhanilkantha,2.5,4,4,3080.25,13,West
+50000000,Budhanilkantha,3.5,5,5,1967.93,13,West
+37500000,Budhanilkantha,3,3,5,1711.25,13,West
+60000000,Budhanilkantha,3,2,5,2053.5,13,West
+40000000,Budhanilkantha,2.5,5,5,2738,13,West
+45000000,Budhanilkantha,2.5,5,5,2395.75,13,West
+55000000,Budhanilkantha,2.5,3,3,1711.25,13,West
+27000000,Budhanilkantha,2.5,3,5,1369,13,West
+28500000,Budhanilkantha,2.5,4,6,1026.75,13,West
+26500000,Budhanilkantha,2.5,4,5,1026.75,13,West
+19000000,Budhanilkantha,2.5,3,5,1026.75,13,West
+26500000,Budhanilkantha,2.5,5,6,1369,13,West
+17500000,Budhanilkantha,2.5,4,5,1423.76,13,West
+21500000,Imadol,3,3,5,1026.75,13,West
+32500000,Imadol,3,4,4,1369,13,West
+29000000,Imadol,3,3,7,1112.31,13,West
+25000000,Imadol,3,3,5,1095.2,13,West
+20000000,Imadol,3,3,3,1026.75,13,West
+55000000,Imadol,3,4,3,1882.37,13,West
+28100000,Imadol,3,3,7,1369,13,West
+26500000,Imadol,3,4,5,1369,13,West
+36500000,Imadol,3,4,6,1369,13,West
+31500000,Imadol,3,4,4,1026.75,13,West
+23000000,Imadol,3,4,5,1026.75,13,West
+28500000,Imadol,3,4,5,1026.75,13,West
+29000000,Imadol,2.5,5,6,1369,13,West
+34000000,Imadol,2.5,4,6,1369,13,West
+31000000,Imadol,2.5,4,5,1369,13,West
+24000000,Imadol,2.5,4,4,1026.75,13,West
+31000000,Imadol,2.5,4,5,1369,13,West
+29500000,Imadol,2.5,4,5,1369,13,West
+32500000,Imadol,2.5,4,5,1026.75,13,West
+24500000,Imadol,2.5,4,4,1026.75,13,West
+29000000,Imadol,2.5,4,5,1026.75,13,West
+28000000,Imadol,2.5,4,5,1026.75,13,West
+27500000,Imadol,2.5,4,5,1026.75,13,West
+24500000,Imadol,2.5,4,4,1026.75,13,West
+23500000,Imadol,2.5,4,5,1026.75,13,West
+31000000,Imadol,2.5,4,6,1026.75,13,West
+80000000,Imadol,2.5,4,5,2053.5,13,West
+30000000,Imadol,2.5,5,7,1369,13,West
+23000000,Imadol,3,3,5,1112.31,13,West
+21500000,Imadol,3,3,5,1060.975,13,West
+19000000,Imadol,3,3,5,941.1875,13,West
+19000000,Imadol,3,3,6,855.625,13,West
+67500000,Imadol,3,5,5,2395.75,13,West
+21500000,Imadol,3,4,6,1026.75,13,West
+22500000,Imadol,2.5,3,6,1369,13,West
+26000000,Imadol,2.5,4,5,1369,13,West
+47500000,Imadol,2.5,4,7,2053.5,13,West
+29500000,Imadol,3,4,4,1240.65,13,West
+27000000,Imadol,3,4,4,1197.87,13,West
+25000000,Imadol,3,2,4,1133.7,13,West
+19000000,Imadol,3,4,4,941.1875,13,West
+24000000,Imadol,3,4,4,1026.75,13,West
+27500000,Imadol,3,4,5,1197.875,13,West
+24000000,Imadol,3,4,4,1026.75,13,West
+17000000,Imadol,3,2,6,855.625,13,West
+24500000,Imadol,3,4,5,1026.75,13,West
+27000000,Imadol,3,4,7,1700,13,West
+27000000,Imadol,3,4,6,1197.875,13,West
+28000000,Imadol,3,4,3,1369,13,West
+34000000,Imadol,2.5,4,7,1197.875,13,West
+27000000,Imadol,2.5,3,5,1711.25,13,West
+35500000,Imadol,3,4,5,1369,13,West
+26500000,Imadol,2.5,3,5,787.175,13,West
+22000000,Imadol,3,5,5,1095.2,13,West
+21500000,Imadol,3,4,6,941.18,13,West
+28000000,Imadol,3,4,7,1112.31,13,West
+31500000,Imadol,3,3,5,1129.425,13,West
+23500000,Imadol,3,4,4,1129.425,13,West
+18000000,Imadol,3,4,4,1026.75,13,West
+25000000,Imadol,3,2,6,1026.75,13,West
+24000000,Imadol,3,3,4,1197.875,13,West
+29500000,Imadol,3,3,5,1240.65,13,West
+37500000,Imadol,3,5,8,1347.6,13,West
+22000000,Imadol,3,3,4,919.79,13,West
+30000000,Imadol,3,3,7,1369,13,West
+36500000,Imadol,3,4,6,1403.225,13,West
+28000000,Imadol,3,4,5,1197.875,13,West
+27500000,Imadol,3,4,4,1197.875,13,West
+27500000,Imadol,3,4,5,1197.875,13,West
+26000000,Imadol,3,4,9,1219.26,13,West
+35000000,Imadol,3,3,6,1347.6,13,West
+19500000,Imadol,3,4,5,1369,13,West
+43000000,Imadol,3,4,4,1369,13,West
+35000000,Imadol,3,4,6,1369,13,West
+35000000,Imadol,3,4,6,1369,13,West
+39500000,Imadol,3,5,8,1540.125,13,West
+27000000,Imadol,3,3,5,1026.75,13,West
+25000000,Imadol,3,3,8,1026.75,13,West
+25000000,Imadol,3,3,4,1048.14,13,West
+26500000,Imadol,3,4,4,1026.75,13,West
+20000000,Imadol,3,3,5,1026.75,13,West
+19900000,Imadol,3,3,4,1026.75,13,West
+21500000,Imadol,3,3,4,787.175,13,West
+22500000,Imadol,3,3,9,855.62,13,West
+20000000,Imadol,3,2,5,855.625,13,West
+25000000,Imadol,3,3,5,941.1875,13,West
+22500000,Imadol,3,4,5,983.96,13,West
+23500000,Imadol,3,5,4,1026.75,13,West
+28000000,Imadol,3,5,5,1026.75,13,West
+16000000,Imadol,3,3,4,855.625,13,West
+23500000,Imadol,3,3,3,1155.09,13,West
+25000000,Imadol,3,3,3,1155.09,13,West
+28000000,Imadol,3,2,7,1197.87,13,West
+25000000,Imadol,3,3,4,1197.87,13,West
+27000000,Imadol,3,3,7,1197.87,13,West
+28500000,Imadol,3,4,6,1197.87,13,West
+27000000,Imadol,3,3,5,1197.875,13,West
+26000000,Imadol,3,3,4,1197.875,13,West
+23000000,Imadol,3,4,6,1112.3125,13,West
+23500000,Imadol,3,5,4,1069.53,13,West
+23500000,Imadol,3,4,4,1069.53,13,West
+26500000,Imadol,3,4,4,1095.2,13,West
+26000000,Imadol,3,3,2,1112.31,13,West
+21000000,Imadol,3,4,4,1060.975,13,West
+28000000,Imadol,3,5,9,1026.75,13,West
+29500000,Imadol,3,3,4,1197.87,13,West
+28500000,Imadol,3,3,4,1026.75,13,West
+26500000,Imadol,3,3,4,1026.75,13,West
+24000000,Imadol,3,3,4,1060.975,13,West
+33500000,Imadol,3,4,6,1488.7875,13,West
+39000000,Imadol,3,4,9,1540.12,13,West
+41000000,Imadol,3,4,4,1711.25,13,West
+27000000,Imadol,2.5,4,5,1155.09,13,West
+28500000,Imadol,2.5,4,7,1090.92,13,West
+31000000,Imadol,2.5,3,6,1283.43,13,West
+34000000,Imadol,2.5,3,6,1326.21,13,West
+31500000,Imadol,2.5,5,7,1369,13,West
+29500000,Imadol,2.5,3,4,1026.75,13,West
+22000000,Imadol,2.5,2,5,834.23,13,West
+25000000,Imadol,2.5,4,5,1060.975,13,West
+36500000,Imadol,2.5,4,8,1369,13,West
+27000000,Imadol,2.5,3,6,1497.34,13,West
+25000000,Imadol,2.5,4,4,1026.75,13,West
+27000000,Imadol,2.5,5,5,1026.75,13,West
+32500000,Imadol,3,4,5,1283.43,13,West
+32500000,Imadol,3,4,5,1283.43,13,West
+42500000,Imadol,2.5,4,5,1369,13,West
+38500000,Imadol,2.5,5,6,1711.25,13,West
+18500000,Imadol,3,3,5,1005.35,13,West
+24000000,Imadol,3,3,4,1026.75,13,West
+27000000,Imadol,3,4,5,1026.75,13,West
+28000000,Imadol,3,4,5,898.4,13,West
+25500000,Imadol,3,4,5,941.18,13,West
+21500000,Imadol,3,3,6,941.18,13,West
+36000000,Imadol,3,4,5,2053.5,13,West
+36000000,Imadol,3,3,4,2053.5,13,West
+24000000,Imadol,3,4,5,1283.43,13,West
+27000000,Imadol,3,3,5,1283.43,13,West
+32500000,Imadol,3,4,6,1326.21,13,West
+28500000,Imadol,3,4,6,1155.09,13,West
+33000000,Imadol,3,5,6,1197.87,13,West
+27500000,Imadol,3,4,5,1197.87,13,West
+30000000,Imadol,3,4,5,1197.87,13,West
+31000000,Imadol,3,4,5,1197.87,13,West
+32500000,Imadol,3,4,8,1433.17,13,West
+25500000,Imadol,3,4,5,1026.75,13,West
+25000000,Imadol,3,4,4,1026.75,13,West
+25500000,Imadol,3,4,4,1026.75,13,West
+25000000,Imadol,3,4,5,1026.75,13,West
+27500000,Imadol,3,4,4,1026.75,13,West
+24500000,Imadol,3,4,5,1026.75,13,West
+22500000,Imadol,3,4,5,1026.75,13,West
+23500000,Imadol,3,5,5,1026.75,13,West
+26000000,Imadol,3,4,5,1026.75,13,West
+25500000,Imadol,3,4,5,1112.31,13,West
+26500000,Imadol,3,5,5,1112.31,13,West
+26500000,Imadol,3,4,5,1112.31,13,West
+25500000,Imadol,3,3,4,1026.75,13,West
+37500000,Imadol,2.5,5,6,523,13,West
+28000000,Imadol,2.5,5,6,531,13,West
+45000000,Imadol,2.5,5,6,630,13,West
+17500000,Imadol,2.5,3,5,684.5,13,West
+39500000,Imadol,2.5,3,4,1369,13,West
+33000000,Imadol,2.5,3,4,1369,13,West
+36000000,Imadol,2.5,4,6,1369,13,West
+35000000,Imadol,2.5,4,6,1369,13,West
+27000000,Imadol,2.5,4,6,1369,13,West
+35000000,Imadol,2.5,4,5,1369,13,West
+35000000,Imadol,2.5,4,5,1369,13,West
+36000000,Imadol,2.5,4,6,1369,13,West
+38500000,Imadol,2.5,3,6,1369,13,West
+32500000,Imadol,2.5,3,4,1369,13,West
+32500000,Imadol,2.5,3,4,1369,13,West
+37000000,Imadol,2.5,4,6,1369,13,West
+45000000,Imadol,2.5,4,6,1711.25,13,West
+45000000,Imadol,2.5,5,6,1711.25,13,West
+24500000,Imadol,2.5,4,5,3013,13,West
+27000000,Imadol,2.5,3,4,3333,13,West
+25500000,Imadol,2.5,5,6,1026.75,13,West
+27500000,Imadol,2.5,5,6,1026.75,13,West
+23000000,Imadol,2.5,3,6,1026.75,13,West
+27500000,Imadol,2.5,4,6,1026.75,13,West
+28000000,Imadol,2.5,4,6,1026.75,13,West
+21000000,Imadol,2.5,3,5,1026.75,13,West
+26000000,Imadol,2.5,3,5,1026.75,13,West
+20000000,Imadol,2.5,3,9,684.5,13,West
+16000000,Imadol,2.5,2,4,1026.75,13,West
+24500000,Imadol,2.5,2,4,1026.75,13,West
+25500000,Imadol,2.5,3,6,1026.75,13,West
+23000000,Imadol,2.5,3,5,1026.75,13,West
+25500000,Imadol,2.5,3,5,1026.75,13,West
+27500000,Imadol,2.5,3,6,1026.75,13,West
+22500000,Imadol,2.5,3,6,1026.75,13,West
+25500000,Imadol,2.5,4,5,1026.75,13,West
+27500000,Imadol,2.5,4,6,1026.75,13,West
+23500000,Imadol,2.5,4,5,1026.75,13,West
+31500000,Imadol,2.5,4,5,1026.75,13,West
+24500000,Imadol,2.5,4,6,1026.75,13,West
+25500000,Imadol,2.5,4,5,1026.75,13,West
+28500000,Imadol,2.5,4,5,1026.75,13,West
+23500000,Imadol,2.5,5,6,1026.75,13,West
+25500000,Imadol,2.5,4,4,1026.75,13,West
+23500000,Imadol,2.5,4,5,1026.75,13,West
+25500000,Imadol,2.5,4,5,1026.75,13,West
+25500000,Imadol,2.5,4,4,1026.75,13,West
+26500000,Imadol,2.5,4,4,1026.75,13,West
+26500000,Imadol,2.5,4,5,1026.75,13,West
+29500000,Imadol,2.5,5,7,1026.75,13,West
+28000000,Imadol,2.5,3,3,1711.25,13,West
+12900000,Imadol,2,2,2,1026.75,14,South
+13500000,Imadol,2,2,3,748.671875,18,West
+16000000,Imadol,3,3,5,1026.75,12,East
+16000000,Imadol,2.5,3,5,1026.75,12,East
+16000000,Imadol,3,4,4,1026.75,13,South East
+17000000,Imadol,2.5,4,5,1026.75,10,East
+17000000,Imadol,2.5,3,8,1026.75,13,South
+17000000,Imadol,2.5,3,4,1155.09375,13,South
+17000000,Imadol,2.5,3,3,752.95,13,East
+17000000,Imadol,2.5,3,6,1026.75,13,North West
+17200000,Imadol,2.5,3,6,1069.53125,13,East
+17500000,Imadol,2.5,3,5,1069.53125,13,South East
+17500000,Imadol,3,3,5,1026.75,13,South
+17500000,Imadol,2.5,3,5,1048.14,14,South
+18000000,Imadol,2.5,3,6,1026.75,13,North East
+18500000,Imadol,2.5,2,5,1197.875,13,West
+18500000,Imadol,2.5,4,4,1026.75,13,North
+18500000,Imadol,2.5,3,4,1026.75,13,North
+18500000,Imadol,2.5,4,4,1026.75,13,West
+18500000,Imadol,2.5,3,4,1026.75,13,South
+19000000,Imadol,3,3,4,1090.921875,10,South East
+19000000,Imadol,2.5,2,4,752.95,10,South
+19000000,Imadol,2.5,3,4,1197.875,13,North West
+19000000,Imadol,2.5,3,4,1026.75,13,South
+19000000,Imadol,2.5,3,4,1090.92,14,East
+19200000,Imadol,3,5,4,1048.140625,20,East
+19500000,Imadol,2.5,3,6,1112.3125,12,South
+19500000,Imadol,2.5,4,5,1026.75,12,East
+19500000,Imadol,2.5,3,4,787.175,13,East
+19500000,Imadol,2.5,3,5,1197.875,13,East
+19500000,Imadol,2.5,4,5,1369,13,South
+19500000,Imadol,3,3,5,1197.875,13,North
+19500000,Imadol,2.5,5,5,900,13,East
+19500000,Imadol,2.5,3,5,1200,16,West
+19500000,Imadol,2.5,3,5,1112.3125,20,East
+19500000,Imadol,3,3,5,1026.75,20,North East
+19500000,Imadol,2.5,3,4,1197.875,20,North East
+19500000,Imadol,2.5,3,4,941.1875,20,East
+19700000,Imadol,2.5,4,4,1090.92,10,South East
+19700000,Imadol,3,4,4,1454.5625,13,South
+19900000,Imadol,2,2,4,1026.75,13,South
+20000000,Imadol,3.5,3,7,1411.78125,12,West
+20000000,Imadol,3,2,6,1095.2,12,East
+20000000,Imadol,2.5,3,6,1197.875,13,North
+20000000,Imadol,2.5,3,4,1026.75,13,East
+20000000,Imadol,2.5,4,4,1026.75,13,North
+20500000,Imadol,2.5,4,4,752.95,13,North
+20500000,Imadol,3,4,4,1112.3125,13,North
+20500000,Imadol,3,3,4,855.625,13,North East
+20600000,Imadol,2.5,3,6,855.625,13,West
+21000000,Imadol,2.5,4,5,1026.75,12,West
+21000000,Imadol,3,4,4,1026.75,13,North
+21000000,Imadol,3,4,4,1197.84,13,East
+21000000,Imadol,2.5,3,4,1197.875,13,East
+21000000,Imadol,2.5,5,4,1369,20,South West
+21400000,Imadol,2.5,4,4,1197.875,13,North East
+21500000,Imadol,2.5,4,7,1026.75,10,South
+21500000,Imadol,2.5,4,6,1129.425,12,North
+21500000,Imadol,3,3,3,787.175,13,East
+21500000,Imadol,2.5,3,4,1060.975,13,South
+21500000,Imadol,3,4,4,1026.75,13,East
+21500000,Imadol,3,3,4,1026.75,13,East
+21500000,Imadol,2.5,3,5,1112.3125,20,East
+21800000,Imadol,2.5,4,4,1060.975,13,East
+22000000,Imadol,2.5,3,5,1369,10,North West
+22000000,Imadol,3.5,4,7,1540.125,13,South
+22000000,Imadol,2.5,5,5,1133.703125,13,East
+22000000,Imadol,2.5,3,4,1048.14,13,East
+22000000,Imadol,2.5,4,4,1112.31,16,North East
+22000000,Imadol,2.5,3,5,1197.875,20,East
+22500000,Imadol,3,4,4,1197.875,13,East
+22500000,Imadol,3,4,4,1197.875,13,South
+22500000,Imadol,2.5,4,4,1026.75,13,West
+22500000,Imadol,2.5,3,6,1197.875,16,West
+23000000,Imadol,2.5,4,4,1026.75,12,East
+23000000,Imadol,2.5,4,4,1026.75,13,West
+23000000,Imadol,2.5,3,6,1582.9,14,North
+23500000,Imadol,3,4,6,1026.75,10,North
+23500000,Imadol,2.5,3,5,1026.75,13,East
+23500000,Imadol,2.5,4,3,1060.975,13,North
+23500000,Imadol,2.5,5,4,1060.975,13,North
+23500000,Imadol,3,4,6,1369,13,West
+23500000,Imadol,2.5,4,4,1026.75,13,East
+23500000,Imadol,3,4,4,1026.75,13,North
+23500000,Imadol,2.5,4,4,1197.875,13,South
+23500000,Imadol,3,3,5,1026.75,13,East
+23500000,Imadol,2.5,4,4,1026.75,13,South
+23500000,Imadol,2.5,4,4,1026.75,13,East
+23500000,Imadol,2.5,4,5,1026.75,13,East
+23500000,Imadol,2.5,3,4,1026.75,13,East
+23500000,Imadol,2.5,4,6,1095.2,16,East
+23500000,Imadol,2.5,4,4,1283.43,20,South
+23500000,Imadol,2.5,4,4,1026.75,13,South
+24000000,Imadol,3,4,4,1060.975,13,East
+24000000,Imadol,2.5,3,4,1095.2,13,East
+24000000,Imadol,2.5,3,4,1026.75,13,East
+24000000,Imadol,2.5,3,4,1112.31,13,East
+24000000,Imadol,2.5,3,4,1048.14,13,East
+24000000,Imadol,2.5,4,5,1026.75,16,North
+24000000,Imadol,2.5,4,4,1047.285,16,West
+24000000,Imadol,2.5,4,4,1369,18,East
+24000000,Imadol,3,3,4,1048.140625,20,West
+24500000,Imadol,3,4,4,1197.875,13,East
+24500000,Imadol,3,5,4,1048.14,13,East
+24900000,Imadol,3,3,6,1369,13,South East
+25000000,Imadol,3.5,3,6,898.44,10,East
+25000000,Imadol,2.5,3,2,1112.31,12,East
+25000000,Imadol,2.5,4,5,1129.425,13,South West
+25000000,Imadol,2.5,3,5,1197.875,13,South West
+25000000,Imadol,3.5,4,5,1112.3125,13,East
+25000000,Imadol,2.5,4,7,1112.31,13,North
+25000000,Imadol,2.5,3,4,1069.53,13,South East
+25000000,Imadol,2.5,4,4,1369,13,North East
+25000000,Imadol,2.5,3,2,1060.975,14,South East
+25000000,Imadol,2.5,4,4,1090.92,16,South
+25000000,Imadol,2.5,3,5,1197.875,20,West
+25000000,Imadol,3,3,5,1200,20,East
+25500000,Imadol,2.5,4,4,1026.75,13,West
+25500000,Imadol,2.5,3,6,1026.75,13,North
+25500000,Imadol,3,4,4,1112.3125,13,North East
+26000000,Imadol,2.5,3,5,1129.425,13,North East
+26000000,Imadol,2,5,4,1060.975,13,North
+26000000,Imadol,2.5,3,3,1026.75,13,East
+26000000,Imadol,3,3,6,1026.75,13,East
+26000000,Imadol,3,4,4,1197.875,13,East
+26000000,Imadol,3,3,6,1026.75,13,East
+26500000,Imadol,2.5,4,4,1095.2,11,North West
+26500000,Imadol,2.5,4,5,1095.2,13,North
+26500000,Imadol,3.5,5,5,1026.75,13,North
+26500000,Imadol,3,3,4,1197.875,13,East
+26500000,Imadol,3,4,5,1112.3125,13,North
+26500000,Imadol,3,3,5,1026.75,13,West
+26500000,Imadol,2.5,3,4,1060.975,20,South
+26500000,Imadol,3,3,4,1197.875,20,South
+26500000,Imadol,2.5,4,4,1060.975,20,South
+27000000,Imadol,3,3,2,1347.609375,13,North East
+27000000,Imadol,3,4,5,1112.3125,13,South
+27000000,Imadol,2.5,4,6,1197.87,13,North East
+27000000,Imadol,2.5,3,5,1095.2,14,South West
+27000000,Imadol,2.5,4,5,1095.2,20,West
+27500000,Imadol,3,3,5,1026.75,13,South East
+27500000,Imadol,2.5,4,4,1095.2,13,East
+27500000,Imadol,2.5,4,5,1095.2,20,West
+27500000,Imadol,2.5,3,5,1060.975,20,East
+27500000,Imadol,3.5,3,5,1026.75,20,West
+27500000,Imadol,2.5,5,7,1060.975,20,South
+28000000,Imadol,3,3,7,1197.875,18,North East
+28500000,Imadol,3,5,6,1219.265625,12,East
+28500000,Imadol,2.5,4,4,1129.425,13,North West
+28500000,Imadol,3,4,9,1197.875,13,South
+28500000,Imadol,3,4,4,1197.875,13,North West
+28500000,Imadol,2.5,3,6,1197.87,13,South
+28500000,Imadol,2.5,4,7,1095.2,20,North East
+28500000,Imadol,2.5,3,6,1026.75,20,East
+28700000,Imadol,2.5,4,5,1197.875,13,East
+29000000,Imadol,2.5,4,5,1369,13,North
+29500000,Imadol,2.5,3,8,1095.2,13,North
+29500000,Imadol,3,4,6,1369,13,South East
+29500000,Imadol,2.5,4,6,1813.925,16,East
+29500000,Imadol,2.5,3,5,1197.87,13,East
+31000000,Imadol,3,3,6,1882.375,12,East
+31500000,Imadol,2.5,4,6,1690.715,12,North
+31500000,Imadol,2.5,4,6,1240.65625,13,East
+31500000,Imadol,2.5,4,4,1060.975,13,West
+31500000,Imadol,3,4,4,1197.875,13,North
+32500000,Imadol,3,5,6,1796.8125,13,South East
+32500000,Imadol,2.5,4,5,1369,13,North
+33000000,Imadol,2.5,4,5,1095.2,13,West
+33000000,Imadol,2.5,4,6,1095.2,20.5,South West
+34000000,Imadol,2.5,2,4,1369,13,South
+34000000,Imadol,3,4,6,1197.875,13,East
+34500000,Imadol,2.5,4,5,1403.225,13,North
+35000000,Imadol,2.5,5,5,1369,13,West
+36000000,Imadol,2.5,2,6,2395.75,12.5,North East
+36000000,Imadol,3,1,4,1711.25,13,North
+36000000,Imadol,2.5,2,5,2395.75,20,North East
+36000000,Imadol,2.5,2,5,2395.75,20,North East
+37000000,Imadol,2.5,6,6,1711.25,13,South West
+38500000,Imadol,3,5,7,2053.5,18,East
+38500000,Imadol,3,5,7,1779.7,18,East
+39900000,Imadol,2.5,3,6,1163.65,16,North West
+40000000,Imadol,2.5,3,6,1437.45,13,South
+41500000,Imadol,2.5,4,4,1625.6875,20,East
+42500000,Imadol,2.5,4,6,1369,13,South
+42500000,Imadol,2.5,3,3,1369,14,South
+42500000,Imadol,2.5,4,4,1326.21,20,South East
+42500000,Imadol,2.5,4,4,2158,20,South East
+43000000,Imadol,2.5,4,4,1095.2,14,East
+45000000,Imadol,2.5,3,4,2395.75,16,South
+45000000,Imadol,2.5,4,4,1095.2,20,East
