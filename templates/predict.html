@@ -8,6 +8,7 @@
     </style>
 </head>
 <body>
+  
     <!-- Spinner Start -->
     <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-grow text-primary" style="width: 3rem; height: 3rem;" role="status">
@@ -84,7 +85,7 @@
                                     <div class="form-floating">
                                         <select class="form-select" id="face" name="face" required>
                                             <option value="" disabled selected>Choose a facing</option>
-                                            {% for face in faces %}
+                                            {% for face in context.faces %}
                                                 <option value="{{ face }}">{{ face }}</option>
                                             {% endfor %}
                                         </select>
@@ -96,7 +97,7 @@
                                     <div class="form-floating">
                                         <select class="form-select" id="address" name="address" required>
                                             <option value="" disabled selected>Choose a Address</option>
-                                            {% for address in addresses %}
+                                            {% for address in context.addresses %}
                                                 <option value="{{ address }}">{{ address }}</option>
                                             {% endfor %}
                                         </select>

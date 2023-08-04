@@ -134,8 +134,9 @@ def predict(request):
 #             print(f"File not found: {file_path}")
 #         # Make the prediction
 #         price = model.predict(new_data_encoded_df)
-    
-        return render(request, 'predict.html', {'price': prediction_price})
 
-    return render(request, 'predict.html',context)
+  
+        return render(request, 'predict.html',{'price': prediction_price,'context':context})
+
+    return render(request, 'predict.html',{'context':context})
 
