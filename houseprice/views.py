@@ -1,7 +1,7 @@
 from django.http import HttpResponse
 from django.shortcuts import render
 from team.models import team
-
+import seaborn as sns
 from django.views.decorators.csrf import csrf_exempt
 from django.conf import settings
 import pickle
@@ -9,16 +9,103 @@ import pandas as pd
 import os
 from django.conf import settings
 import numpy as np
+import matplotlib
+matplotlib.use('agg')
+import matplotlib.pyplot as plt
 from sklearn.preprocessing import LabelEncoder,OneHotEncoder
 from sklearn.compose import ColumnTransformer
+from pylab import savefig
+
 dataset = pd.read_csv("houseprice/sorted_latlong.csv")
 model_dataset = pd.read_csv("houseprice/latest1.csv")
+model_dataset.drop(model_dataset.columns[0], axis=1, inplace=True)
+
+#<----Data VISUALIZATION FUNCTIONS---->
+
+def scatter(x,y):
+            plt.scatter(model_dataset[x], model_dataset[y], color='r')
+            plt.xlabel('Price(Nrs.)')
+            plt.ylabel('Land(Sq.Feet)')
+            plt.title('Scatter plot between Price and Land')
+            plt.savefig("static/img/scatterPriceVsLand.jpg")
+            plt.close()
+
+def histogram():
+            plt.figure(figsize=(12, 12))
+          
+
+
+            plt.subplot(3, 3, 1)
+            plt.hist(model_dataset['City'], bins=20, alpha=0.5, label='City', color='red')
+            plt.xlabel('City')
+            plt.ylabel('Frequency')
+            plt.legend()
+
+
+            plt.subplot(3, 3, 2)
+            plt.hist(model_dataset['Price'], bins=20, alpha=0.5, label='Price', color='purple')
+            plt.xlabel('Price(Crores)')
+            plt.ylabel('Frequency')
+            plt.legend()
+
+
+            plt.subplot(3, 3, 3)
+            plt.hist(model_dataset['Bedroom'], bins=20, alpha=0.5, label='Bedroom', color='orange')
+            plt.xlabel('Bedroom')
+            plt.ylabel('Frequency')
+            plt.legend()
+
+
+            plt.subplot(3, 3, 4)
+            plt.hist(model_dataset['Bathroom'], bins=20, alpha=0.5, label='Bathroom', color='pink')
+            plt.xlabel('Bathroom')
+            plt.ylabel('Frequency')
+            plt.legend()
+
+
+            plt.subplot(3, 3, 5)
+            plt.hist(model_dataset['Floor'], bins=20, alpha=0.5, label='Floor', color='gray')
+            plt.xlabel('Floor')
+            plt.ylabel('Frequency')
+            plt.legend()
+
+
+            plt.subplot(3, 3, 6)
+            plt.hist(model_dataset['Land'], bins=20, alpha=0.5, label='Land', color='brown')
+            plt.xlabel('Land(Sq.Feet)')
+            plt.ylabel('Frequency')
+            plt.legend()
+
+
+            plt.subplot(3, 3, 7)
+            plt.hist(model_dataset['Road'], bins=20, alpha=0.5, label='Road', color='cyan')
+
+            # Add labels and legend
+            plt.xlabel('Road')
+            plt.ylabel('Frequency')
+            plt.legend()
+
+            # Adjust layout to prevent overlapping
+            plt.tight_layout()
+            plt.savefig("static/img/histogram.jpg")
+            plt.close()
+ 
+def pCorr():
+    corr = model_dataset.drop(columns={'Address','Face','City'}).corr(method="pearson")
+    svm = sns.heatmap(corr, annot=True, cmap="coolwarm", fmt='.1g')
+    figure = svm.get_figure()
+    figure.savefig('static/img/corr.png')
+    plt.close()    
+   
+#   <---- END OF DATA VISUALIZATION FUNCTIONS ---->
+
 def home(request):
     teamdata = team.objects.all()
     data={
         'teamdata':teamdata
     }
     return render(request, "index.html",data)
+
 
 def about(request):
     return render(request, "about.html")
@@ -140,3 +227,27 @@ def predict(request):
 
     return render(request, 'predict.html',{'context':context})
 
+
+def visualization(request):
+    if request.method == "POST":
+        option = request.POST.get("data_viz")
+        print(option)
+        if(option == "pricevsland"):
+            x = "Price"
+            y = "Land"
+            scatter(x,y)
+            img_dir = "../static/img/scatterPriceVsLand.jpg"
+
+
+        if(option == "histogram"):
+            histogram()
+            img_dir = "../static/img/histogram.jpg"
+
+        if(option == "pCorr"):
+            pCorr()
+            img_dir = "../static/img/corr.png"
+
+
+        return render(request,"visualization.html",{'img_dir':img_dir})
+        
+    return render(request,"visualization.html")

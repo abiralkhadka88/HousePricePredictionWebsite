@@ -20,6 +20,8 @@ from houseprice import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.home, name='index'),
+    path('visualization/', views.visualization, name='visualization'),
+
     path('about/', views.about, name='about'),
     path('service/', views.service, name='service'),
     path('feature/', views.feature, name='feature'),
