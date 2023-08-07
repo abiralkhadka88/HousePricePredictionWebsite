@@ -108,12 +108,14 @@
                                 </div>                                                            
                             </div>
                         </form>
+                        {% if price %}
                         <div class="col-12">
                             <div class="form-floating">
                                 <h4>Your Predicted House price is रू. {{price}}</h4>
 
                             </div>
                         </div>
+                        {% endif%}
                     </div>
                 </div>
             </div>
@@ -128,5 +130,9 @@
     <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-0 back-to-top"><i class="bi bi-arrow-up"></i></a>
 
 </body>
+
+
+
+
 
 </html>
