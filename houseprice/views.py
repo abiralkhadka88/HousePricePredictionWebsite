@@ -15,20 +15,52 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import LabelEncoder,OneHotEncoder
 from sklearn.compose import ColumnTransformer
 from pylab import savefig
+import plotly.express as px
+import plotly.graph_objects as go
 
-dataset = pd.read_csv("houseprice/sorted_latlong.csv")
+latlong = pd.read_csv("houseprice/latlong.csv")
 model_dataset = pd.read_csv("houseprice/latest1.csv")
 model_dataset.drop(model_dataset.columns[0], axis=1, inplace=True)
 
 #<----Data VISUALIZATION FUNCTIONS---->
 
-def scatter(x,y):
-            plt.scatter(model_dataset[x], model_dataset[y], color='r')
-            plt.xlabel('Price(Nrs.)')
-            plt.ylabel('Land(Sq.Feet)')
-            plt.title('Scatter plot between Price and Land')
-            plt.savefig("static/img/scatterPriceVsLand.jpg")
-            plt.close()
+def scatter():
+            fig = px.scatter(
+                model_dataset, x='Price', y='Land', opacity=0.65,
+                trendline_color_override='darkblue'
+            )
+            fig.write_html("static/html/scatterPriceVsLand.html")
+            
+
+def boxplot():
+    plt.figure(figsize=(12, 12))
+          
+    plt.subplot(3, 3, 1)
+    plt.boxplot(model_dataset['Price'])
+    plt.title("Boxplot for Price")
+    plt.xlabel('')
+    plt.ylabel('Price(Crores)')
+
+    plt.subplot(3, 3, 2)
+    plt.boxplot(model_dataset['Bedroom'])
+    plt.title("Boxplot for Bedroom")
+    plt.xlabel('')
+    plt.ylabel('No. of Bedrooms')
+
+    plt.subplot(3, 3, 3)
+    plt.boxplot(model_dataset['Bathroom'])
+    plt.title("Boxplot for Bathroom")
+    plt.xlabel('')
+    plt.ylabel('No. of Bathrooms')
+
+    plt.subplot(3, 3, 4)
+    plt.boxplot(model_dataset['Floor'])
+    plt.title("Boxplot for Floor")
+    plt.xlabel('')
+    plt.ylabel('No. of Floors')
+
+    plt.savefig("static/img/boxplot.jpg")
+    plt.close()
 
 def histogram():
             plt.figure(figsize=(12, 12))
@@ -95,7 +127,16 @@ def pCorr():
     svm = sns.heatmap(corr, annot=True, cmap="coolwarm", fmt='.1g')
     figure = svm.get_figure()
     figure.savefig('static/img/corr.png')
-    plt.close()    
+    plt.close()   
+
+def map():
+        fig = px.scatter_mapbox(latlong, lat="lat", lon="lng", hover_name="City", hover_data=["Address","Land", "Price"],
+                                color_discrete_sequence=["green"], zoom=5, height=600)
+
+        fig.update_layout(mapbox_style="open-street-map")
+        fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+        fig.write_html("static/html/openMap.html")
+
    
 #   <---- END OF DATA VISUALIZATION FUNCTIONS ---->
 
@@ -232,22 +273,31 @@ def visualization(request):
     if request.method == "POST":
         option = request.POST.get("data_viz")
         print(option)
+        img_dir = ""
+        html_dir  = ""
         if(option == "pricevsland"):
-            x = "Price"
-            y = "Land"
-            scatter(x,y)
-            img_dir = "../static/img/scatterPriceVsLand.jpg"
+            scatter()
+            html_dir = "../static/html/scatterPriceVsLand.html"
 
 
         if(option == "histogram"):
             histogram()
             img_dir = "../static/img/histogram.jpg"
+        
 
         if(option == "pCorr"):
             pCorr()
             img_dir = "../static/img/corr.png"
 
+        if(option == "boxplot"):
+             boxplot()
+             img_dir = "../static/img/boxplot.jpg"
+        
+        if(option == "map"):
+             map()
+             html_dir = "../static/html/openMap.html"
 
-        return render(request,"visualization.html",{'img_dir':img_dir})
+
+        return render(request,"visualization.html",{'img_dir':img_dir , 'html_dir':html_dir})
         
     return render(request,"visualization.html")
