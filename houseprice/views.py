@@ -275,28 +275,24 @@ def visualization(request):
         print(option)
         img_dir = ""
         html_dir  = ""
-        if(option == "pricevsland"):
-            scatter()
-            html_dir = "../static/html/scatterPriceVsLand.html"
-
-
-        if(option == "histogram"):
-            histogram()
-            img_dir = "../static/img/histogram.jpg"
-        
-
-        if(option == "pCorr"):
-            pCorr()
-            img_dir = "../static/img/corr.png"
-
-        if(option == "boxplot"):
-             boxplot()
-             img_dir = "../static/img/boxplot.jpg"
-        
-        if(option == "map"):
-             map()
-             html_dir = "../static/html/openMap.html"
-
+        match option:
+            case "pricevsland":
+                scatter()
+                html_dir = "../static/html/scatterPriceVsLand.html"
+            case "histogram":
+                histogram()
+                img_dir = "../static/img/histogram.jpg"
+            case "pCorr":
+                pCorr()
+                img_dir = "../static/img/corr.png"
+            case "boxplot":
+                boxplot()
+                img_dir = "../static/img/boxplot.jpg"
+            case "map":
+                map()
+                html_dir = "../static/html/openMap.html"            
+            case _:
+                print("Invalid option")
 
         return render(request,"visualization.html",{'img_dir':img_dir , 'html_dir':html_dir})
         
