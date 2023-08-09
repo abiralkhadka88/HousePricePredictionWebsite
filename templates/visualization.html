@@ -7,6 +7,7 @@
             margin: 0;
         }
     </style>
+
 </head>
 <body>
   
@@ -46,11 +47,11 @@
                                     <div class="form-floating">
                                         <select class="form-select" id="data_viz" name="data_viz" required>
                                             <option value="" disabled selected>Options</option>
-                                            <option value="pricevsland"">Price V/s Land</option>
+                                            <option  value="pricevsland"">Price V/s Land</option>
                                             <option value="boxplot" >Boxplot</option>
                                             <option value="histogram" >Histogram</option>
                                             <option value="pCorr" >Pearson's Correlation</option>
-
+                                            <option value = "map">OpenStreetMap</option>
 
                                         </select>
                                         <label for="data_viz">Data Visualization</label>
@@ -60,8 +61,11 @@
                                     </div>    
                                   
                                 </div> 
-                                <div>
+                                <div class="col-md-10">
                                     <img src="{{img_dir}}" alt="">
+                                    <div class="col-md-4">
+                                        <iframe src="{{html_dir}}" height="720" width="1024" frameborder="0"></iframe>
+                                    </div>
                                 </div>
                                 
                             </form>
