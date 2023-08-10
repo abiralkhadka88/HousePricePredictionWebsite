@@ -131,7 +131,7 @@ def pCorr():
 
 def map():
         fig = px.scatter_mapbox(latlong, lat="lat", lon="lng", hover_name="City", hover_data=["Address","Land", "Price"],
-                                color_discrete_sequence=["green"], zoom=5, height=600)
+                                color_discrete_sequence=["green"], zoom=6, height=600)
 
         fig.update_layout(mapbox_style="open-street-map")
         fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
