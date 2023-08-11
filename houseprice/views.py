@@ -10,6 +10,7 @@ import os
 from django.conf import settings
 import numpy as np
 import matplotlib
+import random
 matplotlib.use('agg')
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import LabelEncoder,OneHotEncoder
@@ -17,11 +18,19 @@ from sklearn.compose import ColumnTransformer
 from pylab import savefig
 import plotly.express as px
 import plotly.graph_objects as go
+import requests
+from bs4 import BeautifulSoup
 
 latlong = pd.read_csv("houseprice/latlong.csv")
 model_dataset = pd.read_csv("houseprice/latest1.csv")
 model_dataset.drop(model_dataset.columns[0], axis=1, inplace=True)
+recommendation_df = pd.read_csv("houseprice/dataset_nepalhomesClean.csv")
 
+
+
+            #  if recommendation_df[i,'price']lower_price_range and recommendation_df[i,'price'] <= upper_price_range:
+            #     print(recommendation_df.loc[i,'price'])
+        
 #<----Data VISUALIZATION FUNCTIONS---->
 
 def scatter():
@@ -29,6 +38,7 @@ def scatter():
                 model_dataset, x='Price', y='Land', opacity=0.65,
                 trendline_color_override='darkblue'
             )
+            
             fig.write_html("static/html/scatterPriceVsLand.html")
             
 
@@ -140,6 +150,61 @@ def map():
    
 #   <---- END OF DATA VISUALIZATION FUNCTIONS ---->
 
+#   Retrieve url function
+def getURL(dataset,address,price):
+     url = []
+     df_to_search = dataset
+     search_address = address
+     search_price = price
+     lower_price_range = (float(search_price)-(float(search_price)*.1175))
+     upper_price_range = (float(search_price)+(float(search_price)*.1175))
+     index=[]
+     img = []
+     title = []
+     price = []
+
+     for i, x in enumerate(df_to_search['price']):
+          if x >=lower_price_range and x <= upper_price_range :
+               index.append(i)
+               
+     for i in index:
+        location = df_to_search.loc[i, 'location']
+        if search_address in location:
+             url.append(df_to_search.loc[i,'url'])
+     if len(url)>10:
+        url  = random.sample(url,10)
+
+     for x in url:
+        response  = requests.get(x)
+        soup = BeautifulSoup(response.content,"html.parser")
+        image_element = soup.find("img", class_="image-gallery-image")
+        title_element  = soup.find("h1",class_="title")
+        if image_element:
+         image_url = image_element["src"]
+        else:
+         image_url = None
+        img.append(image_url)
+        if title_element:
+         title.append(title_element.get_text())
+        else:
+         title.append(None)
+        
+
+        
+
+     combined_data = list(zip(url, img,title))
+
+     context = {
+        "combined_data": combined_data,
+    }
+     print(context)
+     return context
+          
+     
+
+
+# End of retrieving url
+
 def home(request):
     teamdata = team.objects.all()
     data={
@@ -166,8 +231,6 @@ def predict(request):
     pipe = pickle.load(open("houseprice/best_rf_model.pkl", "rb"))
     addresses = sorted(model_dataset['Address'].unique())
     faces = sorted(model_dataset['Face'].unique())
-    
-    
     context = {'addresses': addresses, 'faces': faces}
     if request.method == 'POST':
         # Get the form data
@@ -179,12 +242,12 @@ def predict(request):
         bathroom = int(request.POST.get('bath'))
         face = request.POST.get('face')
         address = request.POST.get('address')
-
-
         input_data = pd.DataFrame([[floor, bathroom, bed, land, road, address, face]], columns=['Floor', 'Bathroom', 'Bedroom', 'Land', 'Road', 'Address', 'Face'])
         prediction_price = pipe.predict(input_data)[0]
-    
-
+        img=[]
+        #Collecting links for recommendation
+        recommendation = getURL(dataset=recommendation_df,address=address,price=prediction_price)
+       
         
         # Prepare the features for prediction
 
@@ -263,8 +326,7 @@ def predict(request):
 #         # Make the prediction
 #         price = model.predict(new_data_encoded_df)
 
-  
-        return render(request, 'predict.html',{'price': prediction_price,'context':context})
+        return render(request, 'predict.html',{'price': prediction_price,'recommendation':recommendation,'context':context})
 
     return render(request, 'predict.html',{'context':context})
 
@@ -272,7 +334,6 @@ def predict(request):
 def visualization(request):
     if request.method == "POST":
         option = request.POST.get("data_viz")
-        print(option)
         img_dir = ""
         html_dir  = ""
         match option:

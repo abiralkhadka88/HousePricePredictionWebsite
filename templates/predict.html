@@ -1,10 +1,16 @@
 <head>
     <style>
+           .card-container {
+        margin-bottom: 100px; /* Add space between rows */
+    }
         input[type="number"]::-webkit-inner-spin-button,
         input[type="number"]::-webkit-outer-spin-button {
             -webkit-appearance: none;
             margin: 0;
         }
+        
+ 
+
     </style>
 </head>
 <body>
@@ -120,11 +126,44 @@
             </div>
         </div>
     </div>
-
-    <div>
-        <div class="flourish-embed flourish-table" data-src="visualisation/14646240"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+    <p style = "margin-left: 100px;">
+        <h2 style="margin-left: 100px;">
+            Recommended houses for your predicted price:
+        </h2>
+    </p>
+    <div class="container">
+      {% if recommendation.combined_data %}  
+        {% for url, image,title in recommendation.combined_data %}
+        {% if image is not none and title is not none %}
+             
+        {% if forloop.counter0|divisibleby:3 %}
+        <div class="row card-container">
+         {% endif %}
+                <div class="col">
+                    <div class="card" style="width: 18rem;">
+                        <img src="{{ image }}" class="card-img-top" alt="..." width="500" height="300">
+                        <h5 class="card-title">{{ title }}</h5>
+                        <p class="card-text"></p>
+                        <a target="_blank" href="{{ url }}" class="btn btn-primary">Click for more details</a>
+                    </div>
+                </div>
+                {% if forloop.counter|divisibleby:3 or forloop.last %}
+            </div>
+        {% endif %}
+            {% endif %}
+        
+            {% endfor %}
+        {% else %}
+            <p>No data available.</p>
+        {% endif %}
+        </div>
     </div>
-
+    
+    
+    
+    
+    
+    
     {% include "footer.html"%}
 
     <!-- Back to Top -->
