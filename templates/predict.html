@@ -26,27 +26,27 @@
     {% include "header.html"%}
 
     <!-- Page Header Start -->
-    <div class="container-fluid page-header py-5" style="margin-bottom: 6rem;">
+    <div class="container-fluid page-header py-5" style="margin-bottom: 3rem;">
         <div class="container py-5">
-            <h1 class="display-3 text-white mb-3 animated slideInDown">Predict</h1>
+            <h1 class="display-3 text-white-new mb-3 animated slideInDown" ><a href="#prediction_form" class="display-3 text-white-new mb-3 animated slideInDown" ><p  style="color: #BEB7A4;">Make your  <span class="text-primary"> Prediction Now</span> </p></a></h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a class="text-white" href="/">Home</a></li>
-                    <li class="breadcrumb-item text-white active" aria-current="page">Predict</li>
+                    <li class="breadcrumb-item"><a class="text-white-new" href="/">Home</a></li>
+                    <li class="breadcrumb-item text-primary active" aria-current="page">Predict</li>
                 </ol>
             </nav>
         </div>
     </div>
     <!-- Page Header End -->
 
-    <div class="container-fluid overflow-hidden py-5 px-lg-0">
-        <div class="container contact-page py-5 px-lg-0">
-            <div class="row g-5 mx-lg-0">
+    <div class="container-fluid overflow-hidden py-5 px-lg-0" id="prediction_form">
+        <div class="container contact-page py-5 px-lg-0" >
+            <div class="row g-5 mx-lg-0" >
                 <div class="col-md-10 contact-form wow fadeIn" data-wow-delay="0.1s">
-                    <h6 class="text-secondary text-uppercase">Predict Your Price</h6>
-                    <h1 class="mb-4">House Price Prediction</h1>
-                    <p class="mb-4">Enter the details of your house below to predict the approximate pricing of you house.</p>
-                    <div class="bg-light p-4">
+                    <h6 class="text-secondary text-uppercase" >Predict Your Price</h6>
+                    <h1 class="mb-4" >House Price Prediction</h1>
+                    <p class="text-dark mb-4">Enter the details of your house below to predict the approximate pricing of you house.</p>
+                    <div class="bg-light shadow p-4">
                         <form method="POST">
                             {% csrf_token %}
                             <div class="row g-4">
@@ -111,7 +111,7 @@
                                     </div>
                                 </div> 
                                 <div class="col-12">
-                                    <button class="btn btn-primary w-100 py-3" type="submit">Predict</button>
+                                    <button class="btn btn-primary w-100 py-3" type="submit" style="background-color: #2F323A;">Predict</button>
                                 </div>                                                            
                             </div>
                         </form>
@@ -152,6 +152,7 @@
                 {% if forloop.counter|divisibleby:3 or forloop.last %}
             </div>
         {% endif %}
+        
             {% endif %}
         
             {% endfor %}
