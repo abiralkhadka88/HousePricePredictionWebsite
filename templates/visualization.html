@@ -1,3 +1,91 @@
+<<<<<<< HEAD
+<html>
+<head>
+    <style>
+        input[type="number"]::-webkit-inner-spin-button,
+        input[type="number"]::-webkit-outer-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+  
+    <!-- Spinner Start -->
+    <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner-grow text-primary" style="width: 3rem; height: 3rem;" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+    </div>
+    <!-- Spinner End -->
+
+    {% include "header.html"%}
+        <!-- Page Header Start -->
+        <div class="container-fluid page-header py-5" style="margin-bottom: 6rem;">
+            <div class="container py-5">
+                <h1 class="display-3 text-white mb-3 animated slideInDown">Data Visualization</h1>
+                <nav aria-label="breadcrumb animated slideInDown">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a class="text-white" href="/">Home</a></li>
+                        <li class="breadcrumb-item text-white active" aria-current="page">Data Visualization</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+        <!-- Page Header End -->
+
+        <div class="container-fluid overflow-hidden py-5 px-lg-0">
+            <div class="container contact-page py-5 px-lg-0">
+                <div class="row g-5 mx-lg-0">
+                    <div class="col-md-10 contact-form wow fadeIn" data-wow-delay="0.1s">
+                        <h6 class="text-secondary text-uppercase">Select any dropdown</h6>
+                        <p class="mb-4">Choose any dropdown options to visualize our data set.</p>
+                        <div class="bg-light p-4">
+                            <form method="POST">
+                                {% csrf_token %}
+                                <div class="col-6">
+                                    <div class="form-floating">
+                                        <select class="form-select" id="data_viz" name="data_viz" required>
+                                            <option value="" disabled selected>Options</option>
+                                            <option value="pricevsland"">Price V/s Land</option>
+                                            <option value="boxplot" >Boxplot</option>
+                                            <option value="histogram" >Histogram</option>
+                                            <option value="pCorr" >Pearson's Correlation</option>
+
+
+                                        </select>
+                                        <label for="data_viz">Data Visualization</label>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <button class="btn btn-primary w-100 py-3" type="submit">Visualize</button>
+                                    </div>    
+                                  
+                                </div> 
+                                <div>
+                                    <img src="{{img_dir}}" alt="">
+                                </div>
+                                
+                            </form>
+
+                            <div class="col-md-4">
+                                {{plot}}
+                            </div>  
+                       
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+
+    {% include "footer.html"%}
+
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-0 back-to-top"><i class="bi bi-arrow-up"></i></a>
+
+</body>
+
+=======
 <html>
 <head>
     <style>
@@ -88,4 +176,5 @@
 
 </body>
 
+>>>>>>> main
 </html>
