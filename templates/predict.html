@@ -1,13 +1,20 @@
 <head>
     <style>
+           .card-container {
+        margin-bottom: 100px; /* Add space between rows */
+    }
         input[type="number"]::-webkit-inner-spin-button,
         input[type="number"]::-webkit-outer-spin-button {
             -webkit-appearance: none;
             margin: 0;
         }
+        
+ 
+
     </style>
 </head>
 <body>
+  
     <!-- Spinner Start -->
     <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-grow text-primary" style="width: 3rem; height: 3rem;" role="status">
@@ -84,7 +91,7 @@
                                     <div class="form-floating">
                                         <select class="form-select" id="face" name="face" required>
                                             <option value="" disabled selected>Choose a facing</option>
-                                            {% for face in faces %}
+                                            {% for face in context.faces %}
                                                 <option value="{{ face }}">{{ face }}</option>
                                             {% endfor %}
                                         </select>
@@ -96,7 +103,7 @@
                                     <div class="form-floating">
                                         <select class="form-select" id="address" name="address" required>
                                             <option value="" disabled selected>Choose a Address</option>
-                                            {% for address in addresses %}
+                                            {% for address in context.addresses %}
                                                 <option value="{{ address }}">{{ address }}</option>
                                             {% endfor %}
                                         </select>
@@ -121,9 +128,44 @@
             </div>
         </div>
     </div>
-
-
-
+    <p style = "margin-left: 100px;">
+        <h2 style="margin-left: 100px;">
+            Recommended houses for your predicted price:
+        </h2>
+    </p>
+    <div class="container">
+      {% if recommendation.combined_data %}  
+        {% for url, image,title in recommendation.combined_data %}
+        {% if image is not none and title is not none %}
+             
+        {% if forloop.counter0|divisibleby:3 %}
+        <div class="row card-container">
+         {% endif %}
+                <div class="col">
+                    <div class="card" style="width: 18rem;">
+                        <img src="{{ image }}" class="card-img-top" alt="..." width="500" height="300">
+                        <h5 class="card-title">{{ title }}</h5>
+                        <p class="card-text"></p>
+                        <a target="_blank" href="{{ url }}" class="btn btn-primary">Click for more details</a>
+                    </div>
+                </div>
+                {% if forloop.counter|divisibleby:3 or forloop.last %}
+            </div>
+        {% endif %}
+            {% endif %}
+        
+            {% endfor %}
+        {% else %}
+            <p>No data available.</p>
+        {% endif %}
+        </div>
+    </div>
+    
+    
+    
+    
+    
+    
     {% include "footer.html"%}
 
     <!-- Back to Top -->
