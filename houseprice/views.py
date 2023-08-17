@@ -193,6 +193,8 @@ def getURL(dataset,address,price):
         
 
      combined_data = list(zip(url, img,title))
+     if all(item is None for item in combined_data):
+        combined_data = None
 
      context = {
         "combined_data": combined_data,
