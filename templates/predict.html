@@ -128,12 +128,12 @@
             </div>
         </div>
     </div>
-    <p style = "margin-left: 100px;">
+    <!-- <p style = "margin-left: 100px;">
         <h2 style="margin-left: 100px;">
             Recommended houses for your predicted price:
         </h2>
-    </p>
-    <div class="container">
+    </p> -->
+    <!-- <div class="container">
       {% if recommendation.combined_data %}  
         {% for url, image,title in recommendation.combined_data %}
         {% if image is not none and title is not none %}
@@ -158,11 +158,70 @@
             {% endfor %}
         {% else %}
             <p>No data available.</p>
-        {% endif %}
+        {% endif %} -->
         </div>
     </div>
     
+    <script>
+        document.addEventListener('DOMContentLoaded', function () 
+        {
+            const landInput = document.getElementById('land');
+            const floorInput=document.getElementById('floor');
+            const roadInput=document.getElementById('road');
+            const bedroomInput=document.getElementById('bed');
+            const bathroomInput=document.getElementById('bath');
     
+            landInput.addEventListener('input', function () 
+            {
+                
+                this.value = this.value.replace(/[^0-9.]/g, '');
+    
+               
+                const decimalCount = (this.value.match(/\./g) || []).length;
+                if (decimalCount > 1) 
+                {
+                    this.value = this.value.replace(/\.+$/, '');
+                }
+            }
+            );
+            
+           roadInput.addEventListener('input',function()
+           {
+            this.value = this.value.replace(/[^0-9.]/g, '');
+    
+               
+                const decimalCount = (this.value.match(/\./g) || []).length;
+                if (decimalCount > 1) 
+                {
+                    this.value = this.value.replace(/\.+$/, '');
+                }
+            });
+
+            floorInput.addEventListener('input',function()
+           {
+            this.value = this.value.replace(/[^0-9.]/g, '');
+    
+               
+                const decimalCount = (this.value.match(/\./g) || []).length;
+                if (decimalCount > 1) 
+                {
+                    this.value = this.value.replace(/\.+$/, '');
+                }
+            });
+            bedroomInput.addEventListener('input',function()
+           {
+            this.value = this.value.replace(/[^0-9]/g, '');
+          
+            });
+            bathroomInput.addEventListener('input',function()
+           {
+            this.value = this.value.replace(/[^0-9]/g, '');
+          
+            });
+            
+        });
+        
+    </script>
     
     
     

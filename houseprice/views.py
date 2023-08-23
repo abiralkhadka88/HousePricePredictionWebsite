@@ -326,7 +326,18 @@ def predict(request):
 #         # Make the prediction
 #         price = model.predict(new_data_encoded_df)
 
-        return render(request, 'predict.html',{'price': prediction_price,'recommendation':recommendation,'context':context})
+        data = {
+            'land': land,
+            'floor': floor,
+            'road': road,
+            'bed' : bed,
+            'bath' : bathroom,
+            'face' : face,
+            'address' : address,
+            'price' : prediction_price
+        }
+
+        return render(request, 'prediction.html',{'data' : data, 'recommendation': recommendation})
 
     return render(request, 'predict.html',{'context':context})
 

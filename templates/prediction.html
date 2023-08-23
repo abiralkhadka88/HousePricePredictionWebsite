@@ -1,0 +1,182 @@
+{%include "header.html"%}
+<style>
+           .card-container {
+        margin-bottom: 100px; /* Add space between rows */
+    }
+        input[type="number"]::-webkit-inner-spin-button,
+        input[type="number"]::-webkit-outer-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+</style>
+<div class="owl-carousel-item position-relative">
+    <div class="container-fluid page-header py-5" style="margin-bottom: 3rem;">
+        <div class="container mt-4">
+            <div class="row">
+              <div class="col-md-8 mx-auto">
+                <table class="table bg-transparent rounded border">
+                  <h1 style="color: white;"><p  style="color: #BEB7A4;">Your  <span class="text-primary"> House Details</span> </p></h1>
+                  <thead>
+                    <tr>
+                      <th scope="col" style="color: white;">S no.</th>
+                      <th scope="col" style="color: white;">Labels</th>
+                      <th scope="col" style="color: white;">Your House Data</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                                <tbody>
+                    <tr>
+                      <th scope="row" style="color: white;">1</th>
+                      <td style="color: white;">Land Size</td>
+                      <td style="color: white;">{{data.land}} Square feet</td>
+                    </tr>
+                    <tr>
+                      <th scope="row" style="color: white;">2</th>
+                      <td style="color: white;">Number of floors</td>
+                      <td style="color: white;">{{data.floor}}</td>
+                    </tr>
+                    <tr>
+                      <th scope="row" style="color: white;">3</th>
+                      <td style="color: white;">Road Access</td>
+                      <td style="color: white;">{{data.road}} feet</td>
+                    </tr>
+                    <tr>
+                      <th scope="row" style="color: white;">4</th>
+                      <td style="color: white;">Number of bedroom</td>
+                      <td style="color: white;">{{data.bed}}</td>
+                    </tr>
+                    <tr>
+                      <th scope="row" style="color: white;">5</th>
+                      <td style="color: white;">Number of bathroom</td>
+                      <td style="color: white;">{{data.bath}}</td>
+                    </tr>
+                    <tr>
+                      <th scope="row" style="color: white;">6</th>
+                      <td style="color: white;">Facing</td>
+                      <td style="color: white;">{{data.face}}</td>
+                    </tr>
+                    <tr>
+                      <th scope="row" style="color: white;">7</th>
+                      <td style="color: white;">Address</td>
+                      <td style="color: white;">{{data.address}}</td>
+                    </tr>
+                  </tbody>
+                  </tbody>
+                </table>
+                <h3  style="color: white;">Your Predicted Price is <span class="text-primary">NRs {{data.price}}</span> </h3>
+                <h6 style="color: white;">Go back and predict more?</h6>
+                <a href="/predict"
+                  ><button class="btn btn-primary w-50 py-3" type="submit">
+                    Predict More
+                  </button></a
+                >
+              </div>
+            </div>
+          </div>
+        
+    </div>
+  <div
+    class="top-0 start-0 w-100 h-100 d-flex align-items-center"
+    style="background: rgba(6, 3, 21, 0.5)"
+  >
+    <!-- <div class="container mt-5">
+      <div class="row">
+        <div class="col-md-8 mx-auto">
+          <table class="table bg-transparent rounded border">
+            <h1 style="color: white;"><u>Your House Details</u></h1>
+            <thead>
+              <tr>
+                <th scope="col" style="color: white;">S no.</th>
+                <th scope="col" style="color: white;">Labels</th>
+                <th scope="col" style="color: white;">Your House Data</th>
+              </tr>
+            </thead>
+            <tbody>
+                          <tbody>
+              <tr>
+                <th scope="row" style="color: white;">1</th>
+                <td style="color: white;">Land Size</td>
+                <td style="color: white;">{{data.land}} Square feet</td>
+              </tr>
+              <tr>
+                <th scope="row" style="color: white;">2</th>
+                <td style="color: white;">Number of floors</td>
+                <td style="color: white;">{{data.floor}}</td>
+              </tr>
+              <tr>
+                <th scope="row" style="color: white;">3</th>
+                <td style="color: white;">Road Access</td>
+                <td style="color: white;">{{data.road}} feet</td>
+              </tr>
+              <tr>
+                <th scope="row" style="color: white;">4</th>
+                <td style="color: white;">Number of bedroom</td>
+                <td style="color: white;">{{data.bed}}</td>
+              </tr>
+              <tr>
+                <th scope="row" style="color: white;">5</th>
+                <td style="color: white;">Number of bathroom</td>
+                <td style="color: white;">{{data.bath}}</td>
+              </tr>
+              <tr>
+                <th scope="row" style="color: white;">6</th>
+                <td style="color: white;">Facing</td>
+                <td style="color: white;">{{data.face}}</td>
+              </tr>
+              <tr>
+                <th scope="row" style="color: white;">7</th>
+                <td style="color: white;">Address</td>
+                <td style="color: white;">{{data.address}}</td>
+              </tr>
+            </tbody>
+            </tbody>
+          </table>
+          <h3 style="color: white;">Your Predicted Price is NRs {{data.price}}</h3>
+          <h3 style="color: white;">Go back and predict more?</h3>
+          <a href="/predict"
+            ><button class="btn btn-primary w-50 py-3" type="submit">
+              Predict More
+            </button></a
+          >
+        </div>
+      </div>
+    </div> -->
+  </div>
+</div>
+
+<p style = "margin-left: 100px;">
+        <h2 style="margin-left: 100px;">
+            Recommended houses for your predicted price:
+        </h2>
+    </p>
+    <div class="container">
+      {% if recommendation.combined_data %}  
+        {% for url, image,title in recommendation.combined_data %}
+        {% if image is not none and title is not none %}
+             
+        {% if forloop.counter0|divisibleby:3 %}
+        
+        <div class="row card-container">
+         {% endif %}
+         
+                <div class="col">
+                    <div class="card" style="width: 18rem;">
+                        <img src="{{ image }}" class="card-img-top" alt="..." width="500" height="300">
+                        <h5 class="card-title">{{ title }}</h5>
+                        <p class="card-text"></p>
+                        <a target="_blank" href="{{ url }}" class="btn btn-primary">Click for more details</a>
+                    </div>
+                </div>
+                {% if forloop.counter|divisibleby:3 or forloop.last %}
+            </div>
+        {% endif %}
+            {% endif %}
+        
+            {% endfor %}
+        {% else %}
+            <p>No data available.</p>
+        {% endif %}
+        </div>
+    </div>
+
+{%include "footer.html"%}
